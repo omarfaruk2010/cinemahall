@@ -15,8 +15,18 @@
   },
   {
     "title": "Red One",
-    "posters": [ "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJVyFWvCeiTaSdbsePL3fwFatsHnyKMXoCYcMMEPrEyexRRgGoDs6sX8YQbOZP7tf1ngnh1yHlQL4ynhsDEjdnnnURV9sE9jSCbD2gdO9WCbEbqKK8MetmZH6EMbTo8LhXka_5-VHF1BgWKDwejPCV4XUH2p4llKT1xDgrZnYZLQQJCT-WLLUrIYZedQ/w640-h360/017-Red%20One%20%F0%9F%8E%A5.jpg"
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJVyFWvCeiTaSdbsePL3fwFatsHnyKMXoCYcMMEPrEyexRRgGoDs6sX8YQbOZP7tf1ngnh1yHlQL4ynhsDEjdnnnURV9sE9jSCbD2gdO9WCbEbqKK8MetmZH6EMbTo8LhXka_5-VHF1BgWKDwejPCV4XUH2p4llKT1xDgrZnYZLQQJCT-WLLUrIYZedQ/w640-h360/017-Red%20One%20%F0%9F%8E%A5.jpg"
     ],
-    "link": "https://cinemahall1992.blogspot.com/2025/02/2024-red-one_14.html"
+    "link1": "https://cinemahall1992.blogspot.com/2025/02/2024-red-one_14.html",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/2024-red-one_14.html"
+  },
+  {
+    "title": "2023 🎬 Vijay Raghavan Full Movie 🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrZ85w2TumX1EJrAypbNlxZaco5jmDzwATj5v5g1nTdf0DHpJEYj25B8DmwKNcznfrDOM20tzdR_P7kG9Jb3v2APU8o_s4bTyYAh3alu71VI565MrPZtvuJWskOPbbMgW3MYelLuP1-zypEpvgrBs_DFiNn2WBLg6e-BYkgvWxathmOoIyjX2mpWJrvw/w640-h360/235-2023%20%F0%9F%8E%AC%20Vijay%20Raghavan%20Full%20Movie%20%F0%9F%8E%A5.jpg"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=Ro1ZF8iIBblo2BD4vG1BIA",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/2023-vijay-raghavan-full-movie.html"
   }
 ]
