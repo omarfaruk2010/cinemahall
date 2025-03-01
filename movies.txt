@@ -12,5 +12,11 @@
       "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivdJZGWumdbkJfXkP2yx8k0l2e4j7wDEQ5WWLvwL2xvVmxTDk04vrc-j5flpw6DolB8NVmJoPq2UNP-KTDLLCKJUCdxcKvRff4VGvlkzZmSk9Cj168G_1GwPV3PaG_65ZnmToHoTAPXkDPp7WW-iVV2fcZdkOIQT5NJNk4XfB9qP1P4GedPppWetistg/w640-h480/078.jpg"
     ],
     "link": "https://cinemahall1992.blogspot.com/2025/02/2025-game-changer_26.html"
+  },
+  {
+    "title": "Red One",
+    "posters": [ "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJVyFWvCeiTaSdbsePL3fwFatsHnyKMXoCYcMMEPrEyexRRgGoDs6sX8YQbOZP7tf1ngnh1yHlQL4ynhsDEjdnnnURV9sE9jSCbD2gdO9WCbEbqKK8MetmZH6EMbTo8LhXka_5-VHF1BgWKDwejPCV4XUH2p4llKT1xDgrZnYZLQQJCT-WLLUrIYZedQ/w640-h360/017-Red%20One%20%F0%9F%8E%A5.jpg"
+    ],
+    "link": "https://cinemahall1992.blogspot.com/2025/02/2024-red-one_14.html"
   }
 ]
