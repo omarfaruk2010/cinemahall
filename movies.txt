@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Good doctor S01",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9fxnNOk9W6KxQ0opeu2dYx7kfw782mSKajgwvN_UBfkGLtNzs2xOREufzqxoaWntxz6wn-wbTGzZvhV1BrkJn9YzM32_5vFULmyenAn4QD9sQlvpzwzfOavFi1oD4NyIagbMY_LteOLaPT824DJN6BZQX_kbFAAG0L1YZGJcbEVEG44G2aV_A45OjfQ/w640-h360/226-Good%20Doctor%202025%20-S01E21-30.jpg"
+    ],
+    "link": "https://cinemahall1992.blogspot.com/2025/02/227-2025-good-doctor-s01-e31-35.html"
+  },
+  {
+    "title": "Game changer 26",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivdJZGWumdbkJfXkP2yx8k0l2e4j7wDEQ5WWLvwL2xvVmxTDk04vrc-j5flpw6DolB8NVmJoPq2UNP-KTDLLCKJUCdxcKvRff4VGvlkzZmSk9Cj168G_1GwPV3PaG_65ZnmToHoTAPXkDPp7WW-iVV2fcZdkOIQT5NJNk4XfB9qP1P4GedPppWetistg/w640-h480/078.jpg"
+    ],
+    "link": "https://cinemahall1992.blogspot.com/2025/02/2025-game-changer_26.html"
+  }
+]
