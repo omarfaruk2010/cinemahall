@@ -1,32 +1,34 @@
 [
-  {
-    "title": "Good doctor S01",
-    "posters": [
-      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9fxnNOk9W6KxQ0opeu2dYx7kfw782mSKajgwvN_UBfkGLtNzs2xOREufzqxoaWntxz6wn-wbTGzZvhV1BrkJn9YzM32_5vFULmyenAn4QD9sQlvpzwzfOavFi1oD4NyIagbMY_LteOLaPT824DJN6BZQX_kbFAAG0L1YZGJcbEVEG44G2aV_A45OjfQ/w640-h360/226-Good%20Doctor%202025%20-S01E21-30.jpg"
-    ],
-    "link": "https://cinemahall1992.blogspot.com/2025/02/227-2025-good-doctor-s01-e31-35.html"
-  },
-  {
-    "title": "Game changer 26",
-    "posters": [
-      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivdJZGWumdbkJfXkP2yx8k0l2e4j7wDEQ5WWLvwL2xvVmxTDk04vrc-j5flpw6DolB8NVmJoPq2UNP-KTDLLCKJUCdxcKvRff4VGvlkzZmSk9Cj168G_1GwPV3PaG_65ZnmToHoTAPXkDPp7WW-iVV2fcZdkOIQT5NJNk4XfB9qP1P4GedPppWetistg/w640-h480/078.jpg"
-    ],
-    "link": "https://cinemahall1992.blogspot.com/2025/02/2025-game-changer_26.html"
-  },
-  {
-    "title": "Red One",
-    "posters": [
-      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJVyFWvCeiTaSdbsePL3fwFatsHnyKMXoCYcMMEPrEyexRRgGoDs6sX8YQbOZP7tf1ngnh1yHlQL4ynhsDEjdnnnURV9sE9jSCbD2gdO9WCbEbqKK8MetmZH6EMbTo8LhXka_5-VHF1BgWKDwejPCV4XUH2p4llKT1xDgrZnYZLQQJCT-WLLUrIYZedQ/w640-h360/017-Red%20One%20%F0%9F%8E%A5.jpg"
-    ],
-    "link1": "https://cinemahall1992.blogspot.com/2025/02/2024-red-one_14.html",
-    "link2": "https://cinemahall1992.blogspot.com/2025/02/2024-red-one_14.html"
-  },
-  {
-    "title": "2023 🎬 Vijay Raghavan Full Movie 🎥",
-    "posters": [
-      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrZ85w2TumX1EJrAypbNlxZaco5jmDzwATj5v5g1nTdf0DHpJEYj25B8DmwKNcznfrDOM20tzdR_P7kG9Jb3v2APU8o_s4bTyYAh3alu71VI565MrPZtvuJWskOPbbMgW3MYelLuP1-zypEpvgrBs_DFiNn2WBLg6e-BYkgvWxathmOoIyjX2mpWJrvw/w640-h360/235-2023%20%F0%9F%8E%AC%20Vijay%20Raghavan%20Full%20Movie%20%F0%9F%8E%A5.jpg"
-    ],
-    "link1": "https://pay4fans.com/videoShare?surl=Ro1ZF8iIBblo2BD4vG1BIA",
-    "link2": "https://cinemahall1992.blogspot.com/2025/02/2023-vijay-raghavan-full-movie.html"
-  }
+    {
+        "title": "2023 🎬 Ghost  🎥",
+        "posters": [
+            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjumGxYn1xyU-yP5ej6iSpCF1PyHYqVbcNvvbfKK_-MRQ07YEPrK_KFLl3jhxAc58cV5Ir-NvE2J2mZote5s62N2ALIRfjh1TpRFBFm54cjfljZkuWni_j2lraqdF-e8gN_nCFhQwpYW1dJMeTLyNtODtUokh4636a_Vyc4eQoYr3MP2-HjOrOGpOKcDg/w640-h640/223-photo_2025-02-13_14-20-35.jpg=w635-h635-p-k-no-nu"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=Djdd57xWceEBvFerORVy2g",
+        "link2": "https://cinemahall1992.blogspot.com/2025/02/2023-ghost.html"
+    },
+    {
+        "title": "2023 🎬 Ganapath  🎥",
+        "posters": [
+            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJid5M0dKdpqM6VY8QMhLgl70xAh7OyG893UKPV3p-dZK_avscN8KprxarRyX-L4qzLLw92-dIRfkvaVUVO9wwhWfR552I6ZJyc4JZSLRHgTrpM4NPHmsD4i0HPAjQUGvfoTPaZGwvLcQ4rdwraJQqcCi4oLPxebBpM5CvnR7h0V47UvRyCi0fQoNHyw/w640-h480/222-photo_2023-10-25_01-36-29.jpg=w635-h476-p-k-no-nu"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=cdOoxwZbLfKHmmH7Z1cFvg",
+        "link2": "https://cinemahall1992.blogspot.com/2025/02/2023-ganapath.html"
+    },
+    {
+        "title": "2022 🎬 Pett Kata Shaw -S01 🎥",
+        "posters": [
+            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjznRKdhO2UfUQseIVvoWIn6LzJ0IcVmuhTCwHUEPnRwhBu3pbc8ELGD2acyS8goBgVX5wI8Oha7mgNHwV39WlGpGQRq8IYjY3VCJzfyCfGQm2S6DmKfoNVEtbys_PQ1YVd5PYDsYhQohm0mnFvmT_hdwH46Nh_iD3qR08gRqCtkJhm4O13R3_8V39xqQ/s320/228-Pett%20Kata%20Shaw%20(2022)%20-S01.jpg=w282-h352-p-k-no-nu"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=41mMYoVbb_N1mwuVjIx3kA",
+        "link2": "https://cinemahall1992.blogspot.com/2025/02/2022-pett-kata-shaw-s01.html"
+    },
+    {
+        "title": "2023 🎬 Vijay Raghavan Full Movie 🎥",
+        "posters": [
+            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrZ85w2TumX1EJrAypbNlxZaco5jmDzwATj5v5g1nTdf0DHpJEYj25B8DmwKNcznfrDOM20tzdR_P7kG9Jb3v2APU8o_s4bTyYAh3alu71VI565MrPZtvuJWskOPbbMgW3MYelLuP1-zypEpvgrBs_DFiNn2WBLg6e-BYkgvWxathmOoIyjX2mpWJrvw/w640-h360/235-2023%20%F0%9F%8E%AC%20Vijay%20Raghavan%20Full%20Movie%20%F0%9F%8E%A5.jpg=w635-h358-p-k-no-nu"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=Ro1ZF8iIBblo2BD4vG1BIA",
+        "link2": "https://cinemahall1992.blogspot.com/2025/02/2023-vijay-raghavan-full-movie.html"
+    }
 ]
