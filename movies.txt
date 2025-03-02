@@ -1,5 +1,85 @@
 [
     {
+        "title": "2014 🎬 10.Captain America  The Winter Soldier  🎥",
+        "posters": [
+            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjn7gK5Gv_S25i4sEPM5EeCE-rkOfcXCyqdXD_K-72CbYO5CsjAWkSrW1m4-7aee-M1wEgoyXyJevm43bUMTM71-HEBQTjs8fnyDLp_SoJdVuiUKSDnq5eSe32ZwwUMHg2z7JW8zMr754rz2U5hN1lAbwo9m-Mjg64jVV5UazeLXVp9QP7vfftnG3bglg/w640-h400/167-10.Captain%20America%20%20The%20Winter%20Soldier%20(2014)%20%20BluRay%20x264%20%5BDual-Audio%5D.jpg=w409-h256-p-k-no-nu"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=AnVm5uYrS3oue84vkXxOyg",
+        "link2": "https://cinemahall1992.blogspot.com/2025/02/2014-10captain-america-winter-soldier.html"
+    },
+    {
+        "title": "2013 🎬 09.Thor The Dark World  🎥",
+        "posters": [
+            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVgeZo_iXYPxNgOqVHep-aNuNQwVDHSHiHKfNP0GnMrms_HNJySfqnO5OpWl6UuyTQrrkpjRBrJspMnCWFjLrO8TACIgdOtL6zsgqxTlbJ_N1nYLEV30xvAzyuCseUeO3m5cSyq3yXahBd1Qc8iXl-QlbVIJBNsxj6aIkKWwdEdZXPS3iarZaB5nJb9w/w640-h640/166-09.Thor%20The%20Dark%20World%202013%20BluRay%20%20Dual%20Audio.jpg=w409-h409-p-k-no-nu"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=ixfApGWnAVFHfLZ2rMl9Kw",
+        "link2": "https://cinemahall1992.blogspot.com/2025/02/2013-09thor-dark-world.html"
+    },
+    {
+        "title": "2013 🎬 08.Iron Man 3  🎥",
+        "posters": [
+            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_KLBZDiNxqEJ6_0hYMM-ZD6tJTHo8i0FHNyOoCrI4qXsBQixGfvzzzGDalT2DB29zR0Qs5E5KpTRH-vXrZ-Tk5r126HsESIdgvUBtNo70Osc2TRYpKUmUFaxS82c8jnty4s_lQVRIiEP0S3WTowriGQ9qm3EElEYfAGEqEXfeSQMjuTvQiqPbsix-cw/w449-h640/165-08.Iron%20Man%203%202013%20BluRay%20%20Dual.jpg=w409-h583-p-k-no-nu"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=ZQYrJY4P0jF_PwbzwF93CA",
+        "link2": "https://cinemahall1992.blogspot.com/2025/02/2013-08iron-man-3.html"
+    },
+    {
+        "title": "2012 🎬 07.The Avengers  🎥",
+        "posters": [
+            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibukcS2MfZhgiZh-cKxbJVPahAaA8jRDyex1kvEC3LYeaniCoqbAO5z_U2hobcB5e2RqZOhw37Sm6Fw31LkR09vpvE2cujO1Loi7nCVB-DqgWsxXYSPS7UcKka-xktKd-_Ka1_TDWN7veigNpKmaRn8b9X6A5G49jC8EsGwMWnEKvjuQOmPTlKes2nzA/w640-h360/164-07.The%20Avengers%202012%20Dual%20Audio%20Hindi%20%20BluRay.jpg=w409-h230-p-k-no-nu"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=uxrHY1wNInLNl0KYx749lw",
+        "link2": "https://cinemahall1992.blogspot.com/2025/02/2012-07the-avengers.html"
+    },
+    {
+        "title": "2011 🎬 06.Captain America The First Avenger  🎥",
+        "posters": [
+            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1k2RYgNLVkejEfP4KjxjtzPqBTiZaql2aH0qEifnKBlKFPT3Qwy2wzsggqN2FoQOdKd3dkIz8ktVoMuCKVT44M8ApCc8Csxv9OJPGGlbKi3YOvF4Po5hMgosvFQDP5fyUq4oiSsQteSVPucZRGD7-wc2S9UaAUFLH4Rewl3lk1OaXnFxqndheYXZsrg/w640-h360/163-06.Captain%20America%20The%20First%20Avenger%202011%20BluRay%20%20%5BHindi%205.1%20+%20English%205.1%5D%20x264%20AAC%20ESub.jpg=w409-h230-p-k-no-nu"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=1cU55EriH_Q9oameHKNnow",
+        "link2": "https://cinemahall1992.blogspot.com/2025/02/2011-06captain-america-first-avenger.html"
+    },
+    {
+        "title": "2011 🎬 05.Thor  🎥",
+        "posters": [
+            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhAOs7nLZH0j0plqvtetmdB02CEjMbhsiSNDsSKnGNOogLRid3VIhAbmXzFjfCQWqdVxFdZ9qwUfh7nQuPzwXNE901gPKaztUmWhJKN0A3UZ5NxgZ_KKAxg-epMmTehU8Tzk4eMkNbeUe2caDe4umYEmKSORgktgqLJxzgrL7OrO4R1QypPUZLulzYYQ/w640-h360/162-05.Thor%202011%20BluRay%20%20Hindi%20English%20DD%205.1%20x264%20MSubs.jpg=w409-h230-p-k-no-nu"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=pb43fcc7TlF4HeRS4x0ctA",
+        "link2": "https://cinemahall1992.blogspot.com/2025/02/2011-05thor.html"
+    },
+    {
+        "title": "2010 🎬 04.Iron Man 2  🎥",
+        "posters": [
+            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjtPrKcPU-XYwmhqcyWM9WWLzDI8khKw5Z7QPRHIByoXJsd_VGUfY0qHCwKmjNAAI5ivjW543a0dCotqdfFE72wM0gMIOmTlOqPCyU3KJ2Xqs7Ubt8Wv5iRFNbCpD_knfc9PBLdiZ2IETx7BZx39b7cEcNyBku8nDFXYd2BiKVC6Km2kI69IxlvGUNMg/w640-h362/161-04.Iron%20Man%202%202010%20BluRay%20%20Dual.jpg=w409-h231-p-k-no-nu"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=lcDjPRj7e-5C7Ds_y3Xd3A",
+        "link2": "https://cinemahall1992.blogspot.com/2025/02/2010-04iron-man-2.html"
+    },
+    {
+        "title": "2008 🎬 03.The Incredible Hulk 🎥",
+        "posters": [
+            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4ZCnqbkerZTmCArHW7xB67uNmU_Ju22QrBJO-EoN93r-cBjui56EsZByL_3LjdYPls6sA2csR05vGV5CsO9fJNRAHyPMiPv8owbGFu_mTS4IXjnXjae3uL0nbkvqVXwD9_nuBbxv-P5rMTd7BnB_tutFa1cT-AYN6WfdfTBI8JE_PBQDd2X4x_cma6A/w640-h360/160-03.The%20Incredible%20Hulk%20(2008)%20%20BluRay%20x264%20%5BDual%20Audio%5D%20%5BEnglish%20+%20Hindi%5D%20(1).jpg=w635-h358-p-k-no-nu"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=9y4y4teH6cB9o6k5w-iZmg",
+        "link2": "https://cinemahall1992.blogspot.com/2025/02/2008-03the-incredible-hulk.html"
+    },
+    {
+        "title": "2003 🎬 02.Hulk 🎥",
+        "posters": [
+            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjP1sGMis1LnX0dpm2Aw2RBMy_6-Bjmcy1dLqRbYR1AgKbYPZmDOMgx1t7YJSlA_GrZKe7rbWDCSPNVG1ms6PUNO91tseM5-qHtWqL-FyGfrjnGZQnYslu8zj5jn6GEBYOvmpatjX8HZAtpCVzDsxILDeKyUNDWaT0XQ-TyVIAIiO1QwwYHFbxUgpwbeA/w640-h360/159-02.Hulk%202003%20BluRay%20REMASTERED%20Hindi%20English%20AAC%205.1%20x264%20ESub.jpg=w635-h356-p-k-no-nu"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=Ac1G5iwKLDgQBwyjP0IFcw",
+        "link2": "https://cinemahall1992.blogspot.com/2025/02/159-2003-02hulk.html"
+    },
+    {
+        "title": "2008 🎬 01.Iron Man 🎥",
+        "posters": [
+            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWqQv_SL-xfrpLXAeZW1oNrF9O09Y9Ewp8HeawnG4Vwzwh7ld7AfQkl-_o2exTg0YyiWPFYg9EOtqw9HuP6WX-kpRUTROZCp3Dsx0Fy2YPWdS0bEltVJINfm2ooeshTkOLYLqZmOwVI0NrcPAXM-scY8IAMVG5LZ1Ncml8CVZ3HTn_xBzmrFrgMG1kAA/w506-h640/158-01.Iron%20Man%20(2008)%20Hindi%20%5B%5D%20Dual%20Audio%20%5BHin+Eng%5D%20BluRay.jpg=w557-h704-p-k-no-nu"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=qw45OcTkLyMKL6MPnIH6eg",
+        "link2": "https://cinemahall1992.blogspot.com/2025/02/158-2008-01iron-man.html"
+    },
+    {
         "title": "2023 🎬 Puff Daddy  🎥",
         "posters": [
             "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFZV3uVkZt70c4tzeuErEw-PwK3ezVRIyY69vtyMkVCuNn7vZxIKiuz39IDdx4zU9GjmpOHb9PpJMo4FGH1SuODEwbzXO_XiHBy-PiEOvug3SoKGxGpCTsGCSvoV6BdSGTaowsUWcaNKsxZXyn89rNIiF-kH-SAZMt6NtfEzgQ0tvi-_CQlrqiwPSnRQ/w432-h640/216-photo_2025-02-13_14-21-18.jpg=w475-h704-p-k-no-nu"
