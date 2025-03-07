@@ -1,770 +1,786 @@
 [
-    {
-        "title": "2023 🎬 Tiger 3 🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizT37lwAmoDhVz7M63v2gWWS4c3Ev75Oo_ZSuwd1fyoGL9-55jyiWmq64ZrnUR9ikJNnFsq87Tei4lXbK8imz-NqGbipTE_nbm4DFKGRFcQ8TXTPkvYjuuatP_K5bbD0fgCSPiJpZdcyqChRHNLvihXsk3nVPzlJzozjKHIBO9NGkXle26pY08nVxveA/w640-h360/218-tiger-3-8-14112023.jpg=w635-h358-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=MvP0LVhTn5Zgk1ymK5CzfA",
-        "link2": "https://cinemahall1992.blogspot.com/2025/03/2023-tiger-3_6.html"
-    },
-    {
-        "title": "2025 🎬 The-Gorge  🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu1aZiQ6b0TxKjUbyn0fW1VSoMg0bQyeT7LNB0UcYMz5H5Gx1Y3KK-lLJYsZcbKwEWq6Vty2nZgZJoeCLQ3DjCPdqMFahsAE6r2EiZcWQ-sV8Uvy3bUV5QSYh3mLZkgH1earmcrNfdY_xYMbEoRqau5YlI_ivhDyIDt-TpBL81LVuJuxbcwuxDKi6nSQ/w640-h360/157-The.Gorge.2025.HEVC.jpg=w409-h230-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=mr3itScsxz20lenIvZIlDw",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/2025-gorge.html"
-    },
-    {
-        "title": "2025 🎬 Identity  🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzxXqLYlPVLlzzHqKh8yXd34qcTE9h-bf0nAQfQ40ZkLN3YAtPUJ1L72vamasTIPUgqjuQaWWjN99guDK_1CtcwQnM5Tg1bULQawYFA9rqERRb2_pCe2HZZQGnzj-o7LDgEx3Meoo3M4upNEOaAr0DMKNI9hLHkoiZy8SE7Z2ei1YskFyLNg-tFgRJMw/w400-h225/149-Identity.2025.HQ.Hindi.Dub.jpg=w409-h230-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=qi-QIiXBef8Fbo3cprptNQ",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/2025-identity.html"
-    },
-    {
-        "title": "2025 🎬 La Dolce Villa 🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0fsVDyenr57V6sxhd9sBhIsh1lRDBAJSVrR4g_zjNKyaBx1LvdwtFk5RLSmZZLwdl9zBeSJoA7C3JNu5-FuC3LuTQxMYnH2Y4jdQToetZdU2OJXOj_8crcv92UBkA1KCfXAoE3uDwDiWLlf-2cBWJD393ApZ-4chQBVINYoFpe7Frm55fI8XXt-PTYA/w400-h224/150-La.Dolce.Villa.2025.Dual.jpg=w409-h229-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=7OvZPspqGJcBoNH1UOWwpQ",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/2025-la-dolce-villa.html"
-    },
-    {
-        "title": "2025 🎬 My-Fault-London  🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj32FTRZrXT6QdwfC3RQ_tuIgLXbNKMyv1cpgirDe3YVzSRpu4g3c2nHNCy-RlHc5FO08OI-zh6pUPXyed1ic42TcT6lnOvY6dahLO-6WYg4hGL1sPYY3nwG3BD2kjz66NM2ZNOH0gfnbaErmFFICtGlQnbqLfehGNy9iQuD-1UgmJkpSRLkxkHNdYgHg/w426-h640/152-My.Fault.London.2025.Dual.HEVC.jpg=w409-h614-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=zAh_62hi9-o89GRFH5JiDQ",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/2025-my-fault-london.html"
-    },
-    {
-        "title": "2025 🎬 My-Fault-London  🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuPSC5F8mWxvyaKFcGHVujB7LVHDgwuAHtCzxKWS3Vngfos8NpzVfyWRKPQBICytuUEDmyIc5rlYpFw3sDcVgzMQtHyJNJEVIgco05fid-IC1cIpwPDPmrOQChJFTXV7vEjb9tNtXq_ocy6zWgRBrcKZFD6zeGhvZLcDgLt5qRf1Wt0Z6rRRnix4KMuQ/w400-h299/151-Bobby.Aur.Rishi.Ki.Love.Story.2025.HEVC.jpg=w440-h330-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=wKGx61VxWedn6AMSV1__Vg",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/2025-bobby-aur-rishi-ki-love-story.html"
-    },
-    {
-        "title": "2025 🎬 DEVA 🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcNYCFrh25XoTkZq6eVrfeL9ymE3CLTFzAPPiZ3vhrrc4Ty31ftDkF2YOARu-jWH-tM-aGuEQIxFmPsvy0lhEPuyhBQeUIZrpQPoOqnXtHaj3Z5sAThNY96tn-2cgKtT5GGDpjihYO_FeOK9HIXRbpOpjhaW2eoSGmyqY_j0Pye7fToCxYTgIs5dUXrg/w640-h360/105-DEVA_2025..jpg=w409-h230-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=6PShAc1gbz9aZuR-567NVA",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/2025-deva.html"
-    },
-    {
-        "title": " 2025🎬 Saale Aashiq 🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7w6VLEWCT9foJ0lEx-Itho0CEV2gv-TuyORDdz77mAObENvlAIUsm_ykspxRcFPKKEW8RlCQJsJU_C2uKJVGYZTMoilEJzBF2sfMW30lD-WazmNaCWUDmNIFYDF6QNCLhUfAsl_DVU3hGMDQ_jYQqVuKlJar6gRcyuEuDkllpbkRfwEqu4JYPDXVb2A/w426-h640/107.jpg=w409-h614-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=YjlkLC_ddaJv4NvL20yVJw",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/2025-saale-aashiq_13.html"
-    },
-    {
-        "title": "2022🎬 R.I.P.D-2 🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhojBAn9ZtKOyMMOzGkL9U_usnWLJt5MjxOEJdKX14wQG31X6vK6j7Mi2VCIr8LYNPwNaYqkaevx4S8Q6MI-S4TmCdR0oTrP_33H6vGcTGBifE7O9nDRhdN4kYj8mhhv0uqN8BlcLUTtWHvMBAsLioDnBydeehE_5EKfrinZrgWE-vEzt-Ze1M6qhnH4g/w640-h360/109-R.I.P.D.2.Rise.of.the.Damned.2022.BluRay.x265.jpg=w409-h230-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=OMjDPvIG9_fxsWiWggoiuw",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/2022-ripd-2_13.html"
-    },
-    {
-        "title": "2013🎬 R.I.P.D-1 🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhk3OZFgz0wMDc5AExTevMCX98Mwc6Nn5YY1veKBZrhL3-JXjWV2o4XXR2cLsYmVVawwvu8mwHrMhFLNzwDsohw6KqUoLvCVAg2WzIpdH8pAyDcTovMo-_QrtyGG1TWeOXrOFYxwJu_KqSMKR3uYIf8TbL8xLaVwBYA63f6lzWISsiB8vT1A2-0ZVmDYw/w640-h358/108-R.I.P.D.2013.480p.BluRay.x264.350MB.jpg=w409-h229-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=a4WyPpUKHwzTIC-Las-OVw",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/2013-ripd-1_13.html"
-    },
-    {
-        "title": "2021🎬 Infinite 🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6I-lW8GHYkcvr5V3YhboYnUM9zh_k9vj6Xpt4CvWmciWepSPoimXjQ5SJiwA2UxRc87WwioHudht8EVN-TVl53O-qLEOpOLe4PxQzKyceXZX4QRQTz2awE4WhjtZXj2oD1COiOWizPc1VgpwBl3ghjOis2qTko6I8GNsXnsy4zLdleycd7aEw9_8muA/w532-h299/110-Infinite%20(2021)%20Dual%20ORG%20720p.jpg=w585-h329-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=e1-IxLCvxMvjOM0EOAFlgQ",
-        "link2": "http://cinemahall1992.blogspot.com/2025/02/2021-infinite.html"
-    },
-    {
-        "title": "2020 🎬 Bheeshma 🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisuhRvF_ldj386lmhb-DwcrEVfdyJCgnwDseftdcOXOuM1ydpO09CCYF1sflZikkK7zy8TW54yBdsa4keLFsmJh-UJgkrqzq-9GYbqjkZ1wUUR7TqanA45DlQdxSGpvCMjBlx97gJZwybdTONgld59hVDKEd2XmZ4VbM1tEZ2S4Xsv9PHktB3jxncEkg/w640-h360/224-Bheeshma.2020.WEB-DL.Hindi.ORG-Telugu.ESub.x265.HEVC.jpg=w635-h358-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=F77zl03PXIsFpVNxyOOm0w",
-        "link2": "https://cinemahall1992.blogspot.com/2025/03/2020-bheeshma.html"
-    },
-    {
-        "title": "2023 🎬 Bhagavanth 🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkEMqeGwWlghyphenhyphen6HX4tlkj26wruxfBzw4qvyEIotYqP65AVzMkmBgIGbiU9G2lWd-6eHEdS3tPQ0YV7lCTOubhpnZI62S-gU2ajYxk6wkRhWG8Ch45qf4TWzgMUQFiLkiu5BgugdwWyiZplLFd3fQ1GJQkc1vlR6C_BErK2kcXjWcFxwZlgPpqjeQ-05w/w640-h416/225-photo_2023-11-28_19-06-53.jpg=w635-h411-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=7v1L5hIb3i2vJ3cAmv_kIw",
-        "link2": "https://cinemahall1992.blogspot.com/2025/03/2023-bhagavanth.html"
-    },
-    {
-        "title": "2023 🎬 Baby 🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjekay_73B7kz3V2G3Innn_b_bnarmTAEju4nRLyEf8wWqIUmgqcHJxvms-flti6qq6tlRM8jDaeYvcilMwWS_LoVP1LON4ILhOYZvKVEFGTWzx5nFk7iypf6QZ-vvfYONhlT_k7vEOKcytVSsl7eoWKGOVRD3gnm3sY1CGhszyBx9qPfAurBUXOcQwig/w640-h360/233-Baby.2023.WEB-DL.Hindi-HQ.Dub.jpg=w635-h358-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=9O8hwGU5u9twn1pfKOBRuw",
-        "link2": "https://cinemahall1992.blogspot.com/2025/03/2023-baby.html"
-    },
-    {
-        "title": "2024 🎬 Dui Shaw S02E04 🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnyPDjhUQnrb6PLI4_mVY8ZtjOyQBMyWdbqSajqLPF70WAT376bI5JGkDDnTCmAorCsE3h16vlRpyEGzuGBJpCpG55Kf7rtTaKZTlG6H5a2bArnuhzCjTsTYqPzy8k393HHCiic0XLEuEbZa5E4M4584gFXYCPThceN6IO8-phi1bKqzvB4zYH9MaJxQ/w640-h360/232-Dui%20Shaw%20(2024)%20S02E04.jpg"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=_Pm9edbMeuiX8trzFte0Gw",
-        "link2": "https://cinemahall1992.blogspot.com/2025/03/2024-dui-shaw-s02e04.html"
-    },
-    {
-        "title": "2024  🎬 Dui Shaw S02E03 🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaVkWSK5SteK9t4eB-rjuGgSbDA2pObyps4KdLL51WSJ8M_PoYkrziiuElBuQqiZZMuiYY_qLQVzmbrCDFlnM00AcF3Su7QYxX7wAAJho12J9inCC1m2-Rl0UT8JiOD0BBPEfz7Z9uFh2qDC4tu5l6JCkNpNYNWdkgYTwzpIWa5-BaagDluHhZrSLiig/w640-h480/231-Dui%20Shaw%20(2024)%20S02E03.jpg=w409-h307-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=uC4775U-LsoyT5Ce9zPuSQ",
-        "link2": "https://cinemahall1992.blogspot.com/2025/03/2024-dui-shaw-s02e03.html"
-    },
-    {
-        "title": "2024 🎬 Dui Shaw-S02-E02 🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM2Gl7TIKBj-al2yXapOCcxMorNGztmOwHAHCIUoGLt6QriShD9uxqw6mH4-kaQuGxBJDQV-5Xq0k4vZ5GSJEUYo_G24UVsJttErAmUzkp4WuCttFKaxiyQWJtmW4k0u9q5VRgdeEOrFAjZvDJdJ8jRcWRy0iU4CbMeJuvsDfOqBT1prrXNI56SrJlQg/w640-h480/230-Dui%20Shaw%20(2024)%20S02E02.jpg=w409-h307-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=Z-ndL883g4-sRjbtmwha7w",
-        "link2": "https://cinemahall1992.blogspot.com/2025/03/230-2024-dui-shaw-s02-e02.html"
-    },
-    {
-        "title": "2024 🎬 Dui Shaw-S02-E01 🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM2Gl7TIKBj-al2yXapOCcxMorNGztmOwHAHCIUoGLt6QriShD9uxqw6mH4-kaQuGxBJDQV-5Xq0k4vZ5GSJEUYo_G24UVsJttErAmUzkp4WuCttFKaxiyQWJtmW4k0u9q5VRgdeEOrFAjZvDJdJ8jRcWRy0iU4CbMeJuvsDfOqBT1prrXNI56SrJlQg/w640-h480/230-Dui%20Shaw%20(2024)%20S02E02.jpg=w409-h307-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=gvgoM47Vpik4_LMOofeneQ",
-        "link2": "https://cinemahall1992.blogspot.com/2025/03/2024-dui-shaw-s02-e01.html"
-    },
-    {
-        "title": "2022 🎬 Pett Kata Shaw -S01 🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjznRKdhO2UfUQseIVvoWIn6LzJ0IcVmuhTCwHUEPnRwhBu3pbc8ELGD2acyS8goBgVX5wI8Oha7mgNHwV39WlGpGQRq8IYjY3VCJzfyCfGQm2S6DmKfoNVEtbys_PQ1YVd5PYDsYhQohm0mnFvmT_hdwH46Nh_iD3qR08gRqCtkJhm4O13R3_8V39xqQ/s320/228-Pett%20Kata%20Shaw%20(2022)%20-S01.jpg=w282-h352-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=41mMYoVbb_N1mwuVjIx3kA",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/2022-pett-kata-shaw-s01.html"
-    },
-    {
-        "title": "2023🎬 Vaathi 🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgF4as4P2WxlEaSeBKkk4vi0mk83C2Ixu0uhf_YAyrAHATv9U0iJ0y2PJuaoTNfZ8-3Sualb2Q5503IBQA6FcLCXntNq_mTnsEkOmG2CF5-TzcEeQ6sv40B0Lt1TXuYk41L8cGEpoUGj6o08B4PpZVg3gXpjjsQwreskFCrib_rEHnKUaa18qQRjDuwyQ/w640-h360/111-Vaathi.Hindi.jpg=w409-h230-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=P6P4s0d5QdwV0Ll-Yt-W3w",
-        "link2": "http://cinemahall1992.blogspot.com/2025/02/2023-vaathihindi.html"
-    },
-    {
-        "title": "2022 🎬 The Storyteller 🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUbxGNOKoOz1wzL8i1ikfmcENfYlyY6-1I5RmnMcuc23x9FJJuPJQzpm-zowYsIu0gDIR03s-Mw5uK1e8hcGc-XTdRkqinoDYbUVgZT_KQ992G7AlrRLRC1kC27zlyKNgbS5RzTWPEUckW_zVCJabC9n6ZA0rDurEVz2x3z1OD_YPMtm93uJKOVYHdXw/w640-h360/112-The%20Storyteller%202022%201080p.jpg=w409-h230-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=R55-aaFbcbT37LXWql8Ptw",
-        "link2": "http://cinemahall1992.blogspot.com/2025/02/2022-storyteller.html"
-    },
-    {
-        "title": "2019  🎬 The Wandering Earth 🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMs2BoG8wt9Fd4OMMgiCKVxgZWat5H5tZLfCPRXmUnxf5Q-YMNN0hdnVCDQ9i-ErAgiKkWCNFxZuPKW2kvhKiqyhrDOvF2hyBQAznonoOy19d6xL9Z9Mvkv-b1M-rrp0UCzmLqJ4yli9Q60Lo9IHQIO90IdbDftP-NJLxw2kQxSiGpUOi9fz35-dz4zA/w640-h358/113-The%20Wandering%20Earth%202019%20WEB-DL%20720p.jpg=w409-h229-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=lt3AMTGcadAiTpuXDqwDtg",
-        "link2": "http://cinemahall1992.blogspot.com/2025/02/2019-wandering-earth.html"
-    },
-    {
-        "title": "2021 🎬 Army of Thieves 🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyfM6zSh-r4dDZ0w1HmJU4R8Aim9wxxeE7LQFh9EDgzKQ7QVymiMYpWbZR2NI7E9-BYPI1GOUzCxhhaE7-e5jISkqnUswQQflefoXmfuXFw8Aogj_gdoE_iQo4_-alLygQQRmKX2b2Cr_gcEgeBVnX1ErUKC2Nv0s3tZu65Y7DKuPOyJLK1YG4fRjN6w/w640-h360/114-Army_of_Thieves_2021_Hindi_English_ESub.jpg=w409-h230-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=1i1yuyifZAvuAo1yHwqPFg",
-        "link2": "http://cinemahall1992.blogspot.com/2025/02/2021-army-of-thieves.html"
-    },
-    {
-        "title": "2024  🎬 Jailar 🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgELs2tx7QoqzkKzazNX02Y6qKPTMgqsjPnpTPfXfhPEgsrOu_k6cwo-ctsATZje7xfYp7r5IcZhyphenhyphenb0BuxBbKRNwQouKYzpiHYSkLHyjMTsNcB-EjOJCES98TaC7htWk7pjuZNdfUrUptDQiVdApAgAen8v0XF6DBOrQ0vnPfJ_alLktSF4TTI_lr1y0Q/w255-h400/115-Jlrsprint.mkv.jpg=w281-h440-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=q-WnpmVxDDy5DFzyuIbI1w",
-        "link2": "http://cinemahall1992.blogspot.com/2025/02/2024-jailar.html"
-    },
-    {
-        "title": "🎬 FastX 🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGSUwedl9XgXf3x2IWpHFtsbKh4HG6Jqf3wnwQVTMaTjBnWtv7YewDjghCuOZJMqG0Ml8sN9I-lCW-ynPPYlmDeNZN9RoD7sZY_3APuH3dEU8qZmeOdvtuc9y_0FSNdeuNpa_Wwos6njDXIEYrYGsfvColmIR4Cf7K9YoygJlvcHGLd1uFQlgVuEuukg/w640-h360/116-FastX%20Hi-Clean-ENG.jpg=w409-h230-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=ymgR0cPu-2RT-txbSCCj8A",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/fastx.html"
-    },
-    {
-        "title": "2023🎬 Salaar Part 1  Ceasefire 🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSqSSY28a4sIKMljDkjvxARjziDhZzXlBb-jdtJdjFizFyeCaQ25X5cVgDYigdqmXy8EuW5f_ZPVOj6ARCQ6p07HQzgtnDAMiB0fGOqlrNehZc_-SVlZRQGWrD4LvZwmVpuBYdQeaxtjCdWExsDQOjgiwY0VSS0a3nnLgvVAFCuKF8SHuVMFa_hAQgmw/w640-h360/117-Salaar%20Part%201%20%20Ceasefire%20(2023)%20Dual%20ORG%20720p.jpg=w409-h230-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=kkeu9GCY2qzGZIfnz3Noaw",
-        "link2": "http://cinemahall1992.blogspot.com/2025/02/2023-salaar-part-1-ceasefire.html"
-    },
-    {
-        "title": "2022 🎬 The Goldsmith 🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWWejS39vXRawlj2V8VZ5GeMth-t7B4jjy3W43dv4-OkH_-xzkB8E0ExXcfNK0MNtqZhDgNrNFlA2IMzuVUe-5Ye9jkjscTUxPf8KEr6fzSxGINRnCuzXwlZ9y0HPkh3K9gcCejXPSjiHaFNN6CPVz1WE-OgDcD93gQV5G4__3G0yKBmIpFvT9v2fJiQ/w640-h358/118-The.Goldsmith.2022.jpg=w409-h229-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=-Nm2CP0vxoxU4VDSTTAA-g",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/2022-goldsmith.html"
-    },
-    {
-        "title": "2007 🎬 Hitman Unrated 🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq_8KiuoeC-Iq5GhHILGF8YiXs_VIhpps9HoD74vJQW6jjmFl4Oca4bVaPfNkOzt9Mo4czRsPbF0_zr4iTjIrAYIyJsqiH1p4MGUQCVfNZmpkU9hIV8bqZEA9OhBQ6i8Hh-KGpwOBn1E83C8yTCCImnATYxn2gu4LSOBKgwJJXB0XAsPWJvEX-olkkhQ/w445-h640/123-photo_2023-10-06_00-52-13.jpg=w409-h589-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=Aoc7wN2B6JXj5o8Og_kv9A",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/2007-hitman-unrated.html"
-    },
-    {
-        "title": "2015 🎬 Hitman-Agent.47 🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgD1Umn2kuZ27fb_zVtr0jyOK-o-SBTnFphEHnUFPxBwfJL4qdpRWzAP21bQ7fm9BGeWc-wj06qhPwIVkVwMGSXt4DyFxCsdoEPnLlTKZUTPwDvyA8RZWqBKtu10njWppYDpMBtkjC3fQU5ey6WUkDuFFTwCa60opRPEMg8WV_DyHsWs3Q-Ly4qi4MFPA/w432-h640/124-photo_2023-10-06_00-30-08.jpg=w409-h606-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=3VZoCjpqZ9udkg9OXPdbOA",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/2015-hitman-agent47.html"
-    },
-    {
-        "title": "2023 🎬 Bibaho-Obhijaan 🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqNKFoWxFQ8GYTl-8urNrrd93qnRn_4nD9rLZ8w4GY68XA9HMofPCPB2umN96EqmbTlU1JkedFusIlNKhoVqfkuN0OW2yJVWMCq-6lYKsobqIPWpXLdkHbL2GdxuWJrhRty3LqxuNWg9vJpZDTB6rKYTGvoTHPvognF-nSw_5mfWT17tzNZvJ7ivtSoQ/w636-h640/125-photo_2023-10-06_22-59-37.jpg=w409-h413-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=Hast8bStN1OX31PmN-3xyA",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/2023-bibaho-obhijaan.html"
-    },
-    {
-        "title": "2023 🎬 John Wick-4  🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3ehcv8vQlb911qi4dkahbIYZLa61IZbjXDMpWzK7a56obE_FxkpcF4StcXTUuWNMCLZjzQ3HliLhUp9wyDxzzW_1tW7WT5-0mXACC3xRSJcIWPBoaBngneeVbvjdPXvqrhx7I9FK2WvJjZkJ-OPm-bMpw3ByVxe56F-j8-Whim5ui3WP1NpnKICWFaA/w446-h640/126-photo_2023-10-06_00-55-07.jpg=w409-h589-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=xzCqzFHiRBHtMt-QqZbZQQ",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/2023-john-wick-4.html"
-    },
-    {
-        "title": "2019 🎬 Jawker-Dhan 🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_BkB2asQJcgaUNk5JsPlVrfY8Tp1Ft6AINUM0nLd4sa779w95czn2l9RhVZLje_g-rx1iXyApTGmFN8psgRhrT_u54rKWDK0hpvHfqNVUB-zEP2OfhegbRIJSoHG_e0MZQWd9SK9f14ukP5Pu4ZReVZGw-scH1LbDwRtXZMt7XRprf4WRcYbbNrsiSQ/w468-h640/128-photo_2023-10-07_13-13-58.jpg=w409-h561-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=Lh5UTyDYYxnoyVI28guJEQ",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/2019-jawker-dhan.html"
-    },
-    {
-        "title": " 🎬 Misson Impossible 🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5bgdXmoW8Gj03MTSGiLh3N3-_qpNSNGUrT0aJm0wbPJvbPl-ozSX17LcxVM6bA0Wdf64IHP2OCVYJhiptMoLifMnOQZsgv-C62h30Y015HatIKW7bhm5xrBNU-PbbKE7XoFevWuc6_VvNXh5lmxrFU0uqrwExoi3AbEzbjVHGI4ywDI5Wj23hlv3M3g/w640-h572/127-photo_2023-10-06_22-31-53.jpg=w409-h365-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=OMIXPerFywuALCq064leaw",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/misson-impossible.html"
-    },
-    {
-        "title": "2023 🎬 Ardhangini  🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaFcqHB5nla6YCteqZMdB9qMiK1rZ8ZYf5aE9nhp8SGpmmnXv5phPa6vQrEqyt5wIWmDMiZzN99xFExJWRUItTBkhm5eeYTNHCj6ELALys7q7dDZ-sw5QemsNWO-jE5ZAhQKAM54P4ZelbtiCjtmmj2Pn-InstoTR1mUXz8uBY422kp3pHtTOda8PxfQ/w640-h366/129-photo_2023-10-07_02-18-24.jpg=w409-h233-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=ErZYCi2XWuaduRL8tXdMvg",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/2023-ardhangini.html"
-    },
-    {
-        "title": "2019 🎬 Supere-Me 🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVzh8HvvHLqqIxIxzR1J79jF1lOcdyio9yNwAgDzecIREpHpmzZnF19XD-Cs3c0FtLMcWHmL5IR0dMiwqwgSrPkdimmuFL_MGAK0Ayca_HO1oi3ArkfrDUCeeGO4JnRv2vdh7uF6oTW8FSLmJtrUah2ZKPsFVnkdSCJsc21xo6z_UcRrPqO9T-fr2IpA/w440-h640/130-photo_2023-10-10_02-14-23.jpg=w409-h595-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=We7gEsvyLxDCWc7k74N9xQ",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/2019-supere-me.html"
-    },
-    {
-        "title": "2023 🎬 Agilan 🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4ifgJMsHyI2esE-CFqmc7iignJ6SZ-shM-E8A8a363MfvgmIP9JuPty4spex9LalBWZqHgxdWkqaXaoNmNgnbGanNf7oQcCAd_pSIOHxWqQ-Zpv58_v0eeBwQ0gZPVm65W3t6snhVDoecozCj8xSEHRegzT02grabtp6BiimiFbWFpKO4FqtPJMbAWg/w432-h640/131-photo_2023-10-09_14-51-56.jpg=w409-h606-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=JDwCcwxiW5wtiexIul-Xvw",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/2023-agilan.html"
-    },
-    {
-        "title": "2017 🎬 Bleeding Steel  🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNO-P76jy-dD7VT_OW7j5pHB5Qw45VUnVS2_IwmCY43nwx912MAhmgWzrDqPXtXuVkq6Zr5NsOQKIhXkmy7No_r0GiXcOfDs3XNkeZTmncEdZCz9-SrG298z5Qv3OH0gSfKE0ZoYCYjj2InRfnEDb_PcyXIz3peJ47mk5bivMdAeejwuYKWqB6zNIjIA/w432-h640/132-photo_2023-10-10_02-05-19.jpg=w409-h606-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=sqbrCg5V9MiJ_EofJDJE0g",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/2017-bleeding-steel.html"
-    },
-    {
-        "title": "🎬 Magadheera 🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAU2SKC4DxanJ9pNJB3CoOwXH0aAsFPZinVtuUUqo3WdfeY2-cZ6VN6Zbk8oTbF-hth85gz42M8QK4HBckEpagjbZAoW-6JLvVmvd7dGqcdvKpdE8VnMEwcRG6pgGlD7uTr-v5NH8QXRXB8aNfQq5hHXk-bOQwDHzTOLOEFP0TqXEP0MotiACPeYB9ew/w640-h480/133-photo_2023-10-10_14-31-45.jpg=w409-h307-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=toXHJVv0PP60JtQyZJCT5w",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/magadheera.html"
-    },
-    {
-        "title": "2023 🎬 Mark-Antony  🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjehg4uuY-f-q-oZIgS1AkabEXme6KN5u8c5Zf8veA53AexVBQJKP6IPDcKfcLu-U1hIGo0GjeAiKsMfEq7UDCkGDgWl_l8UB6sWLox-LxnK8j8_1R4Rpu9HtnwhMx2QpsM7tkX8BH_yvBJCk11oryxoyglAtvE2C_0YrExz7f-phaav5Ww_u9W5FqgsQ/w512-h640/134-photo_2023-10-20_17-48-51.jpg=w409-h512-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=kdUAOIAPv3vNUXnu2OAxmQ",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/2023-mark-antony.html"
-    },
-    {
-        "title": "2023 🎬 Meg-2-The-Trench  🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKzonFZebFtfZnaYFjttHq2AJl1tu8wpe1cTwlQ9l2tThnsTyj0Kp_B7xec4P9HBaM-KEKQWh9IyXFfEvX40Rl2H4-4QUyH98FCBX0xdNuO4Uz0TUTcp9d68XVH6MJvNpAiIcXw_m_lKmUI-LzjbtEAoWeGFU07J4acCMm3iQPTBYNJIGixha-F_6A_A/w442-h640/135-photo_2023-10-08_15-12-44.jpg=w409-h592-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=hAXnEGGXUVVrpA-pPIG4pw",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/2023-meg-2-trench.html"
-    },
-    {
-        "title": "2023 🎬 MissonRanigonj Sprint  🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEio_5NgBJE4CFxWRlNEUF8Z_VvZBMnTDGUSIcAufd3TncZKVaUCcurs6UdeVUlTgduCLeh2aNPbrCKlT0dWD6rGjVYpTRNfWg8IZtnbTjSVqwv4Nw2C23isC9aecbOtlrTs5GKiO5hR-7j-cEzfwC8gPTqnbYwaQyu8I05yWjzofDZeT9xMIcgK13Gu2w/w400-h400/136-photo_2023-10-10_18-33-04.jpg=w409-h409-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=q8M0hwst1vAMC3QAeI-U_Q",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/2023-missonranigonj-sprint.html"
-    },
-    {
-        "title": "2023 🎬 Jawan  🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrFRCQD8UMOukBEb0fnhmpQVy1KBy_Y-97PXcA8BOut353fjg218sqGEaCfH7iaBT_ybVaCW9KPIL3s5SdHIZZTqzBvU7z51Xn0xn9eTQE6Oy7a-jtpcvdL2Ua11ogLEMHKdF4stiyxHf8JWX3672YomR23q627aueq8kTJ_xoCWUcccbHCcBtMhVECA/w486-h640/137-photo_2023-10-10_02-23-22.jpg=w409-h538-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=RAo2CwMKhL5suGZDhqjgMQ",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/2023-jawan.html"
-    },
-    {
-        "title": "2023 🎬 Mohanagar_S02  🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUFkUbcXkTvwCimvVzFSRwQSeBf3J52E6ZrDOnQNyK9CR8csMhQUKbK81Bq3qE7js7o6FICBzDCgi8j5T2XRVSA_tEp0zhk0uSSJvoJDRCVsli2XLmuWWXjhniF5qMGk6C33uQi9u0rnkLa4PbSdTr0Ay1aY06fDUUAGLIMEyHtR9PEdIwQBmbJ0Y5eA/w640-h334/138-photo_2023-10-07_23-16-36.jpg=w409-h215-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=-b8EQitOrqoDgDBvE2Q1FA",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/2023-mohanagars02.html"
-    },
-    {
-        "title": "2019 🎬 The-Kid-Who-Would-Be-King  🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhULK0JTopbpj14_Ct-324ZwlmnGigsDGbf68XDLfTgMfAZ_v9XTtnTAriCcL29szwlmak-172BCplcFRk9vGFwCyCVsTd49ycI0yhIgmpEpuRaKW4LfsVCxpxvmjbzuqTvcYHKBbHIODxMTVy3V7D2xksJU2F0GqWYYvhnB5hza_Dl-mNP82vGm9m2Nw/w452-h640/139-photo_2023-10-10_03-32-39.jpg=w409-h580-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=pjGsQakv5icS0T2BrVz-Tg",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/2019-kid-who-would-be-king.html"
-    },
-    {
-        "title": "2024 🎬  Surongo...সুড়ঙ্গ 🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBf17auHEpu3uXDCR9-vO6o6HTHsCAKKzDypf9h08OTcdihJSRI6AIbCIQi4q8lUxAkDcbFOOxuUlLVFnTvtUKad4tT-HCPeIqCGCdAmjxaHRn0Yo-rL95FiO2xPLB-CsIrwXXywAZsIXZQiMqVpeGg77Sol8lC9TWPYnrauxDNQK9kjza3nCjuc7tmQ/w431-h640/140-photo_2023-10-07_23-04-31.jpg=w409-h607-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=2WE1IIZJy7Tskhh1fuD7sw",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/2024-surongo.html"
-    },
-    {
-        "title": "2023 🎬 The Black Demon  🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEip6KGnj2UmiZIt-9upVAP7K_I6cpVaWfFAclWLkfy7Fd4I7QJAXdzgLqIT9hnb5UFNKs5McRlwkobgvri4vAOHxbbW1GLIkDl8hSE2Tom__9372-RgYh1XCPgbckIzEeqf5UfAJEUPGA1xIzpa_VJgQOLnGKxflHEIgigZKrzVf3bg2-dhMyQm4iUd6Q/w432-h640/141-photo_2025-02-10_21-15-49.jpg=w409-h607-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=oznjL-FBi7oryt6MBPziDQ",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/2023-black-demon.html"
-    },
-    {
-        "title": "2023 🎬 The-Flash 🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEasWvEk0EwPUMjgbVB95_tlmKR499NElJGogsCbJDTcKN-SrLjvHHDKN6HHVoObm15L2kjW4tOwTCKzXxpLiQY7Is9NDPGEQ5fIaUKnFlGzcGUeTY1pilANUqFIDJXFS8gkHoeHhwUbv7jVYbgiteKPNLfApS-0VeVjGmrYcSCZIJeQHGC3XwmqrYvw/w321-h400/142-photo_2023-10-07_20-10-28.jpg=w353-h441-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=AlK3fFmnGbTRMFq3XHUNuw",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/2023-flash.html"
-    },
-    {
-        "title": "2023 🎬 The-Little-Mermaid  🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3GJ6wc-BKNuV9R9VrHwh5R1_rEAgrBwVG1b8_Rts_3FKgc2AFZV4TLx3gW00ozE5D5g4o5w7zjXWdJY9THR4rGNVjnRwXndEOMOaWbVjONwlQq-auoFuzQuJBjv7GlJ3hKOSF8yVbm4kPbB2XZQ3PyvIZ1LVyZBVzRwL_85XLnbq_kySpS_iYz3cItA/w454-h640/143-photo_2023-10-07_13-57-17.jpg=w409-h576-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=zTbFTNTV0IN5pSKFdqMK1A",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/2023-little-mermaid.html"
-    },
-    {
-        "title": "2025 🎬 42.Captain-America-B-N-W  🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj78Nze0W2YozgJg0J87lExK1VeywEz4A9wRUMimcSE1e5QyKnD34e6-np4SiZf41X5MQQyL60QnsQLnTOiz66gB0wmfV4YasJeOHrRxd7W18OCq0A8rXO1j_CM4YBQvFCuCjPzLqUemnT3MqkZH9otqdxMWZQEYrYDJ0UgFbDJdzUqaV1S7YP-CWBnAw/w640-h360/154-Captain-America-B.N.W.2025.PRE-HD.Hindi-English.HC.jpg=w409-h230-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=vVbVT5uetTC9HUy1gCnFug",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/2025-captain-america-b-n-w.html"
-    },
-    {
-        "title": "2022 🎬 41.Doctor Strange 2  🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhJdheJrzb_UHYvOGpkIgiCDDK247bgUWjhNrBXDqFu3wFlufo2h5WAFnsAHB-7VK_g_KmCXKZBkecQRJK8FIyp5AFohO_wLDctE0cPwqIsLD8z7dKNCKE92hjq-2fJhEaJlFKZZQshc5dejeHTjY0zHd1q8fcZWSo7hJzBRtH9oaMIAW4cpc33xIg_g/w400-h168/198-41.DS%202%202022%20IMAX%20Dual.jpg=w409-h171-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=9aS-pVUn1r8Bj_QkRcGi-A",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/2022-41doctor-strange-2.html"
-    },
-    {
-        "title": "2023 🎬 40.The.Marvels  🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiycajAaCgm13TVUd4BiMOJap08CQpDYQJI-mwX23FOoYN0lBhaqVzOZHY7CYQxAzR5bBnZAyfB4KrvNfnVydI2Fu4sJwYMMppVEq-qJiYGnPjGhsXjwzTlN-vAVXlrdtUoiVyEH632FPCt6VqADx2luQd5fQ5V1UiG-EnRyTCxj63-WxCpQA1N-mGFFg/w400-h224/197-40.The.Marvels.2023.Dual.ORG.jpg=w409-h229-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=AwBlPY5_Yyk0TyNXoVKDsg",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/2023-40themarvels.html"
-    },
-    {
-        "title": "2023 🎬 39.Ant-Man and the Wasp - Quantumania  🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZAaBhCSWpAHQWiVfgazONpOL_kH3O9pVkbcRsDDTJyfeUmTMLx5EsQk89xhnBwd9anDDx9ruaEa8IKiH-6mEALqqfNljVzi7AdQjUmNeGlbsQCAZee-SQfZzLpnx-rsficZ_uJqn9SLouBgy6i3RArrOHnyBT8m-8Ff-7vhbl4NyV38bj1G3BS_bB8A/w400-h200/196-39.Ant-Man%20and%20the%20Wasp%20-%20Quantumania%20(2023)%20iMAX%20Dual%20ORG.jpg=w409-h205-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=-eUpTvutajrbzaSPyxPMIA",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/2023-39ant-man-and-wasp-quantumania.html"
-    },
-    {
-        "title": "2022 🎬 38.The.Guardians.of.the.Galaxy.Holiday.Special  🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJMZlmevhqCCibQAYcQDoTyRbJG-rsZ69PpViz3y60Ze2AbQwHUkeSP99bUJaTDxJ0B-nNLxEiyUisZxhI_jqR8WOg8ueQ7Jv2Chj1tTPv1rjAJV2nxt7Xt5t9syR-8aFDwKpdjRvzOlC6HsZnGuoQkiGGPQ4Dn0EadyMDdj0ZEWPNk0bCfLgkFsG-9w/w400-h224/195-38.The.Guardians.of.the.Galaxy.Holiday.Special.2022.WEB-DL.jpg=w409-h229-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=C6IHONQqmMCESAhTOChvrQ",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/2022-38theguardiansofthegalaxyholidaysp.html"
-    },
-    {
-        "title": "2023 🎬 37.Guardians.of.the.Galaxy.Vol.3  🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5AGtj-Afb_eWNvDhyphenhyphenWpUDUR-oFJrNvhf5swgujbY0OdyFwQsZsv0m4Fse4YBor4_SCmVWwpvH4ztOYKPoGuuNhRMrbtqJ_sSR4y2JCLWEQbxltytvRMDARwiuEGjFJ8703UQr03DOPm1pIhteQNS3xjis5jlBtjFD3cJ1J0yCpi2qWGggFpYJr7kKSA/w640-h424/194-37.Guardians.of.the.Galaxy.Vol.3.2023.Dual.ORG.IMAX.jpg=w409-h272-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=f-GNSJgrK6-bRzIZf6CWww",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/2023-37guardiansofthegalaxyvol3.html"
-    },
-    {
-        "title": "2022 🎬 36.Black.Panther-2  🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEarQJcp144bCg_RjWCmo6ZAHztuujg00dHTTOGqiWhOdTV-mGV2fAFMO1iM4YjZ85q3BmQAdI5TFBGs4b047PE5Cva_FUnWSK5Q1vQt2aiMbbhUr_551qfBo6taEaB5kFbtO0CLGReWFFca4Bprd5yAWWXv3GydMPWMjV4Lv7RguRMQO4Xchro6OCFg/w640-h360/193-36.Black.Panther-2.2022.iMAX.WEB-DL.Hindi.ORG-English.jpg=w409-h230-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=w9IL-5oMPiKh8SrtjSjZag",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/2022-36blackpanther-2.html"
-    },
-    {
-        "title": "2022 🎬 35.Thor Love and Thunder  🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgS3GgF5rmLsrwTrr7TLeMiaivB7LVK0T2KnBai8crAwkH47MCxennZEDVL2FlgsJuQsUUC4tbBl3P58WKvN3-DUypmjZpZW1eoJa1CaGCDgQGwljklrXkp01glHf0ATSlfOSwShFpasTWWTzPpOa7EumxitJ82n7dYQYd8waSHE6EzWO0WMaslZDUbQA/w640-h364/192-35.Thor%20Love%20and%20Thunder%20(2022)%20IMAX%20Dual.jpg=w409-h232-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=xf1MVbSYm6en54PvrxHC8A",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/022-35thor-love-and-thunder.html"
-    },
-    {
-        "title": "2022 🎬 34.Black.Panther-2  🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9dhX6NX3RK6ycH4g8-VYD-htu2FSXFNKSDuWFHF8TRBp7l2v5_6Dzc_uqG6I0H56jgVdbIIehWcT7M_f5J_XsGX0kxdOeuNsJd_fdWNa9GP4JRxweN2fZ9rvpYwgwXG9E7LP_9wXCB5eFZXpTOiJMDuoyX-D0wmX7_VYWFPEq3RQrTPudCZ3ucAN44w/w640-h360/191-34.Black.Panther-2.2022.iMAX.WEB-DL.Hindi.ORG-English.jpg=w409-h230-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=W567FwriHmtvT5ZnkHOI2g",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/2022-34blackpanther-2.html"
-    },
-    {
-        "title": "2021 🎬 33.Spider-Man.No.Way.Home  🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX_ez8LsthHJ-Ht92ssFHBGs5ucKS3yHZcSqJsxLKf7DKyHGLl7Me76EGVAGdCw2sHcANWJ2H1kMirGh1n02-cieUIxEu-oI0soed0Cv8DglRSbnnZvdTpR7ydZBggMbSZhLBUyLUbSGSGKadqURJ4-FlnuSBkFCAXRnPKvC209NTnGH2sWpietj98tg/w640-h180/190-33.Spider-Man.No.Way.Home.2021.IMAX.BluRay.Dual.jpg=w409-h114-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=bqcFFkM8w_pt5qIraqq8Lw",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/2021-33spider-mannowayhome.html"
-    },
-    {
-        "title": "2014 🎬 32.The Amazing Spider-Man 2  🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTX_dniOxnnnaXmdk1_hf1uyb34s1lvNk9S_vz2pbAdOcPHcR2ENBbDHCU5-2c8mrVq6x8cSkm9MZR_Z3E1p5f5YHGpSHwEpHD65U8-bQk13enL0FKD5JM4QPalfmPwOmVVkK8wU4wEaOVm1ejygRvO4TizPEu0Vm0q57_GYBXareSqV8-aVvPkj82TA/w400-h224/189-32.The%20Amazing%20Spider-Man%202%202014%20BluRay%20%20Hindi%20English%20AAC%205.1%20x264%20ESub.jpg=w409-h229-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=8poKPdHeO-EoPMclamQN4Q",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/2014-32the-amazing-spider-man-2.html"
-    },
-    {
-        "title": "2012 🎬 31.The Amazing Spider-Man  🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgF-O4n73B8hjUo0JdKW8VQpDQVfoiVq-0zATJseau2egEUJNK3UO_ygNaIcsTUUh97fV5KRXMDco_DMqMkf4p16NEzUYty0-U83Mr69Znj9LZ3aLwW3CwqWiYUx1iJZUvHNptqjJRgK6kZLwFCzVCUYq5S5g5_BmcrKNcMs4FLaTO8UUEXJWRUzX60QA/w640-h358/188-31.The%20Amazing%20Spider-Man%202012%20BluRay%20%20Hindi%20English%20AAC%205.1%20x264%20ESub.jpg=w409-h229-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=FKq5PxZ5MHIwxwl3ryPlSQ",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/2012-31the-amazing-spider-man.html"
-    },
-    {
-        "title": "2007 🎬 30.Spider-Man 3  🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9XS6KFD-Vo2q86H7F8HE7b14q4c_T0kfD4AwBJ_NStJFVlagPNlLVsCxiuBO-kOwJ5mnrsN4r6sRLxBms_ctkWrpJIIeM107rheeISP_EPRBVC9WaVqi2jvov4tpvdTjYDrl1dt89msdlqXSLFTVt3_qz7GN3kS723s2OaSTtOO_pHU0jGjBjp6KGJg/w640-h358/187-30.Spider-Man%203%202007%20BluRay%20%20Hindi%20English%20AAC%205.1%20x264%20ESub.jpg=w409-h229-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=nZf9rbYnBmfw-je5iWBRPA",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/2007-30spider-man-3.html"
-    },
-    {
-        "title": "2004 🎬 29.Spider-Man 2  🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5lr0q96NovS2_QA84ymMe-KwLJD4nR_PidlFBs7WWZZal-rBP48AfUDrV3u15UU6R23NycHVjdF-JhacthmPrm2R2gQQuXMpX-beC2sekqS1kVsX5sEjey1iqiWJ3bZvGcyw4NBF2iMyrp_w3PNNqeKBXWpEyv822sL0IDyqZCJB7SZ2irNQEe6wMLQ/w640-h360/186-29.Spider-Man%202%202004%20BluRay%20%20Hindi%20English%20AAC%205.1%20x264%20ESub%20-.jpg=w409-h230-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=k4g9BhWtl1FPOVzDjFPY8w",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/2004-29spider-man-2.html"
-    },
-    {
-        "title": "2002 🎬 28.Spider-Man  🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxmxnqp9hgeuB4RnsWUSvEmKTMTInPqGUjov5Tqe77YYG4HobrUaHrqcC-9eMYZCmOZ5ive6pEDT7WUKmzIOSS7Hp9DKTTKOWMldT039t3eKLNccfO2RJ4qKjLvdfZMcSXcWjtjcdLTS_qWxDjgeX0Rp_oTlVA5ALS3SgZ7khPn3FFW8lBD5EeBqM8wA/w640-h360/185-28.Spider-Man%202002%20BluRay%20%20Hindi%20English%20AAC%205.1%20x264%20ESub%20-.jpg=w409-h230-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=RIlLkXbF4PfcCCj2u2pQNQ",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/2002-28spider-man.html"
-    },
-    {
-        "title": "2021 🎬 27.Eternals  🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMLR3yXy6OlU_FfY611N09D3hk7OekV4lxf7wAjNBanxqLLm7T3W9zR_paknr6BVDMUvKO2rRwLPyJuK5s9joZUL3-vNkaBBjh-L1INXKVLXlvxFBIJ4Gztc1fm14zLrU9YQlI5NEIDUu-McARLoJ5BTG4E5KFTbAHh_IM-GKvDEqix-tZNUoLVB_8Xg/w640-h360/184-27.Eternals.2021.720p.iMAX.WEB-DL.Hindi.ORG-English.ESub.x264.jpg=w409-h230-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=JIKkRm8InCvDo6guhWIYmA",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/2021-27eternals.html"
-    },
-    {
-        "title": "2021 🎬 26.Shang-Chi-Legend of Ten Rings  🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgatB6_sd0podzvG7BgsohFL0oSsJnMKpnZI6G0loqg3lU6FpE7NA2xuvxp-HWNtmn37jijq7VJFQUtU1pBhDI2VctmlukOQQ_9b5ztWCOMjk3dsUYX0wwgVblY1hIQaZoZeoU5h32H0NMciW48w5-xyq9J6JxotSG8yze7yE3xmlKxkxzuoxOg43Sj2A/w640-h334/183-26.Shang-Chi-Legend.of.Ten.Rings.2021.IMAX.WEB-DL.Hindi-English.x264.jpg=w409-h213-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=qGtN7UFP8_GATpiEpAnH6Q",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/2021-26shang-chi-legend-of-ten-rings.html"
-    },
-    {
-        "title": "2021 🎬 25.Black Widow  🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi23dOa6YtWmFoNsvAh6odUQaLxIYKSRgM33SuLPbMUX3CU7OQyH0E3Q2BoYfuB9lZd8JQ6BhYVgr_l0lIer6bXiHwjMHKMqaALEYDGasiFZj7Xi2tkS1SbGT4GA4EdB2933LsBqTIA40Q9XfLNNXMF57Q0E70FwZswapnv5Z_WmIj0Lm-xjmH1sslPRg/w640-h360/182-25.Black%20Widow%20(2021)%20Dual%20Audio%20%5BHindi%20&%20English%5D%20WEB-DL.jpg=w409-h230-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=rxxDTp4lp9dggIVEfAFMYQ",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/2021-25black-widow.html"
-    },
-    {
-        "title": "2019 🎬 24.Spider-Man Far from Home  🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXNNAfkZhTf35AdxMoqVaTNw00zJ6X7NsniJh8ETmKW18tmvK8cVNjcmEReF6mHxcScnG3kKNzV5lU7fwpr0qf4DH2B0lnKh1vS5Ql6941aCtp0ZAWE8SqaFCqQtgsog9byql3e2SvYKKHvtCqwc5VYtgL4B8TQ95d2VzT2UsffaZNeWjqT17SWrcY3Q/w400-h224/181-24.Spider-Man%20Far%20from%20Home%202019%20BluRay%20%20Hindi%20English%20AAC%205.1%20x264%20ESub%20-.jpg=w409-h229-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=jbDlrmVM2o8we-zC-KBhwA",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/2019-24spider-man-far-from-home.html"
-    },
-    {
-        "title": "2019 🎬 23.Avengers-Endgame  🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9ka9WDeE4DkfLj4k4VsNwjuLM_bOaugFRUkt3q6jArsFKgn1CnrHYJL2nEONuTk8hT4L5O-V8-OBgedr-lxT7lFwWmpfB1wNbb4pdQI7hJQUhuGKLeu-7Yb6zJFTBQlDoYU1f6Gk0Fhh2B10MbWJb4xA2H_ddq-TNSW_lKZB2umYHPPyoHSrf5JwXsA/w400-h211/180-23.Avengers.Endgame.2019.BluRay.Hindi.ORG.English.jpg=w409-h216-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=4wXxgyEUtEjHpO_l0EbIPQ",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/2019-23avengers-endgame.html"
-    },
-    {
-        "title": "2019 🎬 22.Captain Marvel  🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDP2OeACpY7YTPQO7xcshCCXeFnN-qGZq0IrVPgTWOIaqcvsUks1W31kfFSvm_V9weE8hIQKJWEF18vfooTouP4iU2LZwrGb0XjypmfanmC3SO9vr2-BnCTtIwI149evsS6xeM2QkqcmLXWCgdP_BCSSHlOY1P05iCG8Rx4Z6EnrzCVWrPQVXnm1RZjQ/w640-h360/179-22.Captain%20Marvel%202019%20BluRay%20Hindi%20English.jpg=w409-h230-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=DUFe0zwIjkiQ7t3KgSX8Lw",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/2019-22captain-marvel.html"
-    },
-    {
-        "title": "2018 🎬 21.Ant-Man and the Wasp  🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRY7aJ24k1f3xgBiDrFdWX7oC_XEh_K_Y4jzYf-4PU-YQ3RUZ0gIuPSItfyxrKPiIdtPyBthVTT6hIJoLeZJWKMpGcl5yexP3394byvvi7-N2vBJtwbyPF45iXfHWcJjb0nJ-8qqFS4jfl-elmA_TEpayI235Q-VnNho_RH0Od0GedtHP0NLWaUrLLIw/w266-h400/178-21.Ant-Man%20and%20the%20Wasp%202018%20BluRay%20%20Hindi%20English%20AAC%205.1%20x264%20ESub.jpg=w293-h440-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=37XLo-HRfPrIZe64MjnngA",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/2018-21ant-man-and-wasp.html"
-    },
-    {
-        "title": "2018 🎬 20.Avengers Infinity War  🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv19tYXZF5UwPi_tCA2szgCT1pvqykSlNMH8zPNk28l12_ftgjNB9_fn4So7Eyey648vP1XwPe1sc3PoOAGoeGL0xU9Eip1oa7Z0GkcI1EByquq2y_qGQP73-0980_i0Fs3-SuM2FPoRsVUf-6BAaSYiBc0aPBtvQhbpsSGFzlGgimVPld4YcoKqxlCA/w640-h355/177-20.Avengers%20Infinity%20War%202018%20BluRay%20%20Dual%20Audio%20%5BHindi%205.1%20+%20English%205.1%5D%20x264%20AAC%20ESub.jpg=w409-h227-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=ANRzFqpCASXjkbRFD5sXcA",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/2018-20avengers-infinity-war.html"
-    },
-    {
-        "title": "2018 🎬 19.Black Panther  🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGDIO7nmBrtcogwBczrO1hFHwVlwbg1R6Fhb0RSUYS10kvnz7XmIx356K5ffM2G19NVfpg_kXKEUaawm93bUpqOJjoJ5HiEprRwJksK-yx-qpk_Yn44N5SkEVJ1SW0pFKWM0d901aO7TzU1kqInvGaBf0hahwg6ODXk2zjnMSqMGA1F1uhQDs_HX6zLQ/w640-h360/176-19.Black%20Panther%202018%20BluRay%20Hindi%20English.jpg=w409-h230-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=X8wc6W6Ddu_WC9J6WvqbOQ",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/2018-19black-panther.html"
-    },
-    {
-        "title": "2017 🎬 18.Thor Ragnarok  🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSnLl3umedUS1QM37PWdXXIzH248f4rbBq72lAUp-aP4yL2w5TM_EYD8dSOZ61IjgYxMqGqbZx1C0XVqPMIN8Fh6Zr0NgeEoC9WwZtjyelE63WLL9xalsbTFp_qA94HvDRvNCCEeNKPEqSZESQp7_yEXsWJnMyvT4JcB620QXGxsUQ45NFLOPTcR1MEg/w640-h360/175-18.Thor%20Ragnarok%202017%20BluRay%20%20Hindi%20English%20AAC%205.1%20x264%20ESu.jpg=w409-h230-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=D7hlSDsAROyP0tRJYrhr1A",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/2017-18thor-ragnarok.html"
-    },
-    {
-        "title": "2017 🎬 17.Spider-Man Homecoming  🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhxvz_yHftDLQUpdNQ_DNIm6YORQizh_4mURIw7i4DthJC7DKS9MF5Y-pH1E0hHRShCgVwJ4_jK6b6W4nFrXrzV8Wam-7nQFv9ppyQmK7M4C_aVi29c5fzifsEbxtyWhRjYp12qKKj88kbxtASB9EHGJx0e9-wtTKCxhCO6AsNymz44brVaMZ6BNlqyw/w640-h360/174-17.Spider-Man%20Homecoming%202017%20%20BluRay%20Hindi%20English%20AAC%205.1%20x264%20ESub.jpg=w409-h230-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=ngVLeEqBSYSxjmUtNHiBPg",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/2017-17spider-man-homecoming.html"
-    },
-    {
-        "title": "2017 🎬 16.Guardians of the Galaxy Vol. 2  🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6I89s9jIoCkUhZ_K8VzMIuCPuk4b4NCyjO-96kJ4EXCgzTprNazvqkplWUoUeQ5jVQRfW2tD47Fkblz8tJoQpPZHSwm1M7Fl-ugZ8Lg7owAR0t7E5LA3ZFTkQkZ-9OURhNtopnZ4jM-47llIsffpK_Cf9_5E4mzODo6flpyYT0q8AqmgH9x2MO-y3cQ/w640-h360/173-16.Guardians%20of%20the%20Galaxy%20Vol.%202%202017%20BRRip%20Dual%20Audio%20ORG%20%20(mlwbd).jpg=w409-h230-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=RLcMDbwzPPbb99AkbARkvA",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/2017-16guardians-of-galaxy-vol-2.html"
-    },
-    {
-        "title": "2016 🎬 15.Doctor Strange  🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0h172vnv7LFD9FjI5y7dU7A1Y5r3n3SHNywbT3eAdHGMjGcFq1kOInFyO-iWsUDEDTkhJgLlgLPOy9mLi5d-RCyqiBfIyWr7IVRuqlp3-PFcXHJxL0Zi8dNh0hihTBy6rBgrmMNaIJAkF3G6iHgE00N7E6-nNZwQ3s9Z6FVelGz2ol3lPi3BmP_IpVg/w266-h400/172-15.Doctor%20Strange%202016%20BluRay%20Dual%20Audio%20Hindi%20English%20%20ESub.jpg=w293-h440-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=5IVYedbVOXpcEQEP3gayOQ",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/2016-15doctor-strange.html"
-    },
-    {
-        "title": "2016 🎬 14.Captain America Civil War  🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDqjNDcTUebsBg2Qicib59r0hygrTvgiwKTYcbcR9nNnCdjDl6uLSjAOMf6X16djwfAZ_VkbZy_q_2dmZkKqZLQYM5JqbhPEGiYNA_KORXElEgBFywaruVa6EXueXHqLkikeEQpLElebCcba2I2flnl7phTZHWRTnXXE8ovjIFYTETRFKPc1HIGrR89A/w640-h266/171-14.Captain%20America%20Civil%20War%202016%20BluRay%20%5BHindi%205.1%20+%20English%205.1%5D.jpg=w409-h171-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=p2ekBSz7dbCcLMU8ofBPUA",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/2016-14captain-america-civil-war.html"
-    },
-    {
-        "title": "2015 🎬 13.Ant-Man  🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggod9DievErM1vvQexEmP2lqJ7VqUVJU9qtazK_y7QMbWwN74cpXb5ok2rUJ-5_67MoQxEDPOD4nPA8TIGQAS8R1fNhULU1EcqYBy97kUYMCBBnrYgdTV9jmUf405gWkq1y6EB9VZwhev6uQxK4_pCQJM63H1E1zWSeuGUYfxKjC6Y78kxLxgdQrNHyQ/w640-h536/170-13.Ant-Man%202015%20BluRay%20%20Hindi%20English.jpg=w409-h342-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=NViWTc2nIOXrnhe4eKzHGg",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/2015-13ant-man.html"
-    },
-    {
-        "title": "2015 🎬 12.Avengers Age of Ultron  🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM4nH5wxWJkd-WxLALLqODOD7cIwdHaGTQzkPXhY5jn-r1hyphenhyphenUKN_4em5znYcbhnop4CeS0ZYlHmJmEnd4LPFROPYWQZim3iqzMRHMn7JMByCWb8U5LIQ_qT62hDnzk7wOP8AwXpewYc2pdsg385uToFzzyAQtepy1_25bgM6M6MVdrp8wcCdZfzZ7unw/w640-h360/169-12.Avengers%20Age%20of%20Ultron%20(2015)%20%20Dual%20Audio%20(Hin-Eng).jpg=w409-h230-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=Oym2urGQwugq5D48Joakvw",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/2015-12avengers-age-of-ultron.html"
-    },
-    {
-        "title": "2014 🎬 11.Guardians Of The Galaxy  🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_a-MHrDulARx8mTSVQZ55EEmi05fh4dSceyvaoBjjgg9PuMbqnQ16O6XBYV94MDoMG5XY2Wigz9khiaNSjAK4yZYrHEt23dz51o3Ra31ns-FE5Ss6LT9C6Oe_Vrw9ACcsOUnUAFDLEwyux2FA33nmBOiJpzXBqvOqGaMsBDI-4hjyQMOMlSfi51s9vw/w640-h360/168-11.Guardians%20Of%20The%20Galaxy%202014%20Dual%20Audio%20Hindi%20%20BluRayN.jpg=w409-h230-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=Oym2urGQwugq5D48Joakvw",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/2014-11guardians-of-galaxy.html"
-    },
-    {
-        "title": "2014 🎬 10.Captain America  The Winter Soldier  🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjn7gK5Gv_S25i4sEPM5EeCE-rkOfcXCyqdXD_K-72CbYO5CsjAWkSrW1m4-7aee-M1wEgoyXyJevm43bUMTM71-HEBQTjs8fnyDLp_SoJdVuiUKSDnq5eSe32ZwwUMHg2z7JW8zMr754rz2U5hN1lAbwo9m-Mjg64jVV5UazeLXVp9QP7vfftnG3bglg/w640-h400/167-10.Captain%20America%20%20The%20Winter%20Soldier%20(2014)%20%20BluRay%20x264%20%5BDual-Audio%5D.jpg=w409-h256-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=AnVm5uYrS3oue84vkXxOyg",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/2014-10captain-america-winter-soldier.html"
-    },
-    {
-        "title": "2013 🎬 09.Thor The Dark World  🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVgeZo_iXYPxNgOqVHep-aNuNQwVDHSHiHKfNP0GnMrms_HNJySfqnO5OpWl6UuyTQrrkpjRBrJspMnCWFjLrO8TACIgdOtL6zsgqxTlbJ_N1nYLEV30xvAzyuCseUeO3m5cSyq3yXahBd1Qc8iXl-QlbVIJBNsxj6aIkKWwdEdZXPS3iarZaB5nJb9w/w640-h640/166-09.Thor%20The%20Dark%20World%202013%20BluRay%20%20Dual%20Audio.jpg=w409-h409-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=ixfApGWnAVFHfLZ2rMl9Kw",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/2013-09thor-dark-world.html"
-    },
-    {
-        "title": "2013 🎬 08.Iron Man 3  🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_KLBZDiNxqEJ6_0hYMM-ZD6tJTHo8i0FHNyOoCrI4qXsBQixGfvzzzGDalT2DB29zR0Qs5E5KpTRH-vXrZ-Tk5r126HsESIdgvUBtNo70Osc2TRYpKUmUFaxS82c8jnty4s_lQVRIiEP0S3WTowriGQ9qm3EElEYfAGEqEXfeSQMjuTvQiqPbsix-cw/w449-h640/165-08.Iron%20Man%203%202013%20BluRay%20%20Dual.jpg=w409-h583-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=ZQYrJY4P0jF_PwbzwF93CA",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/2013-08iron-man-3.html"
-    },
-    {
-        "title": "2012 🎬 07.The Avengers  🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibukcS2MfZhgiZh-cKxbJVPahAaA8jRDyex1kvEC3LYeaniCoqbAO5z_U2hobcB5e2RqZOhw37Sm6Fw31LkR09vpvE2cujO1Loi7nCVB-DqgWsxXYSPS7UcKka-xktKd-_Ka1_TDWN7veigNpKmaRn8b9X6A5G49jC8EsGwMWnEKvjuQOmPTlKes2nzA/w640-h360/164-07.The%20Avengers%202012%20Dual%20Audio%20Hindi%20%20BluRay.jpg=w409-h230-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=uxrHY1wNInLNl0KYx749lw",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/2012-07the-avengers.html"
-    },
-    {
-        "title": "2011 🎬 06.Captain America The First Avenger  🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1k2RYgNLVkejEfP4KjxjtzPqBTiZaql2aH0qEifnKBlKFPT3Qwy2wzsggqN2FoQOdKd3dkIz8ktVoMuCKVT44M8ApCc8Csxv9OJPGGlbKi3YOvF4Po5hMgosvFQDP5fyUq4oiSsQteSVPucZRGD7-wc2S9UaAUFLH4Rewl3lk1OaXnFxqndheYXZsrg/w640-h360/163-06.Captain%20America%20The%20First%20Avenger%202011%20BluRay%20%20%5BHindi%205.1%20+%20English%205.1%5D%20x264%20AAC%20ESub.jpg=w409-h230-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=1cU55EriH_Q9oameHKNnow",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/2011-06captain-america-first-avenger.html"
-    },
-    {
-        "title": "2011 🎬 05.Thor  🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhAOs7nLZH0j0plqvtetmdB02CEjMbhsiSNDsSKnGNOogLRid3VIhAbmXzFjfCQWqdVxFdZ9qwUfh7nQuPzwXNE901gPKaztUmWhJKN0A3UZ5NxgZ_KKAxg-epMmTehU8Tzk4eMkNbeUe2caDe4umYEmKSORgktgqLJxzgrL7OrO4R1QypPUZLulzYYQ/w640-h360/162-05.Thor%202011%20BluRay%20%20Hindi%20English%20DD%205.1%20x264%20MSubs.jpg=w409-h230-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=pb43fcc7TlF4HeRS4x0ctA",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/2011-05thor.html"
-    },
-    {
-        "title": "2010 🎬 04.Iron Man 2  🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjtPrKcPU-XYwmhqcyWM9WWLzDI8khKw5Z7QPRHIByoXJsd_VGUfY0qHCwKmjNAAI5ivjW543a0dCotqdfFE72wM0gMIOmTlOqPCyU3KJ2Xqs7Ubt8Wv5iRFNbCpD_knfc9PBLdiZ2IETx7BZx39b7cEcNyBku8nDFXYd2BiKVC6Km2kI69IxlvGUNMg/w640-h362/161-04.Iron%20Man%202%202010%20BluRay%20%20Dual.jpg=w409-h231-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=lcDjPRj7e-5C7Ds_y3Xd3A",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/2010-04iron-man-2.html"
-    },
-    {
-        "title": "2008 🎬 03.The Incredible Hulk 🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4ZCnqbkerZTmCArHW7xB67uNmU_Ju22QrBJO-EoN93r-cBjui56EsZByL_3LjdYPls6sA2csR05vGV5CsO9fJNRAHyPMiPv8owbGFu_mTS4IXjnXjae3uL0nbkvqVXwD9_nuBbxv-P5rMTd7BnB_tutFa1cT-AYN6WfdfTBI8JE_PBQDd2X4x_cma6A/w640-h360/160-03.The%20Incredible%20Hulk%20(2008)%20%20BluRay%20x264%20%5BDual%20Audio%5D%20%5BEnglish%20+%20Hindi%5D%20(1).jpg=w635-h358-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=9y4y4teH6cB9o6k5w-iZmg",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/2008-03the-incredible-hulk.html"
-    },
-    {
-        "title": "2003 🎬 02.Hulk 🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjP1sGMis1LnX0dpm2Aw2RBMy_6-Bjmcy1dLqRbYR1AgKbYPZmDOMgx1t7YJSlA_GrZKe7rbWDCSPNVG1ms6PUNO91tseM5-qHtWqL-FyGfrjnGZQnYslu8zj5jn6GEBYOvmpatjX8HZAtpCVzDsxILDeKyUNDWaT0XQ-TyVIAIiO1QwwYHFbxUgpwbeA/w640-h360/159-02.Hulk%202003%20BluRay%20REMASTERED%20Hindi%20English%20AAC%205.1%20x264%20ESub.jpg=w635-h356-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=Ac1G5iwKLDgQBwyjP0IFcw",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/159-2003-02hulk.html"
-    },
-    {
-        "title": "2008 🎬 01.Iron Man 🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWqQv_SL-xfrpLXAeZW1oNrF9O09Y9Ewp8HeawnG4Vwzwh7ld7AfQkl-_o2exTg0YyiWPFYg9EOtqw9HuP6WX-kpRUTROZCp3Dsx0Fy2YPWdS0bEltVJINfm2ooeshTkOLYLqZmOwVI0NrcPAXM-scY8IAMVG5LZ1Ncml8CVZ3HTn_xBzmrFrgMG1kAA/w506-h640/158-01.Iron%20Man%20(2008)%20Hindi%20%5B%5D%20Dual%20Audio%20%5BHin+Eng%5D%20BluRay.jpg=w557-h704-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=qw45OcTkLyMKL6MPnIH6eg",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/158-2008-01iron-man.html"
-    },
-    {
-        "title": "2023 🎬 Puff Daddy  🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFZV3uVkZt70c4tzeuErEw-PwK3ezVRIyY69vtyMkVCuNn7vZxIKiuz39IDdx4zU9GjmpOHb9PpJMo4FGH1SuODEwbzXO_XiHBy-PiEOvug3SoKGxGpCTsGCSvoV6BdSGTaowsUWcaNKsxZXyn89rNIiF-kH-SAZMt6NtfEzgQ0tvi-_CQlrqiwPSnRQ/w432-h640/216-photo_2025-02-13_14-21-18.jpg=w475-h704-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=6Rk9mN5m04umUkuMvr1i8A",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/2023-puff-daddy.html"
-    },
-    {
-        "title": "2017 🎬 Raees  🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiED-vPZjHUodCtly6UIUQr1Uf-avathvoXhUsye_FXWYz1zoSBn0EP4HdQYoQZFx6t8fPylfqcW2bl9c6TB8ZWMyNLMqh5JRF14oI7H2mp6uYj1AtwKQf3-8-abVpiUKawarHLswoGnEBWTATsOSMFcXB9JOnkguRxxjdFCCklSJWnk7mCFm6Udy5khw/w446-h640/220-photo_2023-11-25_23-48-14.jpg=w491-h705-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=SI3v2v0qBB9z8dnaf0m3rQ",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/2017-raees.html"
-    },
-    {
-        "title": "2023 🎬 Ghost  🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjumGxYn1xyU-yP5ej6iSpCF1PyHYqVbcNvvbfKK_-MRQ07YEPrK_KFLl3jhxAc58cV5Ir-NvE2J2mZote5s62N2ALIRfjh1TpRFBFm54cjfljZkuWni_j2lraqdF-e8gN_nCFhQwpYW1dJMeTLyNtODtUokh4636a_Vyc4eQoYr3MP2-HjOrOGpOKcDg/w640-h640/223-photo_2025-02-13_14-20-35.jpg=w635-h635-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=Djdd57xWceEBvFerORVy2g",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/2023-ghost.html"
-    },
-    {
-        "title": "2023 🎬 Ganapath  🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJid5M0dKdpqM6VY8QMhLgl70xAh7OyG893UKPV3p-dZK_avscN8KprxarRyX-L4qzLLw92-dIRfkvaVUVO9wwhWfR552I6ZJyc4JZSLRHgTrpM4NPHmsD4i0HPAjQUGvfoTPaZGwvLcQ4rdwraJQqcCi4oLPxebBpM5CvnR7h0V47UvRyCi0fQoNHyw/w640-h480/222-photo_2023-10-25_01-36-29.jpg=w635-h476-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=cdOoxwZbLfKHmmH7Z1cFvg",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/2023-ganapath.html"
-    },
-    {
-        "title": "2022 🎬 Pett Kata Shaw -S01 🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjznRKdhO2UfUQseIVvoWIn6LzJ0IcVmuhTCwHUEPnRwhBu3pbc8ELGD2acyS8goBgVX5wI8Oha7mgNHwV39WlGpGQRq8IYjY3VCJzfyCfGQm2S6DmKfoNVEtbys_PQ1YVd5PYDsYhQohm0mnFvmT_hdwH46Nh_iD3qR08gRqCtkJhm4O13R3_8V39xqQ/s320/228-Pett%20Kata%20Shaw%20(2022)%20-S01.jpg=w282-h352-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=41mMYoVbb_N1mwuVjIx3kA",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/2022-pett-kata-shaw-s01.html"
-    },
-    {
-        "title": "2023 🎬 Vijay Raghavan Full Movie 🎥",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrZ85w2TumX1EJrAypbNlxZaco5jmDzwATj5v5g1nTdf0DHpJEYj25B8DmwKNcznfrDOM20tzdR_P7kG9Jb3v2APU8o_s4bTyYAh3alu71VI565MrPZtvuJWskOPbbMgW3MYelLuP1-zypEpvgrBs_DFiNn2WBLg6e-BYkgvWxathmOoIyjX2mpWJrvw/w640-h360/235-2023%20%F0%9F%8E%AC%20Vijay%20Raghavan%20Full%20Movie%20%F0%9F%8E%A5.jpg=w635-h358-p-k-no-nu"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=Ro1ZF8iIBblo2BD4vG1BIA",
-        "link2": "https://cinemahall1992.blogspot.com/2025/02/2023-vijay-raghavan-full-movie.html"
-    }
+  {
+    "title": "2012 🎬 The Dictator 🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_p1zpxePphnBRKOWLNmUtniU_ajGlksv-4Fr7f-3GaVaT52TbJfmfpw-HMcNjoCi0s8J87ULyRVGAWsFueWbVwACeH5S0wHhFz6nJd7y3VtaSjzKI9KsEuIr7H-k0-gog4ZS7h4gkkx4KhQHXJ-mj0-cyYWjHpaztMpoQX36o-DCBQP_CKBrteoeXQg/w640-h396/219-photo_2023-11-01_19-05-52.jpg=w409-h254-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=4oQZwW0EBhmxsKbZCnC6ag",
+    "link2": "https://cinemahall1992.blogspot.com/2025/03/2012-dictator_7.html"
+  },
+  {
+    "title": "2023 🎬 The Devil on Trial 🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1nQE0FAkcjfqiuhbeuxBD5gc3dBokP2FbTrlW1xR7v0B9_nRUZMm-tJaiKfs3tsSQdgXxjBurl9uNdUMmfmF9YV2o1LxP1ADYskUoUkvgQXtEAIwCnrN30zRI75BfCldcc0VovZ5zeuydSd5YJWIHxz72HFj8oqRBp_p6ggGMg-lR6aXUDIXLtdUSOA/w640-h294/221-The.Devil.on.Trial.2023.Dual.HEVC.jpg=w635-h290-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=FYreEri0psIzj9ZWdXp8Ww",
+    "link2": "https://cinemahall1992.blogspot.com/2025/03/2023-devil-on-trial.html"
+  },
+  {
+    "title": "2023 🎬 Tiger 3 🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizT37lwAmoDhVz7M63v2gWWS4c3Ev75Oo_ZSuwd1fyoGL9-55jyiWmq64ZrnUR9ikJNnFsq87Tei4lXbK8imz-NqGbipTE_nbm4DFKGRFcQ8TXTPkvYjuuatP_K5bbD0fgCSPiJpZdcyqChRHNLvihXsk3nVPzlJzozjKHIBO9NGkXle26pY08nVxveA/w640-h360/218-tiger-3-8-14112023.jpg=w635-h358-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=MvP0LVhTn5Zgk1ymK5CzfA",
+    "link2": "https://cinemahall1992.blogspot.com/2025/03/2023-tiger-3_6.html"
+  },
+  {
+    "title": "2025 🎬 The-Gorge  🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu1aZiQ6b0TxKjUbyn0fW1VSoMg0bQyeT7LNB0UcYMz5H5Gx1Y3KK-lLJYsZcbKwEWq6Vty2nZgZJoeCLQ3DjCPdqMFahsAE6r2EiZcWQ-sV8Uvy3bUV5QSYh3mLZkgH1earmcrNfdY_xYMbEoRqau5YlI_ivhDyIDt-TpBL81LVuJuxbcwuxDKi6nSQ/w640-h360/157-The.Gorge.2025.HEVC.jpg=w409-h230-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=mr3itScsxz20lenIvZIlDw",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/2025-gorge.html"
+  },
+  {
+    "title": "2025 🎬 Identity  🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzxXqLYlPVLlzzHqKh8yXd34qcTE9h-bf0nAQfQ40ZkLN3YAtPUJ1L72vamasTIPUgqjuQaWWjN99guDK_1CtcwQnM5Tg1bULQawYFA9rqERRb2_pCe2HZZQGnzj-o7LDgEx3Meoo3M4upNEOaAr0DMKNI9hLHkoiZy8SE7Z2ei1YskFyLNg-tFgRJMw/w400-h225/149-Identity.2025.HQ.Hindi.Dub.jpg=w409-h230-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=qi-QIiXBef8Fbo3cprptNQ",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/2025-identity.html"
+  },
+  {
+    "title": "2025 🎬 La Dolce Villa 🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0fsVDyenr57V6sxhd9sBhIsh1lRDBAJSVrR4g_zjNKyaBx1LvdwtFk5RLSmZZLwdl9zBeSJoA7C3JNu5-FuC3LuTQxMYnH2Y4jdQToetZdU2OJXOj_8crcv92UBkA1KCfXAoE3uDwDiWLlf-2cBWJD393ApZ-4chQBVINYoFpe7Frm55fI8XXt-PTYA/w400-h224/150-La.Dolce.Villa.2025.Dual.jpg=w409-h229-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=7OvZPspqGJcBoNH1UOWwpQ",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/2025-la-dolce-villa.html"
+  },
+  {
+    "title": "2025 🎬 My-Fault-London  🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj32FTRZrXT6QdwfC3RQ_tuIgLXbNKMyv1cpgirDe3YVzSRpu4g3c2nHNCy-RlHc5FO08OI-zh6pUPXyed1ic42TcT6lnOvY6dahLO-6WYg4hGL1sPYY3nwG3BD2kjz66NM2ZNOH0gfnbaErmFFICtGlQnbqLfehGNy9iQuD-1UgmJkpSRLkxkHNdYgHg/w426-h640/152-My.Fault.London.2025.Dual.HEVC.jpg=w409-h614-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=zAh_62hi9-o89GRFH5JiDQ",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/2025-my-fault-london.html"
+  },
+  {
+    "title": "2025 🎬 My-Fault-London  🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuPSC5F8mWxvyaKFcGHVujB7LVHDgwuAHtCzxKWS3Vngfos8NpzVfyWRKPQBICytuUEDmyIc5rlYpFw3sDcVgzMQtHyJNJEVIgco05fid-IC1cIpwPDPmrOQChJFTXV7vEjb9tNtXq_ocy6zWgRBrcKZFD6zeGhvZLcDgLt5qRf1Wt0Z6rRRnix4KMuQ/w400-h299/151-Bobby.Aur.Rishi.Ki.Love.Story.2025.HEVC.jpg=w440-h330-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=wKGx61VxWedn6AMSV1__Vg",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/2025-bobby-aur-rishi-ki-love-story.html"
+  },
+  {
+    "title": "2025 🎬 DEVA 🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcNYCFrh25XoTkZq6eVrfeL9ymE3CLTFzAPPiZ3vhrrc4Ty31ftDkF2YOARu-jWH-tM-aGuEQIxFmPsvy0lhEPuyhBQeUIZrpQPoOqnXtHaj3Z5sAThNY96tn-2cgKtT5GGDpjihYO_FeOK9HIXRbpOpjhaW2eoSGmyqY_j0Pye7fToCxYTgIs5dUXrg/w640-h360/105-DEVA_2025..jpg=w409-h230-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=6PShAc1gbz9aZuR-567NVA",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/2025-deva.html"
+  },
+  {
+    "title": " 2025🎬 Saale Aashiq 🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7w6VLEWCT9foJ0lEx-Itho0CEV2gv-TuyORDdz77mAObENvlAIUsm_ykspxRcFPKKEW8RlCQJsJU_C2uKJVGYZTMoilEJzBF2sfMW30lD-WazmNaCWUDmNIFYDF6QNCLhUfAsl_DVU3hGMDQ_jYQqVuKlJar6gRcyuEuDkllpbkRfwEqu4JYPDXVb2A/w426-h640/107.jpg=w409-h614-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=YjlkLC_ddaJv4NvL20yVJw",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/2025-saale-aashiq_13.html"
+  },
+  {
+    "title": "2022🎬 R.I.P.D-2 🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhojBAn9ZtKOyMMOzGkL9U_usnWLJt5MjxOEJdKX14wQG31X6vK6j7Mi2VCIr8LYNPwNaYqkaevx4S8Q6MI-S4TmCdR0oTrP_33H6vGcTGBifE7O9nDRhdN4kYj8mhhv0uqN8BlcLUTtWHvMBAsLioDnBydeehE_5EKfrinZrgWE-vEzt-Ze1M6qhnH4g/w640-h360/109-R.I.P.D.2.Rise.of.the.Damned.2022.BluRay.x265.jpg=w409-h230-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=OMjDPvIG9_fxsWiWggoiuw",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/2022-ripd-2_13.html"
+  },
+  {
+    "title": "2013🎬 R.I.P.D-1 🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhk3OZFgz0wMDc5AExTevMCX98Mwc6Nn5YY1veKBZrhL3-JXjWV2o4XXR2cLsYmVVawwvu8mwHrMhFLNzwDsohw6KqUoLvCVAg2WzIpdH8pAyDcTovMo-_QrtyGG1TWeOXrOFYxwJu_KqSMKR3uYIf8TbL8xLaVwBYA63f6lzWISsiB8vT1A2-0ZVmDYw/w640-h358/108-R.I.P.D.2013.480p.BluRay.x264.350MB.jpg=w409-h229-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=a4WyPpUKHwzTIC-Las-OVw",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/2013-ripd-1_13.html"
+  },
+  {
+    "title": "2021🎬 Infinite 🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6I-lW8GHYkcvr5V3YhboYnUM9zh_k9vj6Xpt4CvWmciWepSPoimXjQ5SJiwA2UxRc87WwioHudht8EVN-TVl53O-qLEOpOLe4PxQzKyceXZX4QRQTz2awE4WhjtZXj2oD1COiOWizPc1VgpwBl3ghjOis2qTko6I8GNsXnsy4zLdleycd7aEw9_8muA/w532-h299/110-Infinite%20(2021)%20Dual%20ORG%20720p.jpg=w585-h329-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=e1-IxLCvxMvjOM0EOAFlgQ",
+    "link2": "http://cinemahall1992.blogspot.com/2025/02/2021-infinite.html"
+  },
+  {
+    "title": "2020 🎬 Bheeshma 🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisuhRvF_ldj386lmhb-DwcrEVfdyJCgnwDseftdcOXOuM1ydpO09CCYF1sflZikkK7zy8TW54yBdsa4keLFsmJh-UJgkrqzq-9GYbqjkZ1wUUR7TqanA45DlQdxSGpvCMjBlx97gJZwybdTONgld59hVDKEd2XmZ4VbM1tEZ2S4Xsv9PHktB3jxncEkg/w640-h360/224-Bheeshma.2020.WEB-DL.Hindi.ORG-Telugu.ESub.x265.HEVC.jpg=w635-h358-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=F77zl03PXIsFpVNxyOOm0w",
+    "link2": "https://cinemahall1992.blogspot.com/2025/03/2020-bheeshma.html"
+  },
+  {
+    "title": "2023 🎬 Bhagavanth 🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkEMqeGwWlghyphenhyphen6HX4tlkj26wruxfBzw4qvyEIotYqP65AVzMkmBgIGbiU9G2lWd-6eHEdS3tPQ0YV7lCTOubhpnZI62S-gU2ajYxk6wkRhWG8Ch45qf4TWzgMUQFiLkiu5BgugdwWyiZplLFd3fQ1GJQkc1vlR6C_BErK2kcXjWcFxwZlgPpqjeQ-05w/w640-h416/225-photo_2023-11-28_19-06-53.jpg=w635-h411-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=7v1L5hIb3i2vJ3cAmv_kIw",
+    "link2": "https://cinemahall1992.blogspot.com/2025/03/2023-bhagavanth.html"
+  },
+  {
+    "title": "2023 🎬 Baby 🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjekay_73B7kz3V2G3Innn_b_bnarmTAEju4nRLyEf8wWqIUmgqcHJxvms-flti6qq6tlRM8jDaeYvcilMwWS_LoVP1LON4ILhOYZvKVEFGTWzx5nFk7iypf6QZ-vvfYONhlT_k7vEOKcytVSsl7eoWKGOVRD3gnm3sY1CGhszyBx9qPfAurBUXOcQwig/w640-h360/233-Baby.2023.WEB-DL.Hindi-HQ.Dub.jpg=w635-h358-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=9O8hwGU5u9twn1pfKOBRuw",
+    "link2": "https://cinemahall1992.blogspot.com/2025/03/2023-baby.html"
+  },
+  {
+    "title": "2024 🎬 Dui Shaw S02E04 🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnyPDjhUQnrb6PLI4_mVY8ZtjOyQBMyWdbqSajqLPF70WAT376bI5JGkDDnTCmAorCsE3h16vlRpyEGzuGBJpCpG55Kf7rtTaKZTlG6H5a2bArnuhzCjTsTYqPzy8k393HHCiic0XLEuEbZa5E4M4584gFXYCPThceN6IO8-phi1bKqzvB4zYH9MaJxQ/w640-h360/232-Dui%20Shaw%20(2024)%20S02E04.jpg"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=_Pm9edbMeuiX8trzFte0Gw",
+    "link2": "https://cinemahall1992.blogspot.com/2025/03/2024-dui-shaw-s02e04.html"
+  },
+  {
+    "title": "2024  🎬 Dui Shaw S02E03 🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaVkWSK5SteK9t4eB-rjuGgSbDA2pObyps4KdLL51WSJ8M_PoYkrziiuElBuQqiZZMuiYY_qLQVzmbrCDFlnM00AcF3Su7QYxX7wAAJho12J9inCC1m2-Rl0UT8JiOD0BBPEfz7Z9uFh2qDC4tu5l6JCkNpNYNWdkgYTwzpIWa5-BaagDluHhZrSLiig/w640-h480/231-Dui%20Shaw%20(2024)%20S02E03.jpg=w409-h307-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=uC4775U-LsoyT5Ce9zPuSQ",
+    "link2": "https://cinemahall1992.blogspot.com/2025/03/2024-dui-shaw-s02e03.html"
+  },
+  {
+    "title": "2024 🎬 Dui Shaw-S02-E02 🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM2Gl7TIKBj-al2yXapOCcxMorNGztmOwHAHCIUoGLt6QriShD9uxqw6mH4-kaQuGxBJDQV-5Xq0k4vZ5GSJEUYo_G24UVsJttErAmUzkp4WuCttFKaxiyQWJtmW4k0u9q5VRgdeEOrFAjZvDJdJ8jRcWRy0iU4CbMeJuvsDfOqBT1prrXNI56SrJlQg/w640-h480/230-Dui%20Shaw%20(2024)%20S02E02.jpg=w409-h307-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=Z-ndL883g4-sRjbtmwha7w",
+    "link2": "https://cinemahall1992.blogspot.com/2025/03/230-2024-dui-shaw-s02-e02.html"
+  },
+  {
+    "title": "2024 🎬 Dui Shaw-S02-E01 🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM2Gl7TIKBj-al2yXapOCcxMorNGztmOwHAHCIUoGLt6QriShD9uxqw6mH4-kaQuGxBJDQV-5Xq0k4vZ5GSJEUYo_G24UVsJttErAmUzkp4WuCttFKaxiyQWJtmW4k0u9q5VRgdeEOrFAjZvDJdJ8jRcWRy0iU4CbMeJuvsDfOqBT1prrXNI56SrJlQg/w640-h480/230-Dui%20Shaw%20(2024)%20S02E02.jpg=w409-h307-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=gvgoM47Vpik4_LMOofeneQ",
+    "link2": "https://cinemahall1992.blogspot.com/2025/03/2024-dui-shaw-s02-e01.html"
+  },
+  {
+    "title": "2022 🎬 Pett Kata Shaw -S01 🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjznRKdhO2UfUQseIVvoWIn6LzJ0IcVmuhTCwHUEPnRwhBu3pbc8ELGD2acyS8goBgVX5wI8Oha7mgNHwV39WlGpGQRq8IYjY3VCJzfyCfGQm2S6DmKfoNVEtbys_PQ1YVd5PYDsYhQohm0mnFvmT_hdwH46Nh_iD3qR08gRqCtkJhm4O13R3_8V39xqQ/s320/228-Pett%20Kata%20Shaw%20(2022)%20-S01.jpg=w282-h352-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=41mMYoVbb_N1mwuVjIx3kA",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/2022-pett-kata-shaw-s01.html"
+  },
+  {
+    "title": "2023🎬 Vaathi 🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgF4as4P2WxlEaSeBKkk4vi0mk83C2Ixu0uhf_YAyrAHATv9U0iJ0y2PJuaoTNfZ8-3Sualb2Q5503IBQA6FcLCXntNq_mTnsEkOmG2CF5-TzcEeQ6sv40B0Lt1TXuYk41L8cGEpoUGj6o08B4PpZVg3gXpjjsQwreskFCrib_rEHnKUaa18qQRjDuwyQ/w640-h360/111-Vaathi.Hindi.jpg=w409-h230-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=P6P4s0d5QdwV0Ll-Yt-W3w",
+    "link2": "http://cinemahall1992.blogspot.com/2025/02/2023-vaathihindi.html"
+  },
+  {
+    "title": "2022 🎬 The Storyteller 🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUbxGNOKoOz1wzL8i1ikfmcENfYlyY6-1I5RmnMcuc23x9FJJuPJQzpm-zowYsIu0gDIR03s-Mw5uK1e8hcGc-XTdRkqinoDYbUVgZT_KQ992G7AlrRLRC1kC27zlyKNgbS5RzTWPEUckW_zVCJabC9n6ZA0rDurEVz2x3z1OD_YPMtm93uJKOVYHdXw/w640-h360/112-The%20Storyteller%202022%201080p.jpg=w409-h230-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=R55-aaFbcbT37LXWql8Ptw",
+    "link2": "http://cinemahall1992.blogspot.com/2025/02/2022-storyteller.html"
+  },
+  {
+    "title": "2019  🎬 The Wandering Earth 🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMs2BoG8wt9Fd4OMMgiCKVxgZWat5H5tZLfCPRXmUnxf5Q-YMNN0hdnVCDQ9i-ErAgiKkWCNFxZuPKW2kvhKiqyhrDOvF2hyBQAznonoOy19d6xL9Z9Mvkv-b1M-rrp0UCzmLqJ4yli9Q60Lo9IHQIO90IdbDftP-NJLxw2kQxSiGpUOi9fz35-dz4zA/w640-h358/113-The%20Wandering%20Earth%202019%20WEB-DL%20720p.jpg=w409-h229-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=lt3AMTGcadAiTpuXDqwDtg",
+    "link2": "http://cinemahall1992.blogspot.com/2025/02/2019-wandering-earth.html"
+  },
+  {
+    "title": "2021 🎬 Army of Thieves 🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyfM6zSh-r4dDZ0w1HmJU4R8Aim9wxxeE7LQFh9EDgzKQ7QVymiMYpWbZR2NI7E9-BYPI1GOUzCxhhaE7-e5jISkqnUswQQflefoXmfuXFw8Aogj_gdoE_iQo4_-alLygQQRmKX2b2Cr_gcEgeBVnX1ErUKC2Nv0s3tZu65Y7DKuPOyJLK1YG4fRjN6w/w640-h360/114-Army_of_Thieves_2021_Hindi_English_ESub.jpg=w409-h230-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=1i1yuyifZAvuAo1yHwqPFg",
+    "link2": "http://cinemahall1992.blogspot.com/2025/02/2021-army-of-thieves.html"
+  },
+  {
+    "title": "2024  🎬 Jailar 🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgELs2tx7QoqzkKzazNX02Y6qKPTMgqsjPnpTPfXfhPEgsrOu_k6cwo-ctsATZje7xfYp7r5IcZhyphenhyphenb0BuxBbKRNwQouKYzpiHYSkLHyjMTsNcB-EjOJCES98TaC7htWk7pjuZNdfUrUptDQiVdApAgAen8v0XF6DBOrQ0vnPfJ_alLktSF4TTI_lr1y0Q/w255-h400/115-Jlrsprint.mkv.jpg=w281-h440-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=q-WnpmVxDDy5DFzyuIbI1w",
+    "link2": "http://cinemahall1992.blogspot.com/2025/02/2024-jailar.html"
+  },
+  {
+    "title": "🎬 FastX 🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGSUwedl9XgXf3x2IWpHFtsbKh4HG6Jqf3wnwQVTMaTjBnWtv7YewDjghCuOZJMqG0Ml8sN9I-lCW-ynPPYlmDeNZN9RoD7sZY_3APuH3dEU8qZmeOdvtuc9y_0FSNdeuNpa_Wwos6njDXIEYrYGsfvColmIR4Cf7K9YoygJlvcHGLd1uFQlgVuEuukg/w640-h360/116-FastX%20Hi-Clean-ENG.jpg=w409-h230-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=ymgR0cPu-2RT-txbSCCj8A",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/fastx.html"
+  },
+  {
+    "title": "2023🎬 Salaar Part 1  Ceasefire 🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSqSSY28a4sIKMljDkjvxARjziDhZzXlBb-jdtJdjFizFyeCaQ25X5cVgDYigdqmXy8EuW5f_ZPVOj6ARCQ6p07HQzgtnDAMiB0fGOqlrNehZc_-SVlZRQGWrD4LvZwmVpuBYdQeaxtjCdWExsDQOjgiwY0VSS0a3nnLgvVAFCuKF8SHuVMFa_hAQgmw/w640-h360/117-Salaar%20Part%201%20%20Ceasefire%20(2023)%20Dual%20ORG%20720p.jpg=w409-h230-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=kkeu9GCY2qzGZIfnz3Noaw",
+    "link2": "http://cinemahall1992.blogspot.com/2025/02/2023-salaar-part-1-ceasefire.html"
+  },
+  {
+    "title": "2022 🎬 The Goldsmith 🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWWejS39vXRawlj2V8VZ5GeMth-t7B4jjy3W43dv4-OkH_-xzkB8E0ExXcfNK0MNtqZhDgNrNFlA2IMzuVUe-5Ye9jkjscTUxPf8KEr6fzSxGINRnCuzXwlZ9y0HPkh3K9gcCejXPSjiHaFNN6CPVz1WE-OgDcD93gQV5G4__3G0yKBmIpFvT9v2fJiQ/w640-h358/118-The.Goldsmith.2022.jpg=w409-h229-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=-Nm2CP0vxoxU4VDSTTAA-g",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/2022-goldsmith.html"
+  },
+  {
+    "title": "2007 🎬 Hitman Unrated 🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq_8KiuoeC-Iq5GhHILGF8YiXs_VIhpps9HoD74vJQW6jjmFl4Oca4bVaPfNkOzt9Mo4czRsPbF0_zr4iTjIrAYIyJsqiH1p4MGUQCVfNZmpkU9hIV8bqZEA9OhBQ6i8Hh-KGpwOBn1E83C8yTCCImnATYxn2gu4LSOBKgwJJXB0XAsPWJvEX-olkkhQ/w445-h640/123-photo_2023-10-06_00-52-13.jpg=w409-h589-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=Aoc7wN2B6JXj5o8Og_kv9A",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/2007-hitman-unrated.html"
+  },
+  {
+    "title": "2015 🎬 Hitman-Agent.47 🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgD1Umn2kuZ27fb_zVtr0jyOK-o-SBTnFphEHnUFPxBwfJL4qdpRWzAP21bQ7fm9BGeWc-wj06qhPwIVkVwMGSXt4DyFxCsdoEPnLlTKZUTPwDvyA8RZWqBKtu10njWppYDpMBtkjC3fQU5ey6WUkDuFFTwCa60opRPEMg8WV_DyHsWs3Q-Ly4qi4MFPA/w432-h640/124-photo_2023-10-06_00-30-08.jpg=w409-h606-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=3VZoCjpqZ9udkg9OXPdbOA",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/2015-hitman-agent47.html"
+  },
+  {
+    "title": "2023 🎬 Bibaho-Obhijaan 🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqNKFoWxFQ8GYTl-8urNrrd93qnRn_4nD9rLZ8w4GY68XA9HMofPCPB2umN96EqmbTlU1JkedFusIlNKhoVqfkuN0OW2yJVWMCq-6lYKsobqIPWpXLdkHbL2GdxuWJrhRty3LqxuNWg9vJpZDTB6rKYTGvoTHPvognF-nSw_5mfWT17tzNZvJ7ivtSoQ/w636-h640/125-photo_2023-10-06_22-59-37.jpg=w409-h413-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=Hast8bStN1OX31PmN-3xyA",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/2023-bibaho-obhijaan.html"
+  },
+  {
+    "title": "2023 🎬 John Wick-4  🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3ehcv8vQlb911qi4dkahbIYZLa61IZbjXDMpWzK7a56obE_FxkpcF4StcXTUuWNMCLZjzQ3HliLhUp9wyDxzzW_1tW7WT5-0mXACC3xRSJcIWPBoaBngneeVbvjdPXvqrhx7I9FK2WvJjZkJ-OPm-bMpw3ByVxe56F-j8-Whim5ui3WP1NpnKICWFaA/w446-h640/126-photo_2023-10-06_00-55-07.jpg=w409-h589-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=xzCqzFHiRBHtMt-QqZbZQQ",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/2023-john-wick-4.html"
+  },
+  {
+    "title": "2019 🎬 Jawker-Dhan 🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_BkB2asQJcgaUNk5JsPlVrfY8Tp1Ft6AINUM0nLd4sa779w95czn2l9RhVZLje_g-rx1iXyApTGmFN8psgRhrT_u54rKWDK0hpvHfqNVUB-zEP2OfhegbRIJSoHG_e0MZQWd9SK9f14ukP5Pu4ZReVZGw-scH1LbDwRtXZMt7XRprf4WRcYbbNrsiSQ/w468-h640/128-photo_2023-10-07_13-13-58.jpg=w409-h561-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=Lh5UTyDYYxnoyVI28guJEQ",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/2019-jawker-dhan.html"
+  },
+  {
+    "title": " 🎬 Misson Impossible 🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5bgdXmoW8Gj03MTSGiLh3N3-_qpNSNGUrT0aJm0wbPJvbPl-ozSX17LcxVM6bA0Wdf64IHP2OCVYJhiptMoLifMnOQZsgv-C62h30Y015HatIKW7bhm5xrBNU-PbbKE7XoFevWuc6_VvNXh5lmxrFU0uqrwExoi3AbEzbjVHGI4ywDI5Wj23hlv3M3g/w640-h572/127-photo_2023-10-06_22-31-53.jpg=w409-h365-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=OMIXPerFywuALCq064leaw",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/misson-impossible.html"
+  },
+  {
+    "title": "2023 🎬 Ardhangini  🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaFcqHB5nla6YCteqZMdB9qMiK1rZ8ZYf5aE9nhp8SGpmmnXv5phPa6vQrEqyt5wIWmDMiZzN99xFExJWRUItTBkhm5eeYTNHCj6ELALys7q7dDZ-sw5QemsNWO-jE5ZAhQKAM54P4ZelbtiCjtmmj2Pn-InstoTR1mUXz8uBY422kp3pHtTOda8PxfQ/w640-h366/129-photo_2023-10-07_02-18-24.jpg=w409-h233-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=ErZYCi2XWuaduRL8tXdMvg",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/2023-ardhangini.html"
+  },
+  {
+    "title": "2019 🎬 Supere-Me 🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVzh8HvvHLqqIxIxzR1J79jF1lOcdyio9yNwAgDzecIREpHpmzZnF19XD-Cs3c0FtLMcWHmL5IR0dMiwqwgSrPkdimmuFL_MGAK0Ayca_HO1oi3ArkfrDUCeeGO4JnRv2vdh7uF6oTW8FSLmJtrUah2ZKPsFVnkdSCJsc21xo6z_UcRrPqO9T-fr2IpA/w440-h640/130-photo_2023-10-10_02-14-23.jpg=w409-h595-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=We7gEsvyLxDCWc7k74N9xQ",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/2019-supere-me.html"
+  },
+  {
+    "title": "2023 🎬 Agilan 🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4ifgJMsHyI2esE-CFqmc7iignJ6SZ-shM-E8A8a363MfvgmIP9JuPty4spex9LalBWZqHgxdWkqaXaoNmNgnbGanNf7oQcCAd_pSIOHxWqQ-Zpv58_v0eeBwQ0gZPVm65W3t6snhVDoecozCj8xSEHRegzT02grabtp6BiimiFbWFpKO4FqtPJMbAWg/w432-h640/131-photo_2023-10-09_14-51-56.jpg=w409-h606-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=JDwCcwxiW5wtiexIul-Xvw",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/2023-agilan.html"
+  },
+  {
+    "title": "2017 🎬 Bleeding Steel  🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNO-P76jy-dD7VT_OW7j5pHB5Qw45VUnVS2_IwmCY43nwx912MAhmgWzrDqPXtXuVkq6Zr5NsOQKIhXkmy7No_r0GiXcOfDs3XNkeZTmncEdZCz9-SrG298z5Qv3OH0gSfKE0ZoYCYjj2InRfnEDb_PcyXIz3peJ47mk5bivMdAeejwuYKWqB6zNIjIA/w432-h640/132-photo_2023-10-10_02-05-19.jpg=w409-h606-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=sqbrCg5V9MiJ_EofJDJE0g",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/2017-bleeding-steel.html"
+  },
+  {
+    "title": "🎬 Magadheera 🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAU2SKC4DxanJ9pNJB3CoOwXH0aAsFPZinVtuUUqo3WdfeY2-cZ6VN6Zbk8oTbF-hth85gz42M8QK4HBckEpagjbZAoW-6JLvVmvd7dGqcdvKpdE8VnMEwcRG6pgGlD7uTr-v5NH8QXRXB8aNfQq5hHXk-bOQwDHzTOLOEFP0TqXEP0MotiACPeYB9ew/w640-h480/133-photo_2023-10-10_14-31-45.jpg=w409-h307-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=toXHJVv0PP60JtQyZJCT5w",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/magadheera.html"
+  },
+  {
+    "title": "2023 🎬 Mark-Antony  🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjehg4uuY-f-q-oZIgS1AkabEXme6KN5u8c5Zf8veA53AexVBQJKP6IPDcKfcLu-U1hIGo0GjeAiKsMfEq7UDCkGDgWl_l8UB6sWLox-LxnK8j8_1R4Rpu9HtnwhMx2QpsM7tkX8BH_yvBJCk11oryxoyglAtvE2C_0YrExz7f-phaav5Ww_u9W5FqgsQ/w512-h640/134-photo_2023-10-20_17-48-51.jpg=w409-h512-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=kdUAOIAPv3vNUXnu2OAxmQ",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/2023-mark-antony.html"
+  },
+  {
+    "title": "2023 🎬 Meg-2-The-Trench  🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKzonFZebFtfZnaYFjttHq2AJl1tu8wpe1cTwlQ9l2tThnsTyj0Kp_B7xec4P9HBaM-KEKQWh9IyXFfEvX40Rl2H4-4QUyH98FCBX0xdNuO4Uz0TUTcp9d68XVH6MJvNpAiIcXw_m_lKmUI-LzjbtEAoWeGFU07J4acCMm3iQPTBYNJIGixha-F_6A_A/w442-h640/135-photo_2023-10-08_15-12-44.jpg=w409-h592-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=hAXnEGGXUVVrpA-pPIG4pw",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/2023-meg-2-trench.html"
+  },
+  {
+    "title": "2023 🎬 MissonRanigonj Sprint  🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEio_5NgBJE4CFxWRlNEUF8Z_VvZBMnTDGUSIcAufd3TncZKVaUCcurs6UdeVUlTgduCLeh2aNPbrCKlT0dWD6rGjVYpTRNfWg8IZtnbTjSVqwv4Nw2C23isC9aecbOtlrTs5GKiO5hR-7j-cEzfwC8gPTqnbYwaQyu8I05yWjzofDZeT9xMIcgK13Gu2w/w400-h400/136-photo_2023-10-10_18-33-04.jpg=w409-h409-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=q8M0hwst1vAMC3QAeI-U_Q",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/2023-missonranigonj-sprint.html"
+  },
+  {
+    "title": "2023 🎬 Jawan  🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrFRCQD8UMOukBEb0fnhmpQVy1KBy_Y-97PXcA8BOut353fjg218sqGEaCfH7iaBT_ybVaCW9KPIL3s5SdHIZZTqzBvU7z51Xn0xn9eTQE6Oy7a-jtpcvdL2Ua11ogLEMHKdF4stiyxHf8JWX3672YomR23q627aueq8kTJ_xoCWUcccbHCcBtMhVECA/w486-h640/137-photo_2023-10-10_02-23-22.jpg=w409-h538-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=RAo2CwMKhL5suGZDhqjgMQ",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/2023-jawan.html"
+  },
+  {
+    "title": "2023 🎬 Mohanagar_S02  🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUFkUbcXkTvwCimvVzFSRwQSeBf3J52E6ZrDOnQNyK9CR8csMhQUKbK81Bq3qE7js7o6FICBzDCgi8j5T2XRVSA_tEp0zhk0uSSJvoJDRCVsli2XLmuWWXjhniF5qMGk6C33uQi9u0rnkLa4PbSdTr0Ay1aY06fDUUAGLIMEyHtR9PEdIwQBmbJ0Y5eA/w640-h334/138-photo_2023-10-07_23-16-36.jpg=w409-h215-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=-b8EQitOrqoDgDBvE2Q1FA",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/2023-mohanagars02.html"
+  },
+  {
+    "title": "2019 🎬 The-Kid-Who-Would-Be-King  🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhULK0JTopbpj14_Ct-324ZwlmnGigsDGbf68XDLfTgMfAZ_v9XTtnTAriCcL29szwlmak-172BCplcFRk9vGFwCyCVsTd49ycI0yhIgmpEpuRaKW4LfsVCxpxvmjbzuqTvcYHKBbHIODxMTVy3V7D2xksJU2F0GqWYYvhnB5hza_Dl-mNP82vGm9m2Nw/w452-h640/139-photo_2023-10-10_03-32-39.jpg=w409-h580-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=pjGsQakv5icS0T2BrVz-Tg",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/2019-kid-who-would-be-king.html"
+  },
+  {
+    "title": "2024 🎬  Surongo...সুড়ঙ্গ 🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBf17auHEpu3uXDCR9-vO6o6HTHsCAKKzDypf9h08OTcdihJSRI6AIbCIQi4q8lUxAkDcbFOOxuUlLVFnTvtUKad4tT-HCPeIqCGCdAmjxaHRn0Yo-rL95FiO2xPLB-CsIrwXXywAZsIXZQiMqVpeGg77Sol8lC9TWPYnrauxDNQK9kjza3nCjuc7tmQ/w431-h640/140-photo_2023-10-07_23-04-31.jpg=w409-h607-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=2WE1IIZJy7Tskhh1fuD7sw",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/2024-surongo.html"
+  },
+  {
+    "title": "2023 🎬 The Black Demon  🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEip6KGnj2UmiZIt-9upVAP7K_I6cpVaWfFAclWLkfy7Fd4I7QJAXdzgLqIT9hnb5UFNKs5McRlwkobgvri4vAOHxbbW1GLIkDl8hSE2Tom__9372-RgYh1XCPgbckIzEeqf5UfAJEUPGA1xIzpa_VJgQOLnGKxflHEIgigZKrzVf3bg2-dhMyQm4iUd6Q/w432-h640/141-photo_2025-02-10_21-15-49.jpg=w409-h607-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=oznjL-FBi7oryt6MBPziDQ",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/2023-black-demon.html"
+  },
+  {
+    "title": "2023 🎬 The-Flash 🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEasWvEk0EwPUMjgbVB95_tlmKR499NElJGogsCbJDTcKN-SrLjvHHDKN6HHVoObm15L2kjW4tOwTCKzXxpLiQY7Is9NDPGEQ5fIaUKnFlGzcGUeTY1pilANUqFIDJXFS8gkHoeHhwUbv7jVYbgiteKPNLfApS-0VeVjGmrYcSCZIJeQHGC3XwmqrYvw/w321-h400/142-photo_2023-10-07_20-10-28.jpg=w353-h441-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=AlK3fFmnGbTRMFq3XHUNuw",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/2023-flash.html"
+  },
+  {
+    "title": "2023 🎬 The-Little-Mermaid  🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3GJ6wc-BKNuV9R9VrHwh5R1_rEAgrBwVG1b8_Rts_3FKgc2AFZV4TLx3gW00ozE5D5g4o5w7zjXWdJY9THR4rGNVjnRwXndEOMOaWbVjONwlQq-auoFuzQuJBjv7GlJ3hKOSF8yVbm4kPbB2XZQ3PyvIZ1LVyZBVzRwL_85XLnbq_kySpS_iYz3cItA/w454-h640/143-photo_2023-10-07_13-57-17.jpg=w409-h576-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=zTbFTNTV0IN5pSKFdqMK1A",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/2023-little-mermaid.html"
+  },
+  {
+    "title": "2025 🎬 42.Captain-America-B-N-W  🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj78Nze0W2YozgJg0J87lExK1VeywEz4A9wRUMimcSE1e5QyKnD34e6-np4SiZf41X5MQQyL60QnsQLnTOiz66gB0wmfV4YasJeOHrRxd7W18OCq0A8rXO1j_CM4YBQvFCuCjPzLqUemnT3MqkZH9otqdxMWZQEYrYDJ0UgFbDJdzUqaV1S7YP-CWBnAw/w640-h360/154-Captain-America-B.N.W.2025.PRE-HD.Hindi-English.HC.jpg=w409-h230-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=vVbVT5uetTC9HUy1gCnFug",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/2025-captain-america-b-n-w.html"
+  },
+  {
+    "title": "2022 🎬 41.Doctor Strange 2  🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhJdheJrzb_UHYvOGpkIgiCDDK247bgUWjhNrBXDqFu3wFlufo2h5WAFnsAHB-7VK_g_KmCXKZBkecQRJK8FIyp5AFohO_wLDctE0cPwqIsLD8z7dKNCKE92hjq-2fJhEaJlFKZZQshc5dejeHTjY0zHd1q8fcZWSo7hJzBRtH9oaMIAW4cpc33xIg_g/w400-h168/198-41.DS%202%202022%20IMAX%20Dual.jpg=w409-h171-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=9aS-pVUn1r8Bj_QkRcGi-A",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/2022-41doctor-strange-2.html"
+  },
+  {
+    "title": "2023 🎬 40.The.Marvels  🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiycajAaCgm13TVUd4BiMOJap08CQpDYQJI-mwX23FOoYN0lBhaqVzOZHY7CYQxAzR5bBnZAyfB4KrvNfnVydI2Fu4sJwYMMppVEq-qJiYGnPjGhsXjwzTlN-vAVXlrdtUoiVyEH632FPCt6VqADx2luQd5fQ5V1UiG-EnRyTCxj63-WxCpQA1N-mGFFg/w400-h224/197-40.The.Marvels.2023.Dual.ORG.jpg=w409-h229-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=AwBlPY5_Yyk0TyNXoVKDsg",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/2023-40themarvels.html"
+  },
+  {
+    "title": "2023 🎬 39.Ant-Man and the Wasp - Quantumania  🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZAaBhCSWpAHQWiVfgazONpOL_kH3O9pVkbcRsDDTJyfeUmTMLx5EsQk89xhnBwd9anDDx9ruaEa8IKiH-6mEALqqfNljVzi7AdQjUmNeGlbsQCAZee-SQfZzLpnx-rsficZ_uJqn9SLouBgy6i3RArrOHnyBT8m-8Ff-7vhbl4NyV38bj1G3BS_bB8A/w400-h200/196-39.Ant-Man%20and%20the%20Wasp%20-%20Quantumania%20(2023)%20iMAX%20Dual%20ORG.jpg=w409-h205-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=-eUpTvutajrbzaSPyxPMIA",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/2023-39ant-man-and-wasp-quantumania.html"
+  },
+  {
+    "title": "2022 🎬 38.The.Guardians.of.the.Galaxy.Holiday.Special  🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJMZlmevhqCCibQAYcQDoTyRbJG-rsZ69PpViz3y60Ze2AbQwHUkeSP99bUJaTDxJ0B-nNLxEiyUisZxhI_jqR8WOg8ueQ7Jv2Chj1tTPv1rjAJV2nxt7Xt5t9syR-8aFDwKpdjRvzOlC6HsZnGuoQkiGGPQ4Dn0EadyMDdj0ZEWPNk0bCfLgkFsG-9w/w400-h224/195-38.The.Guardians.of.the.Galaxy.Holiday.Special.2022.WEB-DL.jpg=w409-h229-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=C6IHONQqmMCESAhTOChvrQ",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/2022-38theguardiansofthegalaxyholidaysp.html"
+  },
+  {
+    "title": "2023 🎬 37.Guardians.of.the.Galaxy.Vol.3  🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5AGtj-Afb_eWNvDhyphenhyphenWpUDUR-oFJrNvhf5swgujbY0OdyFwQsZsv0m4Fse4YBor4_SCmVWwpvH4ztOYKPoGuuNhRMrbtqJ_sSR4y2JCLWEQbxltytvRMDARwiuEGjFJ8703UQr03DOPm1pIhteQNS3xjis5jlBtjFD3cJ1J0yCpi2qWGggFpYJr7kKSA/w640-h424/194-37.Guardians.of.the.Galaxy.Vol.3.2023.Dual.ORG.IMAX.jpg=w409-h272-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=f-GNSJgrK6-bRzIZf6CWww",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/2023-37guardiansofthegalaxyvol3.html"
+  },
+  {
+    "title": "2022 🎬 36.Black.Panther-2  🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEarQJcp144bCg_RjWCmo6ZAHztuujg00dHTTOGqiWhOdTV-mGV2fAFMO1iM4YjZ85q3BmQAdI5TFBGs4b047PE5Cva_FUnWSK5Q1vQt2aiMbbhUr_551qfBo6taEaB5kFbtO0CLGReWFFca4Bprd5yAWWXv3GydMPWMjV4Lv7RguRMQO4Xchro6OCFg/w640-h360/193-36.Black.Panther-2.2022.iMAX.WEB-DL.Hindi.ORG-English.jpg=w409-h230-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=w9IL-5oMPiKh8SrtjSjZag",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/2022-36blackpanther-2.html"
+  },
+  {
+    "title": "2022 🎬 35.Thor Love and Thunder  🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgS3GgF5rmLsrwTrr7TLeMiaivB7LVK0T2KnBai8crAwkH47MCxennZEDVL2FlgsJuQsUUC4tbBl3P58WKvN3-DUypmjZpZW1eoJa1CaGCDgQGwljklrXkp01glHf0ATSlfOSwShFpasTWWTzPpOa7EumxitJ82n7dYQYd8waSHE6EzWO0WMaslZDUbQA/w640-h364/192-35.Thor%20Love%20and%20Thunder%20(2022)%20IMAX%20Dual.jpg=w409-h232-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=xf1MVbSYm6en54PvrxHC8A",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/022-35thor-love-and-thunder.html"
+  },
+  {
+    "title": "2022 🎬 34.Black.Panther-2  🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9dhX6NX3RK6ycH4g8-VYD-htu2FSXFNKSDuWFHF8TRBp7l2v5_6Dzc_uqG6I0H56jgVdbIIehWcT7M_f5J_XsGX0kxdOeuNsJd_fdWNa9GP4JRxweN2fZ9rvpYwgwXG9E7LP_9wXCB5eFZXpTOiJMDuoyX-D0wmX7_VYWFPEq3RQrTPudCZ3ucAN44w/w640-h360/191-34.Black.Panther-2.2022.iMAX.WEB-DL.Hindi.ORG-English.jpg=w409-h230-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=W567FwriHmtvT5ZnkHOI2g",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/2022-34blackpanther-2.html"
+  },
+  {
+    "title": "2021 🎬 33.Spider-Man.No.Way.Home  🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX_ez8LsthHJ-Ht92ssFHBGs5ucKS3yHZcSqJsxLKf7DKyHGLl7Me76EGVAGdCw2sHcANWJ2H1kMirGh1n02-cieUIxEu-oI0soed0Cv8DglRSbnnZvdTpR7ydZBggMbSZhLBUyLUbSGSGKadqURJ4-FlnuSBkFCAXRnPKvC209NTnGH2sWpietj98tg/w640-h180/190-33.Spider-Man.No.Way.Home.2021.IMAX.BluRay.Dual.jpg=w409-h114-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=bqcFFkM8w_pt5qIraqq8Lw",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/2021-33spider-mannowayhome.html"
+  },
+  {
+    "title": "2014 🎬 32.The Amazing Spider-Man 2  🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTX_dniOxnnnaXmdk1_hf1uyb34s1lvNk9S_vz2pbAdOcPHcR2ENBbDHCU5-2c8mrVq6x8cSkm9MZR_Z3E1p5f5YHGpSHwEpHD65U8-bQk13enL0FKD5JM4QPalfmPwOmVVkK8wU4wEaOVm1ejygRvO4TizPEu0Vm0q57_GYBXareSqV8-aVvPkj82TA/w400-h224/189-32.The%20Amazing%20Spider-Man%202%202014%20BluRay%20%20Hindi%20English%20AAC%205.1%20x264%20ESub.jpg=w409-h229-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=8poKPdHeO-EoPMclamQN4Q",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/2014-32the-amazing-spider-man-2.html"
+  },
+  {
+    "title": "2012 🎬 31.The Amazing Spider-Man  🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgF-O4n73B8hjUo0JdKW8VQpDQVfoiVq-0zATJseau2egEUJNK3UO_ygNaIcsTUUh97fV5KRXMDco_DMqMkf4p16NEzUYty0-U83Mr69Znj9LZ3aLwW3CwqWiYUx1iJZUvHNptqjJRgK6kZLwFCzVCUYq5S5g5_BmcrKNcMs4FLaTO8UUEXJWRUzX60QA/w640-h358/188-31.The%20Amazing%20Spider-Man%202012%20BluRay%20%20Hindi%20English%20AAC%205.1%20x264%20ESub.jpg=w409-h229-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=FKq5PxZ5MHIwxwl3ryPlSQ",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/2012-31the-amazing-spider-man.html"
+  },
+  {
+    "title": "2007 🎬 30.Spider-Man 3  🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9XS6KFD-Vo2q86H7F8HE7b14q4c_T0kfD4AwBJ_NStJFVlagPNlLVsCxiuBO-kOwJ5mnrsN4r6sRLxBms_ctkWrpJIIeM107rheeISP_EPRBVC9WaVqi2jvov4tpvdTjYDrl1dt89msdlqXSLFTVt3_qz7GN3kS723s2OaSTtOO_pHU0jGjBjp6KGJg/w640-h358/187-30.Spider-Man%203%202007%20BluRay%20%20Hindi%20English%20AAC%205.1%20x264%20ESub.jpg=w409-h229-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=nZf9rbYnBmfw-je5iWBRPA",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/2007-30spider-man-3.html"
+  },
+  {
+    "title": "2004 🎬 29.Spider-Man 2  🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5lr0q96NovS2_QA84ymMe-KwLJD4nR_PidlFBs7WWZZal-rBP48AfUDrV3u15UU6R23NycHVjdF-JhacthmPrm2R2gQQuXMpX-beC2sekqS1kVsX5sEjey1iqiWJ3bZvGcyw4NBF2iMyrp_w3PNNqeKBXWpEyv822sL0IDyqZCJB7SZ2irNQEe6wMLQ/w640-h360/186-29.Spider-Man%202%202004%20BluRay%20%20Hindi%20English%20AAC%205.1%20x264%20ESub%20-.jpg=w409-h230-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=k4g9BhWtl1FPOVzDjFPY8w",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/2004-29spider-man-2.html"
+  },
+  {
+    "title": "2002 🎬 28.Spider-Man  🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxmxnqp9hgeuB4RnsWUSvEmKTMTInPqGUjov5Tqe77YYG4HobrUaHrqcC-9eMYZCmOZ5ive6pEDT7WUKmzIOSS7Hp9DKTTKOWMldT039t3eKLNccfO2RJ4qKjLvdfZMcSXcWjtjcdLTS_qWxDjgeX0Rp_oTlVA5ALS3SgZ7khPn3FFW8lBD5EeBqM8wA/w640-h360/185-28.Spider-Man%202002%20BluRay%20%20Hindi%20English%20AAC%205.1%20x264%20ESub%20-.jpg=w409-h230-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=RIlLkXbF4PfcCCj2u2pQNQ",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/2002-28spider-man.html"
+  },
+  {
+    "title": "2021 🎬 27.Eternals  🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMLR3yXy6OlU_FfY611N09D3hk7OekV4lxf7wAjNBanxqLLm7T3W9zR_paknr6BVDMUvKO2rRwLPyJuK5s9joZUL3-vNkaBBjh-L1INXKVLXlvxFBIJ4Gztc1fm14zLrU9YQlI5NEIDUu-McARLoJ5BTG4E5KFTbAHh_IM-GKvDEqix-tZNUoLVB_8Xg/w640-h360/184-27.Eternals.2021.720p.iMAX.WEB-DL.Hindi.ORG-English.ESub.x264.jpg=w409-h230-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=JIKkRm8InCvDo6guhWIYmA",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/2021-27eternals.html"
+  },
+  {
+    "title": "2021 🎬 26.Shang-Chi-Legend of Ten Rings  🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgatB6_sd0podzvG7BgsohFL0oSsJnMKpnZI6G0loqg3lU6FpE7NA2xuvxp-HWNtmn37jijq7VJFQUtU1pBhDI2VctmlukOQQ_9b5ztWCOMjk3dsUYX0wwgVblY1hIQaZoZeoU5h32H0NMciW48w5-xyq9J6JxotSG8yze7yE3xmlKxkxzuoxOg43Sj2A/w640-h334/183-26.Shang-Chi-Legend.of.Ten.Rings.2021.IMAX.WEB-DL.Hindi-English.x264.jpg=w409-h213-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=qGtN7UFP8_GATpiEpAnH6Q",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/2021-26shang-chi-legend-of-ten-rings.html"
+  },
+  {
+    "title": "2021 🎬 25.Black Widow  🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi23dOa6YtWmFoNsvAh6odUQaLxIYKSRgM33SuLPbMUX3CU7OQyH0E3Q2BoYfuB9lZd8JQ6BhYVgr_l0lIer6bXiHwjMHKMqaALEYDGasiFZj7Xi2tkS1SbGT4GA4EdB2933LsBqTIA40Q9XfLNNXMF57Q0E70FwZswapnv5Z_WmIj0Lm-xjmH1sslPRg/w640-h360/182-25.Black%20Widow%20(2021)%20Dual%20Audio%20%5BHindi%20&%20English%5D%20WEB-DL.jpg=w409-h230-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=rxxDTp4lp9dggIVEfAFMYQ",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/2021-25black-widow.html"
+  },
+  {
+    "title": "2019 🎬 24.Spider-Man Far from Home  🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXNNAfkZhTf35AdxMoqVaTNw00zJ6X7NsniJh8ETmKW18tmvK8cVNjcmEReF6mHxcScnG3kKNzV5lU7fwpr0qf4DH2B0lnKh1vS5Ql6941aCtp0ZAWE8SqaFCqQtgsog9byql3e2SvYKKHvtCqwc5VYtgL4B8TQ95d2VzT2UsffaZNeWjqT17SWrcY3Q/w400-h224/181-24.Spider-Man%20Far%20from%20Home%202019%20BluRay%20%20Hindi%20English%20AAC%205.1%20x264%20ESub%20-.jpg=w409-h229-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=jbDlrmVM2o8we-zC-KBhwA",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/2019-24spider-man-far-from-home.html"
+  },
+  {
+    "title": "2019 🎬 23.Avengers-Endgame  🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9ka9WDeE4DkfLj4k4VsNwjuLM_bOaugFRUkt3q6jArsFKgn1CnrHYJL2nEONuTk8hT4L5O-V8-OBgedr-lxT7lFwWmpfB1wNbb4pdQI7hJQUhuGKLeu-7Yb6zJFTBQlDoYU1f6Gk0Fhh2B10MbWJb4xA2H_ddq-TNSW_lKZB2umYHPPyoHSrf5JwXsA/w400-h211/180-23.Avengers.Endgame.2019.BluRay.Hindi.ORG.English.jpg=w409-h216-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=4wXxgyEUtEjHpO_l0EbIPQ",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/2019-23avengers-endgame.html"
+  },
+  {
+    "title": "2019 🎬 22.Captain Marvel  🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDP2OeACpY7YTPQO7xcshCCXeFnN-qGZq0IrVPgTWOIaqcvsUks1W31kfFSvm_V9weE8hIQKJWEF18vfooTouP4iU2LZwrGb0XjypmfanmC3SO9vr2-BnCTtIwI149evsS6xeM2QkqcmLXWCgdP_BCSSHlOY1P05iCG8Rx4Z6EnrzCVWrPQVXnm1RZjQ/w640-h360/179-22.Captain%20Marvel%202019%20BluRay%20Hindi%20English.jpg=w409-h230-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=DUFe0zwIjkiQ7t3KgSX8Lw",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/2019-22captain-marvel.html"
+  },
+  {
+    "title": "2018 🎬 21.Ant-Man and the Wasp  🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRY7aJ24k1f3xgBiDrFdWX7oC_XEh_K_Y4jzYf-4PU-YQ3RUZ0gIuPSItfyxrKPiIdtPyBthVTT6hIJoLeZJWKMpGcl5yexP3394byvvi7-N2vBJtwbyPF45iXfHWcJjb0nJ-8qqFS4jfl-elmA_TEpayI235Q-VnNho_RH0Od0GedtHP0NLWaUrLLIw/w266-h400/178-21.Ant-Man%20and%20the%20Wasp%202018%20BluRay%20%20Hindi%20English%20AAC%205.1%20x264%20ESub.jpg=w293-h440-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=37XLo-HRfPrIZe64MjnngA",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/2018-21ant-man-and-wasp.html"
+  },
+  {
+    "title": "2018 🎬 20.Avengers Infinity War  🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv19tYXZF5UwPi_tCA2szgCT1pvqykSlNMH8zPNk28l12_ftgjNB9_fn4So7Eyey648vP1XwPe1sc3PoOAGoeGL0xU9Eip1oa7Z0GkcI1EByquq2y_qGQP73-0980_i0Fs3-SuM2FPoRsVUf-6BAaSYiBc0aPBtvQhbpsSGFzlGgimVPld4YcoKqxlCA/w640-h355/177-20.Avengers%20Infinity%20War%202018%20BluRay%20%20Dual%20Audio%20%5BHindi%205.1%20+%20English%205.1%5D%20x264%20AAC%20ESub.jpg=w409-h227-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=ANRzFqpCASXjkbRFD5sXcA",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/2018-20avengers-infinity-war.html"
+  },
+  {
+    "title": "2018 🎬 19.Black Panther  🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGDIO7nmBrtcogwBczrO1hFHwVlwbg1R6Fhb0RSUYS10kvnz7XmIx356K5ffM2G19NVfpg_kXKEUaawm93bUpqOJjoJ5HiEprRwJksK-yx-qpk_Yn44N5SkEVJ1SW0pFKWM0d901aO7TzU1kqInvGaBf0hahwg6ODXk2zjnMSqMGA1F1uhQDs_HX6zLQ/w640-h360/176-19.Black%20Panther%202018%20BluRay%20Hindi%20English.jpg=w409-h230-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=X8wc6W6Ddu_WC9J6WvqbOQ",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/2018-19black-panther.html"
+  },
+  {
+    "title": "2017 🎬 18.Thor Ragnarok  🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSnLl3umedUS1QM37PWdXXIzH248f4rbBq72lAUp-aP4yL2w5TM_EYD8dSOZ61IjgYxMqGqbZx1C0XVqPMIN8Fh6Zr0NgeEoC9WwZtjyelE63WLL9xalsbTFp_qA94HvDRvNCCEeNKPEqSZESQp7_yEXsWJnMyvT4JcB620QXGxsUQ45NFLOPTcR1MEg/w640-h360/175-18.Thor%20Ragnarok%202017%20BluRay%20%20Hindi%20English%20AAC%205.1%20x264%20ESu.jpg=w409-h230-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=D7hlSDsAROyP0tRJYrhr1A",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/2017-18thor-ragnarok.html"
+  },
+  {
+    "title": "2017 🎬 17.Spider-Man Homecoming  🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhxvz_yHftDLQUpdNQ_DNIm6YORQizh_4mURIw7i4DthJC7DKS9MF5Y-pH1E0hHRShCgVwJ4_jK6b6W4nFrXrzV8Wam-7nQFv9ppyQmK7M4C_aVi29c5fzifsEbxtyWhRjYp12qKKj88kbxtASB9EHGJx0e9-wtTKCxhCO6AsNymz44brVaMZ6BNlqyw/w640-h360/174-17.Spider-Man%20Homecoming%202017%20%20BluRay%20Hindi%20English%20AAC%205.1%20x264%20ESub.jpg=w409-h230-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=ngVLeEqBSYSxjmUtNHiBPg",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/2017-17spider-man-homecoming.html"
+  },
+  {
+    "title": "2017 🎬 16.Guardians of the Galaxy Vol. 2  🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6I89s9jIoCkUhZ_K8VzMIuCPuk4b4NCyjO-96kJ4EXCgzTprNazvqkplWUoUeQ5jVQRfW2tD47Fkblz8tJoQpPZHSwm1M7Fl-ugZ8Lg7owAR0t7E5LA3ZFTkQkZ-9OURhNtopnZ4jM-47llIsffpK_Cf9_5E4mzODo6flpyYT0q8AqmgH9x2MO-y3cQ/w640-h360/173-16.Guardians%20of%20the%20Galaxy%20Vol.%202%202017%20BRRip%20Dual%20Audio%20ORG%20%20(mlwbd).jpg=w409-h230-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=RLcMDbwzPPbb99AkbARkvA",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/2017-16guardians-of-galaxy-vol-2.html"
+  },
+  {
+    "title": "2016 🎬 15.Doctor Strange  🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0h172vnv7LFD9FjI5y7dU7A1Y5r3n3SHNywbT3eAdHGMjGcFq1kOInFyO-iWsUDEDTkhJgLlgLPOy9mLi5d-RCyqiBfIyWr7IVRuqlp3-PFcXHJxL0Zi8dNh0hihTBy6rBgrmMNaIJAkF3G6iHgE00N7E6-nNZwQ3s9Z6FVelGz2ol3lPi3BmP_IpVg/w266-h400/172-15.Doctor%20Strange%202016%20BluRay%20Dual%20Audio%20Hindi%20English%20%20ESub.jpg=w293-h440-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=5IVYedbVOXpcEQEP3gayOQ",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/2016-15doctor-strange.html"
+  },
+  {
+    "title": "2016 🎬 14.Captain America Civil War  🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDqjNDcTUebsBg2Qicib59r0hygrTvgiwKTYcbcR9nNnCdjDl6uLSjAOMf6X16djwfAZ_VkbZy_q_2dmZkKqZLQYM5JqbhPEGiYNA_KORXElEgBFywaruVa6EXueXHqLkikeEQpLElebCcba2I2flnl7phTZHWRTnXXE8ovjIFYTETRFKPc1HIGrR89A/w640-h266/171-14.Captain%20America%20Civil%20War%202016%20BluRay%20%5BHindi%205.1%20+%20English%205.1%5D.jpg=w409-h171-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=p2ekBSz7dbCcLMU8ofBPUA",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/2016-14captain-america-civil-war.html"
+  },
+  {
+    "title": "2015 🎬 13.Ant-Man  🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggod9DievErM1vvQexEmP2lqJ7VqUVJU9qtazK_y7QMbWwN74cpXb5ok2rUJ-5_67MoQxEDPOD4nPA8TIGQAS8R1fNhULU1EcqYBy97kUYMCBBnrYgdTV9jmUf405gWkq1y6EB9VZwhev6uQxK4_pCQJM63H1E1zWSeuGUYfxKjC6Y78kxLxgdQrNHyQ/w640-h536/170-13.Ant-Man%202015%20BluRay%20%20Hindi%20English.jpg=w409-h342-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=NViWTc2nIOXrnhe4eKzHGg",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/2015-13ant-man.html"
+  },
+  {
+    "title": "2015 🎬 12.Avengers Age of Ultron  🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM4nH5wxWJkd-WxLALLqODOD7cIwdHaGTQzkPXhY5jn-r1hyphenhyphenUKN_4em5znYcbhnop4CeS0ZYlHmJmEnd4LPFROPYWQZim3iqzMRHMn7JMByCWb8U5LIQ_qT62hDnzk7wOP8AwXpewYc2pdsg385uToFzzyAQtepy1_25bgM6M6MVdrp8wcCdZfzZ7unw/w640-h360/169-12.Avengers%20Age%20of%20Ultron%20(2015)%20%20Dual%20Audio%20(Hin-Eng).jpg=w409-h230-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=Oym2urGQwugq5D48Joakvw",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/2015-12avengers-age-of-ultron.html"
+  },
+  {
+    "title": "2014 🎬 11.Guardians Of The Galaxy  🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_a-MHrDulARx8mTSVQZ55EEmi05fh4dSceyvaoBjjgg9PuMbqnQ16O6XBYV94MDoMG5XY2Wigz9khiaNSjAK4yZYrHEt23dz51o3Ra31ns-FE5Ss6LT9C6Oe_Vrw9ACcsOUnUAFDLEwyux2FA33nmBOiJpzXBqvOqGaMsBDI-4hjyQMOMlSfi51s9vw/w640-h360/168-11.Guardians%20Of%20The%20Galaxy%202014%20Dual%20Audio%20Hindi%20%20BluRayN.jpg=w409-h230-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=Oym2urGQwugq5D48Joakvw",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/2014-11guardians-of-galaxy.html"
+  },
+  {
+    "title": "2014 🎬 10.Captain America  The Winter Soldier  🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjn7gK5Gv_S25i4sEPM5EeCE-rkOfcXCyqdXD_K-72CbYO5CsjAWkSrW1m4-7aee-M1wEgoyXyJevm43bUMTM71-HEBQTjs8fnyDLp_SoJdVuiUKSDnq5eSe32ZwwUMHg2z7JW8zMr754rz2U5hN1lAbwo9m-Mjg64jVV5UazeLXVp9QP7vfftnG3bglg/w640-h400/167-10.Captain%20America%20%20The%20Winter%20Soldier%20(2014)%20%20BluRay%20x264%20%5BDual-Audio%5D.jpg=w409-h256-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=AnVm5uYrS3oue84vkXxOyg",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/2014-10captain-america-winter-soldier.html"
+  },
+  {
+    "title": "2013 🎬 09.Thor The Dark World  🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVgeZo_iXYPxNgOqVHep-aNuNQwVDHSHiHKfNP0GnMrms_HNJySfqnO5OpWl6UuyTQrrkpjRBrJspMnCWFjLrO8TACIgdOtL6zsgqxTlbJ_N1nYLEV30xvAzyuCseUeO3m5cSyq3yXahBd1Qc8iXl-QlbVIJBNsxj6aIkKWwdEdZXPS3iarZaB5nJb9w/w640-h640/166-09.Thor%20The%20Dark%20World%202013%20BluRay%20%20Dual%20Audio.jpg=w409-h409-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=ixfApGWnAVFHfLZ2rMl9Kw",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/2013-09thor-dark-world.html"
+  },
+  {
+    "title": "2013 🎬 08.Iron Man 3  🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_KLBZDiNxqEJ6_0hYMM-ZD6tJTHo8i0FHNyOoCrI4qXsBQixGfvzzzGDalT2DB29zR0Qs5E5KpTRH-vXrZ-Tk5r126HsESIdgvUBtNo70Osc2TRYpKUmUFaxS82c8jnty4s_lQVRIiEP0S3WTowriGQ9qm3EElEYfAGEqEXfeSQMjuTvQiqPbsix-cw/w449-h640/165-08.Iron%20Man%203%202013%20BluRay%20%20Dual.jpg=w409-h583-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=ZQYrJY4P0jF_PwbzwF93CA",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/2013-08iron-man-3.html"
+  },
+  {
+    "title": "2012 🎬 07.The Avengers  🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibukcS2MfZhgiZh-cKxbJVPahAaA8jRDyex1kvEC3LYeaniCoqbAO5z_U2hobcB5e2RqZOhw37Sm6Fw31LkR09vpvE2cujO1Loi7nCVB-DqgWsxXYSPS7UcKka-xktKd-_Ka1_TDWN7veigNpKmaRn8b9X6A5G49jC8EsGwMWnEKvjuQOmPTlKes2nzA/w640-h360/164-07.The%20Avengers%202012%20Dual%20Audio%20Hindi%20%20BluRay.jpg=w409-h230-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=uxrHY1wNInLNl0KYx749lw",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/2012-07the-avengers.html"
+  },
+  {
+    "title": "2011 🎬 06.Captain America The First Avenger  🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1k2RYgNLVkejEfP4KjxjtzPqBTiZaql2aH0qEifnKBlKFPT3Qwy2wzsggqN2FoQOdKd3dkIz8ktVoMuCKVT44M8ApCc8Csxv9OJPGGlbKi3YOvF4Po5hMgosvFQDP5fyUq4oiSsQteSVPucZRGD7-wc2S9UaAUFLH4Rewl3lk1OaXnFxqndheYXZsrg/w640-h360/163-06.Captain%20America%20The%20First%20Avenger%202011%20BluRay%20%20%5BHindi%205.1%20+%20English%205.1%5D%20x264%20AAC%20ESub.jpg=w409-h230-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=1cU55EriH_Q9oameHKNnow",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/2011-06captain-america-first-avenger.html"
+  },
+  {
+    "title": "2011 🎬 05.Thor  🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhAOs7nLZH0j0plqvtetmdB02CEjMbhsiSNDsSKnGNOogLRid3VIhAbmXzFjfCQWqdVxFdZ9qwUfh7nQuPzwXNE901gPKaztUmWhJKN0A3UZ5NxgZ_KKAxg-epMmTehU8Tzk4eMkNbeUe2caDe4umYEmKSORgktgqLJxzgrL7OrO4R1QypPUZLulzYYQ/w640-h360/162-05.Thor%202011%20BluRay%20%20Hindi%20English%20DD%205.1%20x264%20MSubs.jpg=w409-h230-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=pb43fcc7TlF4HeRS4x0ctA",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/2011-05thor.html"
+  },
+  {
+    "title": "2010 🎬 04.Iron Man 2  🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjtPrKcPU-XYwmhqcyWM9WWLzDI8khKw5Z7QPRHIByoXJsd_VGUfY0qHCwKmjNAAI5ivjW543a0dCotqdfFE72wM0gMIOmTlOqPCyU3KJ2Xqs7Ubt8Wv5iRFNbCpD_knfc9PBLdiZ2IETx7BZx39b7cEcNyBku8nDFXYd2BiKVC6Km2kI69IxlvGUNMg/w640-h362/161-04.Iron%20Man%202%202010%20BluRay%20%20Dual.jpg=w409-h231-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=lcDjPRj7e-5C7Ds_y3Xd3A",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/2010-04iron-man-2.html"
+  },
+  {
+    "title": "2008 🎬 03.The Incredible Hulk 🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4ZCnqbkerZTmCArHW7xB67uNmU_Ju22QrBJO-EoN93r-cBjui56EsZByL_3LjdYPls6sA2csR05vGV5CsO9fJNRAHyPMiPv8owbGFu_mTS4IXjnXjae3uL0nbkvqVXwD9_nuBbxv-P5rMTd7BnB_tutFa1cT-AYN6WfdfTBI8JE_PBQDd2X4x_cma6A/w640-h360/160-03.The%20Incredible%20Hulk%20(2008)%20%20BluRay%20x264%20%5BDual%20Audio%5D%20%5BEnglish%20+%20Hindi%5D%20(1).jpg=w635-h358-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=9y4y4teH6cB9o6k5w-iZmg",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/2008-03the-incredible-hulk.html"
+  },
+  {
+    "title": "2003 🎬 02.Hulk 🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjP1sGMis1LnX0dpm2Aw2RBMy_6-Bjmcy1dLqRbYR1AgKbYPZmDOMgx1t7YJSlA_GrZKe7rbWDCSPNVG1ms6PUNO91tseM5-qHtWqL-FyGfrjnGZQnYslu8zj5jn6GEBYOvmpatjX8HZAtpCVzDsxILDeKyUNDWaT0XQ-TyVIAIiO1QwwYHFbxUgpwbeA/w640-h360/159-02.Hulk%202003%20BluRay%20REMASTERED%20Hindi%20English%20AAC%205.1%20x264%20ESub.jpg=w635-h356-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=Ac1G5iwKLDgQBwyjP0IFcw",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/159-2003-02hulk.html"
+  },
+  {
+    "title": "2008 🎬 01.Iron Man 🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWqQv_SL-xfrpLXAeZW1oNrF9O09Y9Ewp8HeawnG4Vwzwh7ld7AfQkl-_o2exTg0YyiWPFYg9EOtqw9HuP6WX-kpRUTROZCp3Dsx0Fy2YPWdS0bEltVJINfm2ooeshTkOLYLqZmOwVI0NrcPAXM-scY8IAMVG5LZ1Ncml8CVZ3HTn_xBzmrFrgMG1kAA/w506-h640/158-01.Iron%20Man%20(2008)%20Hindi%20%5B%5D%20Dual%20Audio%20%5BHin+Eng%5D%20BluRay.jpg=w557-h704-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=qw45OcTkLyMKL6MPnIH6eg",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/158-2008-01iron-man.html"
+  },
+  {
+    "title": "2023 🎬 Puff Daddy  🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFZV3uVkZt70c4tzeuErEw-PwK3ezVRIyY69vtyMkVCuNn7vZxIKiuz39IDdx4zU9GjmpOHb9PpJMo4FGH1SuODEwbzXO_XiHBy-PiEOvug3SoKGxGpCTsGCSvoV6BdSGTaowsUWcaNKsxZXyn89rNIiF-kH-SAZMt6NtfEzgQ0tvi-_CQlrqiwPSnRQ/w432-h640/216-photo_2025-02-13_14-21-18.jpg=w475-h704-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=6Rk9mN5m04umUkuMvr1i8A",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/2023-puff-daddy.html"
+  },
+  {
+    "title": "2017 🎬 Raees  🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiED-vPZjHUodCtly6UIUQr1Uf-avathvoXhUsye_FXWYz1zoSBn0EP4HdQYoQZFx6t8fPylfqcW2bl9c6TB8ZWMyNLMqh5JRF14oI7H2mp6uYj1AtwKQf3-8-abVpiUKawarHLswoGnEBWTATsOSMFcXB9JOnkguRxxjdFCCklSJWnk7mCFm6Udy5khw/w446-h640/220-photo_2023-11-25_23-48-14.jpg=w491-h705-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=SI3v2v0qBB9z8dnaf0m3rQ",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/2017-raees.html"
+  },
+  {
+    "title": "2023 🎬 Ghost  🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjumGxYn1xyU-yP5ej6iSpCF1PyHYqVbcNvvbfKK_-MRQ07YEPrK_KFLl3jhxAc58cV5Ir-NvE2J2mZote5s62N2ALIRfjh1TpRFBFm54cjfljZkuWni_j2lraqdF-e8gN_nCFhQwpYW1dJMeTLyNtODtUokh4636a_Vyc4eQoYr3MP2-HjOrOGpOKcDg/w640-h640/223-photo_2025-02-13_14-20-35.jpg=w635-h635-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=Djdd57xWceEBvFerORVy2g",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/2023-ghost.html"
+  },
+  {
+    "title": "2023 🎬 Ganapath  🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJid5M0dKdpqM6VY8QMhLgl70xAh7OyG893UKPV3p-dZK_avscN8KprxarRyX-L4qzLLw92-dIRfkvaVUVO9wwhWfR552I6ZJyc4JZSLRHgTrpM4NPHmsD4i0HPAjQUGvfoTPaZGwvLcQ4rdwraJQqcCi4oLPxebBpM5CvnR7h0V47UvRyCi0fQoNHyw/w640-h480/222-photo_2023-10-25_01-36-29.jpg=w635-h476-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=cdOoxwZbLfKHmmH7Z1cFvg",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/2023-ganapath.html"
+  },
+  {
+    "title": "2022 🎬 Pett Kata Shaw -S01 🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjznRKdhO2UfUQseIVvoWIn6LzJ0IcVmuhTCwHUEPnRwhBu3pbc8ELGD2acyS8goBgVX5wI8Oha7mgNHwV39WlGpGQRq8IYjY3VCJzfyCfGQm2S6DmKfoNVEtbys_PQ1YVd5PYDsYhQohm0mnFvmT_hdwH46Nh_iD3qR08gRqCtkJhm4O13R3_8V39xqQ/s320/228-Pett%20Kata%20Shaw%20(2022)%20-S01.jpg=w282-h352-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=41mMYoVbb_N1mwuVjIx3kA",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/2022-pett-kata-shaw-s01.html"
+  },
+  {
+    "title": "2023 🎬 Vijay Raghavan Full Movie 🎥",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrZ85w2TumX1EJrAypbNlxZaco5jmDzwATj5v5g1nTdf0DHpJEYj25B8DmwKNcznfrDOM20tzdR_P7kG9Jb3v2APU8o_s4bTyYAh3alu71VI565MrPZtvuJWskOPbbMgW3MYelLuP1-zypEpvgrBs_DFiNn2WBLg6e-BYkgvWxathmOoIyjX2mpWJrvw/w640-h360/235-2023%20%F0%9F%8E%AC%20Vijay%20Raghavan%20Full%20Movie%20%F0%9F%8E%A5.jpg=w635-h358-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=Ro1ZF8iIBblo2BD4vG1BIA",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/2023-vijay-raghavan-full-movie.html"
+  }
 ]
