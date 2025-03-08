@@ -1,5 +1,13 @@
 [
     {
+        "title": "2025 🎬 Feu S01 🎥",
+        "posters": [
+            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxsKP3iiaOnnd2lId7RpzUwoT6-X6JLmjcpEoiiwCzKDhx7lk9phhpMhqlfDm801Aswql3PXY_qll1roawtfeK7G3sPQ_COFZHJhpC7pODZ_8KrQTW0l8yqw631E8FtVINBED19IiYeomgRLJKOFDNiU5XmxSChZ8sWLesDjQWqMeAAhFXvB3HxmFnRA/w400-h224/153-Feu%20(2025)%20S01%20Bengali%20WEB-DL%20720p.jpg=w440-h246-p-k-no-nu"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=IZ2u4RHwQSz0OvxQ1vQXkw",
+        "link2": "https://jhhdmovies.weebly.com/2025-127916-feu-s01-127909.html"
+    },
+    {
         "title": "2024 🎬 MAX 🎥",
         "posters": [
             "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjV9JH1u9i39k-ZzvLPaDAKY7zDRNHFMkYVQtBnv8A0LEt7HQbqY8foHJTe7UbWPtwA4RSINMKXXq0HvoSKE1NWYVxOPChEszGv8Gn6gTiQqyM6hwgV8LRaIZoNiOtiJWnXENmpLPrI_l2vp1__dBdiC1Ufuyj2jWnHf6Ep85X5Dz29HyyrufzsAdx_tA/w640-h480/277-MAX.2024.HQ.Dub.WEB-DL.jpg=w635-h476-p-k-no-nu"
