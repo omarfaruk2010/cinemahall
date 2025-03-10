@@ -1,5 +1,21 @@
 [
     {
+        "title": "2025 🎬 Baapu 🎥",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/289-baapu-2025-dual-hevc.jpg?1741588562"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=CDgg7ykI5QDncwM5iSkRWA",
+        "link2": "https://jhhdmovies.weebly.com/2025-127916-baapu-127909.html"
+    },
+    {
+        "title": "2022 🎬 Vikram 🎥",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/288-vikram-2022-dual-org-hevc-new.jpg?1741592208"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=OiU-y5h_3IyDCAPIimSuAw",
+        "link2": "https://jhhdmovies.weebly.com/2022-127916-vikram-127909.html"
+    },
+    {
         "title": "2023 🎬 Kaatera 🎥",
         "posters": [
             "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/007-kaatera-2023_orig.jpg"
