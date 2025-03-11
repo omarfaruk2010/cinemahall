@@ -1,5 +1,49 @@
 [
     {
+        "id": 120,
+        "title": "2025 🎬 Dil Dosti Aur Dogs 🎥",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/281-dil-dosti-aur-dogs-2025-hevc_orig.jpg"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=3KVZz1lVitff9HGuETH2iw",
+        "link2": "https://jhhdmovies.weebly.com/2025-127916-dil-dosti-aur-dogs-127909.html",
+        "category": "Dramatic",
+        "date": "2025-03-11T15:08:18.151Z"
+    },
+    {
+        "id": 119,
+        "title": "2025 🎬 Wolf Man 🎥",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/282-wolf-man-2025-dual-hevc_orig.jpg"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=hQFMBvDj0PxUkLkLncLpHQ",
+        "link2": "https://jhhdmovies.weebly.com/2025-127916-wolf-man-127909.html",
+        "category": "Horror",
+        "date": "2025-03-11T15:06:31.330Z"
+    },
+    {
+        "id": 118,
+        "title": "2025 🎬 Demon City 🎥",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/283-demon-city-2025-dual-hevc.jpg?1741693430"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=KYHg-KmN0JL4n1vo4Wq6ZA",
+        "link2": "https://jhhdmovies.weebly.com/2025-127916-demon-city-127909.html",
+        "category": "Action",
+        "date": "2025-03-11T15:04:38.856Z"
+    },
+    {
+        "id": 117,
+        "title": "2009 🎬 District 13  🎥",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/286-district-13-ultimatum-2009_orig.jpg"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=--2k5AzA-nnbkL8mrsXE7A",
+        "link2": "https://jhhdmovies.weebly.com/2009-127916-district-13-127909.html",
+        "category": "Action",
+        "date": "2025-03-11T15:02:33.918Z"
+    },
+    {
         "id": 116,
         "title": "2025 🎬 Good Doctor-S01-E36-37 🎥",
         "posters": [
@@ -480,7 +524,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=q-WnpmVxDDy5DFzyuIbI1w",
         "link2": "http://cinemahall1992.blogspot.com/2025/02/2024-jailar.html",
         "id": 36,
-        "date": null
+        "date": "2025-03-11T14:32:12.950Z",
+        "category": "Action"
     },
     {
         "title": "🎬 FastX 🎥",
@@ -523,7 +568,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=Aoc7wN2B6JXj5o8Og_kv9A",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/2007-hitman-unrated.html",
         "id": 40,
-        "date": null
+        "date": "2025-03-11T14:32:17.197Z",
+        "category": "Action"
     },
     {
         "title": "2015 🎬 Hitman-Agent.47 🎥",
@@ -533,7 +579,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=3VZoCjpqZ9udkg9OXPdbOA",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/2015-hitman-agent47.html",
         "id": 41,
-        "date": null
+        "date": "2025-03-11T14:32:22.071Z",
+        "category": "Action"
     },
     {
         "title": "2023 🎬 Bibaho-Obhijaan 🎥",
