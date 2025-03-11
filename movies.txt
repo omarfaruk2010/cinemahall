@@ -95,8 +95,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=CDgg7ykI5QDncwM5iSkRWA",
         "link2": "https://jhhdmovies.weebly.com/2025-127916-baapu-127909.html",
         "id": 1,
-        "category": "Drama",
-        "date": null
+        "category": "Dramatic",
+        "date": "2025-03-11T14:16:09.314Z"
     },
     {
         "title": "2022 🎬 Vikram 🎥",
@@ -107,7 +107,7 @@
         "link2": "https://jhhdmovies.weebly.com/2022-127916-vikram-127909.html",
         "id": 2,
         "category": "Action",
-        "date": null
+        "date": "2025-03-11T14:18:17.790Z"
     },
     {
         "title": "2023 🎬 Kaatera 🎥",
@@ -117,7 +117,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=KebkFujx5qVYl4t3jlZ4Nw",
         "link2": "https://jhhdmovies.weebly.com/2023-127916-kaatera-127909.html",
         "id": 3,
-        "date": null
+        "date": "2025-03-11T14:18:26.117Z",
+        "category": "Action"
     },
     {
         "title": "2024 🎬 Tekka 🎥",
@@ -128,7 +129,7 @@
         "link2": "https://jhhdmovies.weebly.com/2024-127916-tekka-127909.html",
         "id": 4,
         "category": "Thriller",
-        "date": null
+        "date": "2025-03-11T14:18:33.841Z"
     },
     {
         "title": "2021 🎬 Jango 🎥",
@@ -149,7 +150,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=l4hNpcXcsF8FGlKjnd0jOw",
         "link2": "https://jhhdmovies.weebly.com/2025-127916-delicious-127909.html",
         "id": 6,
-        "date": null
+        "date": "2025-03-11T14:18:47.755Z",
+        "category": "Romantic"
     },
     {
         "title": "2025 🎬 Aghathiyaa 🎥",
@@ -159,7 +161,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=RFSnrWSHGhz9wEE69ihnUw",
         "link2": "https://jhhdmovies.weebly.com/2025-127916-aghathiyaa-127909.html",
         "id": 7,
-        "date": null
+        "date": "2025-03-11T14:19:00.353Z",
+        "category": "Thriller"
     },
     {
         "title": "2024🎬 Marco 🎥",
@@ -169,7 +172,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=KNndqf-94385SEGO0uCSoQ",
         "link2": "https://jhhdmovies.weebly.com/2024-127916-marco-127909.html",
         "id": 8,
-        "date": null
+        "date": "2025-03-11T14:19:04.945Z",
+        "category": "Action"
     },
     {
         "title": "2025 🎬 Feu S01 🎥",
@@ -179,7 +183,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=IZ2u4RHwQSz0OvxQ1vQXkw",
         "link2": "https://jhhdmovies.weebly.com/2025-127916-feu-s01-127909.html",
         "id": 9,
-        "date": null
+        "date": "2025-03-11T14:19:14.413Z",
+        "category": "Series"
     },
     {
         "title": "2024 🎬 MAX 🎥",
@@ -189,7 +194,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=NHMY_FAg4LzfgWCFH8Upqw",
         "link2": "https://cinemahall1992.blogspot.com/2025/03/2024-max_7.html",
         "id": 10,
-        "date": null
+        "date": "2025-03-11T14:20:31.183Z",
+        "category": "Action"
     },
     {
         "title": "2012 🎬 The Dictator 🎥",
@@ -199,7 +205,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=4oQZwW0EBhmxsKbZCnC6ag",
         "link2": "https://cinemahall1992.blogspot.com/2025/03/2012-dictator_7.html",
         "id": 11,
-        "date": null
+        "date": "2025-03-11T14:20:39.764Z",
+        "category": "Dramatic"
     },
     {
         "title": "2023 🎬 The Devil on Trial 🎥",
@@ -209,7 +216,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=FYreEri0psIzj9ZWdXp8Ww",
         "link2": "https://cinemahall1992.blogspot.com/2025/03/2023-devil-on-trial.html",
         "id": 12,
-        "date": null
+        "date": "2025-03-11T14:20:47.212Z",
+        "category": "Horror"
     },
     {
         "title": "2023 🎬 Tiger 3 🎥",
@@ -219,7 +227,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=MvP0LVhTn5Zgk1ymK5CzfA",
         "link2": "https://cinemahall1992.blogspot.com/2025/03/2023-tiger-3_6.html",
         "id": 13,
-        "date": null
+        "date": "2025-03-11T14:20:52.662Z",
+        "category": "Action"
     },
     {
         "title": "2025 🎬 The-Gorge  🎥",
@@ -229,7 +238,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=mr3itScsxz20lenIvZIlDw",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/2025-gorge.html",
         "id": 14,
-        "date": null
+        "date": "2025-03-11T14:21:02.827Z",
+        "category": "Adventure"
     },
     {
         "title": "2025 🎬 Identity  🎥",
@@ -239,7 +249,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=qi-QIiXBef8Fbo3cprptNQ",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/2025-identity.html",
         "id": 15,
-        "date": null
+        "date": "2025-03-11T14:21:13.913Z",
+        "category": "Thriller"
     },
     {
         "title": "2025 🎬 La Dolce Villa 🎥",
@@ -249,7 +260,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=7OvZPspqGJcBoNH1UOWwpQ",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/2025-la-dolce-villa.html",
         "id": 16,
-        "date": null
+        "date": "2025-03-11T14:21:31.024Z",
+        "category": "Dramatic"
     },
     {
         "title": "2025 🎬 My-Fault-London  🎥",
@@ -259,7 +271,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=zAh_62hi9-o89GRFH5JiDQ",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/2025-my-fault-london.html",
         "id": 17,
-        "date": null
+        "date": "2025-03-11T14:21:42.083Z",
+        "category": "Dramatic"
     },
     {
         "title": "2025 🎬 My-Fault-London  🎥",
@@ -269,7 +282,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=wKGx61VxWedn6AMSV1__Vg",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/2025-bobby-aur-rishi-ki-love-story.html",
         "id": 18,
-        "date": null
+        "date": "2025-03-11T14:21:50.400Z",
+        "category": "Dramatic"
     },
     {
         "title": "2025 🎬 DEVA 🎥",
@@ -279,7 +293,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=6PShAc1gbz9aZuR-567NVA",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/2025-deva.html",
         "id": 19,
-        "date": null
+        "date": "2025-03-11T14:22:01.077Z",
+        "category": "Action"
     },
     {
         "title": " 2025🎬 Saale Aashiq 🎥",
@@ -289,7 +304,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=YjlkLC_ddaJv4NvL20yVJw",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/2025-saale-aashiq_13.html",
         "id": 20,
-        "date": null
+        "date": "2025-03-11T14:22:09.598Z",
+        "category": "Romantic"
     },
     {
         "title": "2022🎬 R.I.P.D-2 🎥",
@@ -299,7 +315,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=OMjDPvIG9_fxsWiWggoiuw",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/2022-ripd-2_13.html",
         "id": 21,
-        "date": null
+        "date": "2025-03-11T14:22:27.747Z",
+        "category": "Science Fiction"
     },
     {
         "title": "2013🎬 R.I.P.D-1 🎥",
@@ -309,7 +326,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=a4WyPpUKHwzTIC-Las-OVw",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/2013-ripd-1_13.html",
         "id": 22,
-        "date": null
+        "date": "2025-03-11T14:22:24.276Z",
+        "category": "Science Fiction"
     },
     {
         "title": "2021🎬 Infinite 🎥",
@@ -319,7 +337,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=e1-IxLCvxMvjOM0EOAFlgQ",
         "link2": "http://cinemahall1992.blogspot.com/2025/02/2021-infinite.html",
         "id": 23,
-        "date": null
+        "date": "2025-03-11T14:22:35.400Z",
+        "category": "Science Fiction"
     },
     {
         "title": "2020 🎬 Bheeshma 🎥",
@@ -329,7 +348,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=F77zl03PXIsFpVNxyOOm0w",
         "link2": "https://cinemahall1992.blogspot.com/2025/03/2020-bheeshma.html",
         "id": 24,
-        "date": null
+        "date": "2025-03-11T14:22:43.975Z",
+        "category": "Dramatic"
     },
     {
         "title": "2023 🎬 Bhagavanth 🎥",
@@ -339,7 +359,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=7v1L5hIb3i2vJ3cAmv_kIw",
         "link2": "https://cinemahall1992.blogspot.com/2025/03/2023-bhagavanth.html",
         "id": 25,
-        "date": null
+        "date": "2025-03-11T14:22:48.333Z",
+        "category": "Action"
     },
     {
         "title": "2023 🎬 Baby 🎥",
@@ -349,7 +370,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=9O8hwGU5u9twn1pfKOBRuw",
         "link2": "https://cinemahall1992.blogspot.com/2025/03/2023-baby.html",
         "id": 26,
-        "date": null
+        "date": "2025-03-11T14:22:54.804Z",
+        "category": "Romantic"
     },
     {
         "title": "2024 🎬 Dui Shaw S02E04 🎥",
@@ -359,7 +381,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=_Pm9edbMeuiX8trzFte0Gw",
         "link2": "https://cinemahall1992.blogspot.com/2025/03/2024-dui-shaw-s02e04.html",
         "id": 27,
-        "date": null
+        "date": "2025-03-11T14:23:00.364Z",
+        "category": "Series"
     },
     {
         "title": "2024  🎬 Dui Shaw S02E03 🎥",
@@ -369,7 +392,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=uC4775U-LsoyT5Ce9zPuSQ",
         "link2": "https://cinemahall1992.blogspot.com/2025/03/2024-dui-shaw-s02e03.html",
         "id": 28,
-        "date": null
+        "date": "2025-03-11T14:23:06.256Z",
+        "category": "Series"
     },
     {
         "title": "2024 🎬 Dui Shaw-S02-E02 🎥",
@@ -379,7 +403,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=Z-ndL883g4-sRjbtmwha7w",
         "link2": "https://cinemahall1992.blogspot.com/2025/03/230-2024-dui-shaw-s02-e02.html",
         "id": 29,
-        "date": null
+        "date": "2025-03-11T14:23:10.856Z",
+        "category": "Series"
     },
     {
         "title": "2024 🎬 Dui Shaw-S02-E01 🎥",
@@ -389,7 +414,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=gvgoM47Vpik4_LMOofeneQ",
         "link2": "https://cinemahall1992.blogspot.com/2025/03/2024-dui-shaw-s02-e01.html",
         "id": 30,
-        "date": null
+        "date": "2025-03-11T14:23:14.701Z",
+        "category": "Series"
     },
     {
         "title": "2022 🎬 Pett Kata Shaw -S01 🎥",
@@ -399,7 +425,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=41mMYoVbb_N1mwuVjIx3kA",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/2022-pett-kata-shaw-s01.html",
         "id": 31,
-        "date": null
+        "date": "2025-03-11T14:23:19.775Z",
+        "category": "Series"
     },
     {
         "title": "2023🎬 Vaathi 🎥",
@@ -409,7 +436,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=P6P4s0d5QdwV0Ll-Yt-W3w",
         "link2": "http://cinemahall1992.blogspot.com/2025/02/2023-vaathihindi.html",
         "id": 32,
-        "date": null
+        "date": "2025-03-11T14:23:27.862Z",
+        "category": "Thriller"
     },
     {
         "title": "2022 🎬 The Storyteller 🎥",
@@ -419,7 +447,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=R55-aaFbcbT37LXWql8Ptw",
         "link2": "http://cinemahall1992.blogspot.com/2025/02/2022-storyteller.html",
         "id": 33,
-        "date": null
+        "date": "2025-03-11T14:23:35.054Z",
+        "category": "Dramatic"
     },
     {
         "title": "2019  🎬 The Wandering Earth 🎥",
@@ -429,7 +458,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=lt3AMTGcadAiTpuXDqwDtg",
         "link2": "http://cinemahall1992.blogspot.com/2025/02/2019-wandering-earth.html",
         "id": 34,
-        "date": null
+        "date": "2025-03-11T14:23:45.188Z",
+        "category": "Adventure"
     },
     {
         "title": "2021 🎬 Army of Thieves 🎥",
@@ -439,7 +469,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=1i1yuyifZAvuAo1yHwqPFg",
         "link2": "http://cinemahall1992.blogspot.com/2025/02/2021-army-of-thieves.html",
         "id": 35,
-        "date": null
+        "date": "2025-03-11T14:23:53.087Z",
+        "category": "Science Fiction"
     },
     {
         "title": "2024  🎬 Jailar 🎥",
@@ -459,7 +490,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=ymgR0cPu-2RT-txbSCCj8A",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/fastx.html",
         "id": 37,
-        "date": null
+        "date": "2025-03-11T14:24:02.226Z",
+        "category": "Action"
     },
     {
         "title": "2023🎬 Salaar Part 1  Ceasefire 🎥",
@@ -469,7 +501,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=kkeu9GCY2qzGZIfnz3Noaw",
         "link2": "http://cinemahall1992.blogspot.com/2025/02/2023-salaar-part-1-ceasefire.html",
         "id": 38,
-        "date": null
+        "date": "2025-03-11T14:24:09.288Z",
+        "category": "Action"
     },
     {
         "title": "2022 🎬 The Goldsmith 🎥",
@@ -479,7 +512,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=-Nm2CP0vxoxU4VDSTTAA-g",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/2022-goldsmith.html",
         "id": 39,
-        "date": null
+        "date": "2025-03-11T14:24:20.774Z",
+        "category": "Thriller"
     },
     {
         "title": "2007 🎬 Hitman Unrated 🎥",
@@ -509,7 +543,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=Hast8bStN1OX31PmN-3xyA",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/2023-bibaho-obhijaan.html",
         "id": 42,
-        "date": null
+        "date": "2025-03-11T14:24:32.101Z",
+        "category": "Dramatic"
     },
     {
         "title": "2023 🎬 John Wick-4  🎥",
@@ -519,7 +554,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=xzCqzFHiRBHtMt-QqZbZQQ",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/2023-john-wick-4.html",
         "id": 43,
-        "date": null
+        "date": "2025-03-11T14:24:36.609Z",
+        "category": "Action"
     },
     {
         "title": "2019 🎬 Jawker-Dhan 🎥",
@@ -529,7 +565,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=Lh5UTyDYYxnoyVI28guJEQ",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/2019-jawker-dhan.html",
         "id": 44,
-        "date": null
+        "date": "2025-03-11T14:24:45.526Z",
+        "category": "Thriller"
     },
     {
         "title": " 🎬 Misson Impossible 🎥",
@@ -539,7 +576,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=OMIXPerFywuALCq064leaw",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/misson-impossible.html",
         "id": 45,
-        "date": null
+        "date": "2025-03-11T14:24:55.431Z",
+        "category": "Adventure"
     },
     {
         "title": "2023 🎬 Ardhangini  🎥",
@@ -549,7 +587,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=ErZYCi2XWuaduRL8tXdMvg",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/2023-ardhangini.html",
         "id": 46,
-        "date": null
+        "date": "2025-03-11T14:25:02.877Z",
+        "category": "Dramatic"
     },
     {
         "title": "2019 🎬 Supere-Me 🎥",
@@ -559,7 +598,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=We7gEsvyLxDCWc7k74N9xQ",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/2019-supere-me.html",
         "id": 47,
-        "date": null
+        "date": "2025-03-11T14:25:09.425Z",
+        "category": "Science Fiction"
     },
     {
         "title": "2023 🎬 Agilan 🎥",
@@ -569,7 +609,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=JDwCcwxiW5wtiexIul-Xvw",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/2023-agilan.html",
         "id": 48,
-        "date": null
+        "date": "2025-03-11T14:25:14.001Z",
+        "category": "Action"
     },
     {
         "title": "2017 🎬 Bleeding Steel  🎥",
@@ -579,7 +620,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=sqbrCg5V9MiJ_EofJDJE0g",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/2017-bleeding-steel.html",
         "id": 49,
-        "date": null
+        "date": "2025-03-11T14:25:19.085Z",
+        "category": "Science Fiction"
     },
     {
         "title": "🎬 Magadheera 🎥",
@@ -589,7 +631,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=toXHJVv0PP60JtQyZJCT5w",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/magadheera.html",
         "id": 50,
-        "date": null
+        "date": "2025-03-11T14:25:24.977Z",
+        "category": "Romantic"
     },
     {
         "title": "2023 🎬 Mark-Antony  🎥",
@@ -599,7 +642,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=kdUAOIAPv3vNUXnu2OAxmQ",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/2023-mark-antony.html",
         "id": 51,
-        "date": null
+        "date": "2025-03-11T14:25:31.198Z",
+        "category": "Science Fiction"
     },
     {
         "title": "2023 🎬 Meg-2-The-Trench  🎥",
@@ -609,7 +653,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=hAXnEGGXUVVrpA-pPIG4pw",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/2023-meg-2-trench.html",
         "id": 52,
-        "date": null
+        "date": "2025-03-11T14:25:41.811Z",
+        "category": "Thriller"
     },
     {
         "title": "2023 🎬 MissonRanigonj Sprint  🎥",
@@ -619,7 +664,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=q8M0hwst1vAMC3QAeI-U_Q",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/2023-missonranigonj-sprint.html",
         "id": 53,
-        "date": null
+        "date": "2025-03-11T14:25:50.004Z",
+        "category": "Thriller"
     },
     {
         "title": "2023 🎬 Jawan  🎥",
@@ -629,7 +675,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=RAo2CwMKhL5suGZDhqjgMQ",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/2023-jawan.html",
         "id": 54,
-        "date": null
+        "date": "2025-03-11T14:25:55.486Z",
+        "category": "Action"
     },
     {
         "title": "2023 🎬 Mohanagar_S02  🎥",
@@ -639,7 +686,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=-b8EQitOrqoDgDBvE2Q1FA",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/2023-mohanagars02.html",
         "id": 55,
-        "date": null
+        "date": "2025-03-11T14:26:01.177Z",
+        "category": "Series"
     },
     {
         "title": "2019 🎬 The-Kid-Who-Would-Be-King  🎥",
@@ -649,7 +697,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=pjGsQakv5icS0T2BrVz-Tg",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/2019-kid-who-would-be-king.html",
         "id": 56,
-        "date": null
+        "date": "2025-03-11T14:26:08.846Z",
+        "category": "Adventure"
     },
     {
         "title": "2024 🎬  Surongo...সুড়ঙ্গ 🎥",
@@ -659,7 +708,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=2WE1IIZJy7Tskhh1fuD7sw",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/2024-surongo.html",
         "id": 57,
-        "date": null
+        "date": "2025-03-11T14:26:20.448Z",
+        "category": "Thriller"
     },
     {
         "title": "2023 🎬 The Black Demon  🎥",
@@ -669,7 +719,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=oznjL-FBi7oryt6MBPziDQ",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/2023-black-demon.html",
         "id": 58,
-        "date": null
+        "date": "2025-03-11T14:26:24.673Z",
+        "category": "Thriller"
     },
     {
         "title": "2023 🎬 The-Flash 🎥",
@@ -679,7 +730,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=AlK3fFmnGbTRMFq3XHUNuw",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/2023-flash.html",
         "id": 59,
-        "date": null
+        "date": "2025-03-11T14:26:28.528Z",
+        "category": "Action"
     },
     {
         "title": "2023 🎬 The-Little-Mermaid  🎥",
@@ -689,7 +741,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=zTbFTNTV0IN5pSKFdqMK1A",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/2023-little-mermaid.html",
         "id": 60,
-        "date": null
+        "date": "2025-03-11T14:26:36.538Z",
+        "category": "Adventure"
     },
     {
         "title": "2025 🎬 42.Captain-America-B-N-W  🎥",
@@ -699,7 +752,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=vVbVT5uetTC9HUy1gCnFug",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/2025-captain-america-b-n-w.html",
         "id": 61,
-        "date": null
+        "date": "2025-03-11T14:26:55.178Z",
+        "category": "Science Fiction"
     },
     {
         "title": "2022 🎬 41.Doctor Strange 2  🎥",
@@ -709,7 +763,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=9aS-pVUn1r8Bj_QkRcGi-A",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/2022-41doctor-strange-2.html",
         "id": 62,
-        "date": null
+        "date": "2025-03-11T14:26:51.019Z",
+        "category": "Science Fiction"
     },
     {
         "title": "2023 🎬 40.The.Marvels  🎥",
@@ -719,7 +774,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=AwBlPY5_Yyk0TyNXoVKDsg",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/2023-40themarvels.html",
         "id": 63,
-        "date": null
+        "date": "2025-03-11T14:26:59.570Z",
+        "category": "Science Fiction"
     },
     {
         "title": "2023 🎬 39.Ant-Man and the Wasp - Quantumania  🎥",
@@ -729,7 +785,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=-eUpTvutajrbzaSPyxPMIA",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/2023-39ant-man-and-wasp-quantumania.html",
         "id": 64,
-        "date": null
+        "date": "2025-03-11T14:27:06.373Z",
+        "category": "Science Fiction"
     },
     {
         "title": "2022 🎬 38.The.Guardians.of.the.Galaxy.Holiday.Special  🎥",
@@ -739,7 +796,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=C6IHONQqmMCESAhTOChvrQ",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/2022-38theguardiansofthegalaxyholidaysp.html",
         "id": 65,
-        "date": null
+        "date": "2025-03-11T14:27:10.257Z",
+        "category": "Science Fiction"
     },
     {
         "title": "2023 🎬 37.Guardians.of.the.Galaxy.Vol.3  🎥",
@@ -749,7 +807,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=f-GNSJgrK6-bRzIZf6CWww",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/2023-37guardiansofthegalaxyvol3.html",
         "id": 66,
-        "date": null
+        "date": "2025-03-11T14:27:13.436Z",
+        "category": "Science Fiction"
     },
     {
         "title": "2022 🎬 36.Black.Panther-2  🎥",
@@ -759,7 +818,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=w9IL-5oMPiKh8SrtjSjZag",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/2022-36blackpanther-2.html",
         "id": 67,
-        "date": null
+        "date": "2025-03-11T14:27:17.479Z",
+        "category": "Science Fiction"
     },
     {
         "title": "2022 🎬 35.Thor Love and Thunder  🎥",
@@ -769,7 +829,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=xf1MVbSYm6en54PvrxHC8A",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/022-35thor-love-and-thunder.html",
         "id": 68,
-        "date": null
+        "date": "2025-03-11T14:27:22.323Z",
+        "category": "Science Fiction"
     },
     {
         "title": "2022 🎬 34.Black.Panther-2  🎥",
@@ -779,7 +840,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=W567FwriHmtvT5ZnkHOI2g",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/2022-34blackpanther-2.html",
         "id": 69,
-        "date": null
+        "date": "2025-03-11T14:27:27.458Z",
+        "category": "Science Fiction"
     },
     {
         "title": "2021 🎬 33.Spider-Man.No.Way.Home  🎥",
@@ -789,7 +851,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=bqcFFkM8w_pt5qIraqq8Lw",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/2021-33spider-mannowayhome.html",
         "id": 70,
-        "date": null
+        "date": "2025-03-11T14:27:31.083Z",
+        "category": "Science Fiction"
     },
     {
         "title": "2014 🎬 32.The Amazing Spider-Man 2  🎥",
@@ -799,7 +862,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=8poKPdHeO-EoPMclamQN4Q",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/2014-32the-amazing-spider-man-2.html",
         "id": 71,
-        "date": null
+        "date": "2025-03-11T14:27:34.392Z",
+        "category": "Science Fiction"
     },
     {
         "title": "2012 🎬 31.The Amazing Spider-Man  🎥",
@@ -809,7 +873,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=FKq5PxZ5MHIwxwl3ryPlSQ",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/2012-31the-amazing-spider-man.html",
         "id": 72,
-        "date": null
+        "date": "2025-03-11T14:27:37.883Z",
+        "category": "Science Fiction"
     },
     {
         "title": "2007 🎬 30.Spider-Man 3  🎥",
@@ -819,7 +884,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=nZf9rbYnBmfw-je5iWBRPA",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/2007-30spider-man-3.html",
         "id": 73,
-        "date": null
+        "date": "2025-03-11T14:27:41.958Z",
+        "category": "Science Fiction"
     },
     {
         "title": "2004 🎬 29.Spider-Man 2  🎥",
@@ -829,7 +895,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=k4g9BhWtl1FPOVzDjFPY8w",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/2004-29spider-man-2.html",
         "id": 74,
-        "date": null
+        "date": "2025-03-11T14:27:48.381Z",
+        "category": "Science Fiction"
     },
     {
         "title": "2002 🎬 28.Spider-Man  🎥",
@@ -839,7 +906,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=RIlLkXbF4PfcCCj2u2pQNQ",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/2002-28spider-man.html",
         "id": 75,
-        "date": null
+        "date": "2025-03-11T14:27:51.779Z",
+        "category": "Science Fiction"
     },
     {
         "title": "2021 🎬 27.Eternals  🎥",
@@ -849,7 +917,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=JIKkRm8InCvDo6guhWIYmA",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/2021-27eternals.html",
         "id": 76,
-        "date": null
+        "date": "2025-03-11T14:27:55.483Z",
+        "category": "Science Fiction"
     },
     {
         "title": "2021 🎬 26.Shang-Chi-Legend of Ten Rings  🎥",
@@ -859,7 +928,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=qGtN7UFP8_GATpiEpAnH6Q",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/2021-26shang-chi-legend-of-ten-rings.html",
         "id": 77,
-        "date": null
+        "date": "2025-03-11T14:28:00.373Z",
+        "category": "Science Fiction"
     },
     {
         "title": "2021 🎬 25.Black Widow  🎥",
@@ -869,7 +939,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=rxxDTp4lp9dggIVEfAFMYQ",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/2021-25black-widow.html",
         "id": 78,
-        "date": null
+        "date": "2025-03-11T14:28:03.716Z",
+        "category": "Science Fiction"
     },
     {
         "title": "2019 🎬 24.Spider-Man Far from Home  🎥",
@@ -879,7 +950,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=jbDlrmVM2o8we-zC-KBhwA",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/2019-24spider-man-far-from-home.html",
         "id": 79,
-        "date": null
+        "date": "2025-03-11T14:28:11.258Z",
+        "category": "Science Fiction"
     },
     {
         "title": "2019 🎬 23.Avengers-Endgame  🎥",
@@ -889,7 +961,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=4wXxgyEUtEjHpO_l0EbIPQ",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/2019-23avengers-endgame.html",
         "id": 80,
-        "date": null
+        "date": "2025-03-11T14:28:15.387Z",
+        "category": "Science Fiction"
     },
     {
         "title": "2019 🎬 22.Captain Marvel  🎥",
@@ -899,7 +972,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=DUFe0zwIjkiQ7t3KgSX8Lw",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/2019-22captain-marvel.html",
         "id": 81,
-        "date": null
+        "date": "2025-03-11T14:28:18.900Z",
+        "category": "Science Fiction"
     },
     {
         "title": "2018 🎬 21.Ant-Man and the Wasp  🎥",
@@ -909,7 +983,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=37XLo-HRfPrIZe64MjnngA",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/2018-21ant-man-and-wasp.html",
         "id": 82,
-        "date": null
+        "date": "2025-03-11T14:28:28.332Z",
+        "category": "Science Fiction"
     },
     {
         "title": "2018 🎬 20.Avengers Infinity War  🎥",
@@ -919,7 +994,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=ANRzFqpCASXjkbRFD5sXcA",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/2018-20avengers-infinity-war.html",
         "id": 83,
-        "date": null
+        "date": "2025-03-11T14:28:34.518Z",
+        "category": "Science Fiction"
     },
     {
         "title": "2018 🎬 19.Black Panther  🎥",
@@ -929,7 +1005,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=X8wc6W6Ddu_WC9J6WvqbOQ",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/2018-19black-panther.html",
         "id": 84,
-        "date": null
+        "date": "2025-03-11T14:28:37.931Z",
+        "category": "Science Fiction"
     },
     {
         "title": "2017 🎬 18.Thor Ragnarok  🎥",
@@ -939,7 +1016,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=D7hlSDsAROyP0tRJYrhr1A",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/2017-18thor-ragnarok.html",
         "id": 85,
-        "date": null
+        "date": "2025-03-11T14:28:41.435Z",
+        "category": "Science Fiction"
     },
     {
         "title": "2017 🎬 17.Spider-Man Homecoming  🎥",
@@ -949,7 +1027,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=ngVLeEqBSYSxjmUtNHiBPg",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/2017-17spider-man-homecoming.html",
         "id": 86,
-        "date": null
+        "date": "2025-03-11T14:28:44.525Z",
+        "category": "Science Fiction"
     },
     {
         "title": "2017 🎬 16.Guardians of the Galaxy Vol. 2  🎥",
@@ -959,7 +1038,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=RLcMDbwzPPbb99AkbARkvA",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/2017-16guardians-of-galaxy-vol-2.html",
         "id": 87,
-        "date": null
+        "date": "2025-03-11T14:28:50.378Z",
+        "category": "Science Fiction"
     },
     {
         "title": "2016 🎬 15.Doctor Strange  🎥",
@@ -969,7 +1049,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=5IVYedbVOXpcEQEP3gayOQ",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/2016-15doctor-strange.html",
         "id": 88,
-        "date": null
+        "date": "2025-03-11T14:28:54.707Z",
+        "category": "Science Fiction"
     },
     {
         "title": "2016 🎬 14.Captain America Civil War  🎥",
@@ -979,7 +1060,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=p2ekBSz7dbCcLMU8ofBPUA",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/2016-14captain-america-civil-war.html",
         "id": 89,
-        "date": null
+        "date": "2025-03-11T14:28:58.825Z",
+        "category": "Science Fiction"
     },
     {
         "title": "2015 🎬 13.Ant-Man  🎥",
@@ -989,7 +1071,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=NViWTc2nIOXrnhe4eKzHGg",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/2015-13ant-man.html",
         "id": 90,
-        "date": null
+        "date": "2025-03-11T14:29:02.039Z",
+        "category": "Science Fiction"
     },
     {
         "title": "2015 🎬 12.Avengers Age of Ultron  🎥",
@@ -999,7 +1082,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=Oym2urGQwugq5D48Joakvw",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/2015-12avengers-age-of-ultron.html",
         "id": 91,
-        "date": null
+        "date": "2025-03-11T14:29:16.935Z",
+        "category": "Science Fiction"
     },
     {
         "title": "2014 🎬 11.Guardians Of The Galaxy  🎥",
@@ -1009,7 +1093,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=Oym2urGQwugq5D48Joakvw",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/2014-11guardians-of-galaxy.html",
         "id": 92,
-        "date": null
+        "date": "2025-03-11T14:29:22.358Z",
+        "category": "Science Fiction"
     },
     {
         "title": "2014 🎬 10.Captain America  The Winter Soldier  🎥",
@@ -1019,7 +1104,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=AnVm5uYrS3oue84vkXxOyg",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/2014-10captain-america-winter-soldier.html",
         "id": 93,
-        "date": null
+        "date": "2025-03-11T14:29:27.038Z",
+        "category": "Science Fiction"
     },
     {
         "title": "2013 🎬 09.Thor The Dark World  🎥",
@@ -1029,7 +1115,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=ixfApGWnAVFHfLZ2rMl9Kw",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/2013-09thor-dark-world.html",
         "id": 94,
-        "date": null
+        "date": "2025-03-11T14:29:30.725Z",
+        "category": "Science Fiction"
     },
     {
         "title": "2013 🎬 08.Iron Man 3  🎥",
@@ -1039,7 +1126,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=ZQYrJY4P0jF_PwbzwF93CA",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/2013-08iron-man-3.html",
         "id": 95,
-        "date": null
+        "date": "2025-03-11T14:29:36.598Z",
+        "category": "Science Fiction"
     },
     {
         "title": "2012 🎬 07.The Avengers  🎥",
@@ -1049,7 +1137,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=uxrHY1wNInLNl0KYx749lw",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/2012-07the-avengers.html",
         "id": 96,
-        "date": null
+        "date": "2025-03-11T14:29:40.494Z",
+        "category": "Science Fiction"
     },
     {
         "title": "2011 🎬 06.Captain America The First Avenger  🎥",
@@ -1059,7 +1148,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=1cU55EriH_Q9oameHKNnow",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/2011-06captain-america-first-avenger.html",
         "id": 97,
-        "date": null
+        "date": "2025-03-11T14:29:45.832Z",
+        "category": "Science Fiction"
     },
     {
         "title": "2011 🎬 05.Thor  🎥",
@@ -1069,7 +1159,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=pb43fcc7TlF4HeRS4x0ctA",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/2011-05thor.html",
         "id": 98,
-        "date": null
+        "date": "2025-03-11T14:29:48.990Z",
+        "category": "Science Fiction"
     },
     {
         "title": "2010 🎬 04.Iron Man 2  🎥",
@@ -1079,7 +1170,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=lcDjPRj7e-5C7Ds_y3Xd3A",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/2010-04iron-man-2.html",
         "id": 99,
-        "date": null
+        "date": "2025-03-11T14:29:52.854Z",
+        "category": "Science Fiction"
     },
     {
         "title": "2008 🎬 03.The Incredible Hulk 🎥",
@@ -1089,7 +1181,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=9y4y4teH6cB9o6k5w-iZmg",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/2008-03the-incredible-hulk.html",
         "id": 100,
-        "date": null
+        "date": "2025-03-11T14:29:58.138Z",
+        "category": "Science Fiction"
     },
     {
         "title": "2003 🎬 02.Hulk 🎥",
@@ -1099,7 +1192,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=Ac1G5iwKLDgQBwyjP0IFcw",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/159-2003-02hulk.html",
         "id": 101,
-        "date": null
+        "date": "2025-03-11T14:30:02.130Z",
+        "category": "Science Fiction"
     },
     {
         "title": "2008 🎬 01.Iron Man 🎥",
@@ -1109,7 +1203,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=qw45OcTkLyMKL6MPnIH6eg",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/158-2008-01iron-man.html",
         "id": 102,
-        "date": null
+        "date": "2025-03-11T14:30:07.222Z",
+        "category": "Science Fiction"
     },
     {
         "title": "2023 🎬 Puff Daddy  🎥",
@@ -1119,7 +1214,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=6Rk9mN5m04umUkuMvr1i8A",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/2023-puff-daddy.html",
         "id": 103,
-        "date": null
+        "date": "2025-03-11T14:30:13.868Z",
+        "category": "Romantic"
     },
     {
         "title": "2017 🎬 Raees  🎥",
@@ -1129,7 +1225,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=SI3v2v0qBB9z8dnaf0m3rQ",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/2017-raees.html",
         "id": 104,
-        "date": null
+        "date": "2025-03-11T14:30:22.284Z",
+        "category": "Romantic"
     },
     {
         "title": "2023 🎬 Ghost  🎥",
@@ -1139,7 +1236,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=Djdd57xWceEBvFerORVy2g",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/2023-ghost.html",
         "id": 105,
-        "date": null
+        "date": "2025-03-11T14:30:30.537Z",
+        "category": "Action"
     },
     {
         "title": "2023 🎬 Ganapath  🎥",
@@ -1149,7 +1247,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=cdOoxwZbLfKHmmH7Z1cFvg",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/2023-ganapath.html",
         "id": 106,
-        "date": null
+        "date": "2025-03-11T14:30:36.556Z",
+        "category": "Adventure"
     },
     {
         "title": "2022 🎬 Pett Kata Shaw -S01 🎥",
@@ -1159,7 +1258,8 @@
         "link1": "https://pay4fans.com/videoShare?surl=41mMYoVbb_N1mwuVjIx3kA",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/2022-pett-kata-shaw-s01.html",
         "id": 107,
-        "date": null
+        "date": "2025-03-11T14:30:44.052Z",
+        "category": "Horror"
     },
     {
         "title": "2023 🎬 Vijay Raghavan Full Movie 🎥",
@@ -1169,6 +1269,7 @@
         "link1": "https://pay4fans.com/videoShare?surl=Ro1ZF8iIBblo2BD4vG1BIA",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/2023-vijay-raghavan-full-movie.html",
         "id": 108,
-        "date": null
+        "date": "2025-03-11T14:30:55.985Z",
+        "category": "Dramatic"
     }
 ]
