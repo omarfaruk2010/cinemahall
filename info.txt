@@ -1,5 +1,5 @@
 {
-"facebookLink":"https://www.facebook.com/share/1XTyz4vhD1/",
+"facebookLink":"https://www.facebook.com/profile.php?id=61572375676437",
 "xHandel":"https://x.com/lifeinfo25",
 "telegramChannel":"https://t.me/jhhdmovie",
 "cinemaHall":"https://drive.google.com/file/d/1ZworMDrEL-rCzrM0RiqD6Lv2vit5zjC2/view?usp=drivesdk",
