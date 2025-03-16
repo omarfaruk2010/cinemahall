@@ -5,10 +5,10 @@
         "posters": [
             "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKD1nIMgoditqKuKstBnJi1na2hfWHYSvUgBvbp5uWNhny3elf1a2mfmZ2bf4aehncBCmCE5NAqqVcoulBd85040KV29R8J6rxDNywkSq3WMeRDvxN6BGZNBuXr98etSNSgPp-uCd5kFPTNSzEnqTvHu3zLKD4dJNzF0wgqGcwGNbr4k9vWROrVF1l/w640-h360/nz-vs-pak-live-streaming-ft-1742088109.jpg"
         ],
-        "link1": "",
-        "link2": "https://livecricate25.blogspot.com/2025/03/new-zealand-vs-pakistan.html",
-        "category": "Cricket",
-        "date": "2025-03-16T06:36:09.102Z"
+        "link1": "https://livecricate25.blogspot.com/2025/03/new-zealand-vs-pakistan.html",
+        "link2": "",
+        "category": "Sport",
+        "date": "2025-03-16T06:40:47.265Z"
     },
     {
         "id": 139,
