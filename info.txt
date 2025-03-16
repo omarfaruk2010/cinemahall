@@ -3,5 +3,5 @@
 "xHandel":"https://x.com/lifeinfo25",
 "telegramChannel":"https://t.me/jhhdmovie",
 "cinemaHall":"https://drive.google.com/file/d/1ZworMDrEL-rCzrM0RiqD6Lv2vit5zjC2/view?usp=drivesdk",
-"versionCod":"2"
+"versionCode":"2"
 }
