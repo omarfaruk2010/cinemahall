@@ -1,5 +1,5 @@
 {
-"facebookLink":"https://www.facebook.com/protibondhyschoolmohanpur?rdid=LGgzUJKuim4iP13A&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1B9RPnrvmN%2F#",
+"facebookLink":"https://www.facebook.com/share/1XTyz4vhD1/",
 "xHandel":"https://x.com/lifeinfo25",
 "telegramChannel":"https://t.me/jhhdmovie",
 "cinemaHall":"https://drive.google.com/file/d/1ZworMDrEL-rCzrM0RiqD6Lv2vit5zjC2/view?usp=drivesdk",
