@@ -1,27 +1,5 @@
 [
     {
-        "id": 141,
-        "title": "Louis Vuitton Australian GP",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKAGd0BcCWxewoYh7TVSZOP1d9NIYICZYHZJlvk8bytFMmmqdamdb6QVBUL1eDgkLBuGmaQ6gPqkcfQC2n0bXZCOAXbN1MZ-TVuLkd4nIKshRA2gB8BIvoZJf0o8M430Ac5ClzxNqRQq5n6aIRs3S-9ORRzWIb4G0AGadD4qsGql1uxIF6pdUmBasZ/w640-h358/images.jpg"
-        ],
-        "link1": "https://livecricate25.blogspot.com/2025/03/louis-vuitton-australian-gp.html",
-        "link2": "https://livecricate25.blogspot.com/2025/03/louis-vuitton-australian-gp.html",
-        "category": "Sport",
-        "date": "2025-03-16T06:49:33.308Z"
-    },
-    {
-        "id": 140,
-        "title": "New Zealand vs Pakistan",
-        "posters": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKD1nIMgoditqKuKstBnJi1na2hfWHYSvUgBvbp5uWNhny3elf1a2mfmZ2bf4aehncBCmCE5NAqqVcoulBd85040KV29R8J6rxDNywkSq3WMeRDvxN6BGZNBuXr98etSNSgPp-uCd5kFPTNSzEnqTvHu3zLKD4dJNzF0wgqGcwGNbr4k9vWROrVF1l/w640-h360/nz-vs-pak-live-streaming-ft-1742088109.jpg"
-        ],
-        "link1": "https://livecricate25.blogspot.com/2025/03/new-zealand-vs-pakistan.html",
-        "link2": "",
-        "category": "Sport",
-        "date": "2025-03-16T06:40:47.265Z"
-    },
-    {
         "id": 139,
         "title": "2019 🎬-Petta-🎥",
         "posters": [
@@ -654,9 +632,9 @@
             "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnyPDjhUQnrb6PLI4_mVY8ZtjOyQBMyWdbqSajqLPF70WAT376bI5JGkDDnTCmAorCsE3h16vlRpyEGzuGBJpCpG55Kf7rtTaKZTlG6H5a2bArnuhzCjTsTYqPzy8k393HHCiic0XLEuEbZa5E4M4584gFXYCPThceN6IO8-phi1bKqzvB4zYH9MaJxQ/w640-h360/232-Dui%20Shaw%20(2024)%20S02E04.jpg"
         ],
         "link1": "https://pay4fans.com/videoShare?surl=_Pm9edbMeuiX8trzFte0Gw",
-        "link2": "https://cinemahall1992.blogspot.com/2025/03/2024-dui-shaw-s02e04.html",
+        "link2": "https://cinemahall1992.blogspot.com/2025/03/2024-dui-shaw-s02-e04.html",
         "id": 27,
-        "date": "2025-03-11T14:23:00.364Z",
+        "date": "2025-03-16T08:47:35.210Z",
         "category": "Series"
     },
     {
@@ -665,9 +643,9 @@
             "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaVkWSK5SteK9t4eB-rjuGgSbDA2pObyps4KdLL51WSJ8M_PoYkrziiuElBuQqiZZMuiYY_qLQVzmbrCDFlnM00AcF3Su7QYxX7wAAJho12J9inCC1m2-Rl0UT8JiOD0BBPEfz7Z9uFh2qDC4tu5l6JCkNpNYNWdkgYTwzpIWa5-BaagDluHhZrSLiig/w640-h480/231-Dui%20Shaw%20(2024)%20S02E03.jpg=w409-h307-p-k-no-nu"
         ],
         "link1": "https://pay4fans.com/videoShare?surl=uC4775U-LsoyT5Ce9zPuSQ",
-        "link2": "https://cinemahall1992.blogspot.com/2025/03/2024-dui-shaw-s02e03.html",
+        "link2": "https://cinemahall1992.blogspot.com/2025/03/2024-dui-shaw-s02e03_16.html",
         "id": 28,
-        "date": "2025-03-11T14:23:06.256Z",
+        "date": "2025-03-16T08:48:00.612Z",
         "category": "Series"
     },
     {
@@ -676,9 +654,9 @@
             "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM2Gl7TIKBj-al2yXapOCcxMorNGztmOwHAHCIUoGLt6QriShD9uxqw6mH4-kaQuGxBJDQV-5Xq0k4vZ5GSJEUYo_G24UVsJttErAmUzkp4WuCttFKaxiyQWJtmW4k0u9q5VRgdeEOrFAjZvDJdJ8jRcWRy0iU4CbMeJuvsDfOqBT1prrXNI56SrJlQg/w640-h480/230-Dui%20Shaw%20(2024)%20S02E02.jpg=w409-h307-p-k-no-nu"
         ],
         "link1": "https://pay4fans.com/videoShare?surl=Z-ndL883g4-sRjbtmwha7w",
-        "link2": "https://cinemahall1992.blogspot.com/2025/03/230-2024-dui-shaw-s02-e02.html",
+        "link2": "https://cinemahall1992.blogspot.com/2025/03/2024-dui-shaw-s02-e02.",
         "id": 29,
-        "date": "2025-03-11T14:23:10.856Z",
+        "date": "2025-03-16T08:48:27.649Z",
         "category": "Series"
     },
     {
