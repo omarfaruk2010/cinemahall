@@ -804,14 +804,14 @@
     },
     {
         "id": 114,
-        "title": "2025 🎬 Good Doctor-S01-E21-30  🎥",
+        "title": "🎬 Good Doctor-S01-E21-30  🎥 2025 ",
         "posters": [
             "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5uPtXOPciT2sHDHYGhFSK-MpjUZdNjmoVJDE_xQrUn6RRJyqLMeXc9jJDUOok5f9_djg_o_FBxH1d-lhNgSBnmLIQ4HQxqB-WK8ypj7Y9GuTHjIs6epsIzBlHraVjtrUIBfa5VXActr7BnbsFdxlA68eiZU2dNULW4hjbhDU100Q3WjgDLiXiKMU6uQ/w640-h360/226-Good%20Doctor%202025%20-S01E21-30.jpg=w635-h358-p-k-no-nu"
         ],
         "link1": "https://pay4fans.com/videoShare?surl=1iqoLPHZQYLfKpPepdePWQ",
         "link2": "https://cinemahall1992.blogspot.com/2025/02/2025-good-doctor-s01-e21-30.html",
         "category": "Series",
-        "date": "2025-03-13T07:31:26.253Z"
+        "date": "2025-03-20T10:12:16.535Z"
     },
     {
         "id": 113,
