@@ -1,5 +1,203 @@
 [
     {
+        "id": 270,
+        "title": "🎬 Chhaava 🎥 2025 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/155-chhaava-2025-hindi-hc-prehd_orig.jpg"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=IRhQqEl3RBxbC4J5Fn0ZPg",
+        "link2": "https://jhhdmovies.weebly.com/2025-127916-chhaava-127909.html",
+        "category": "Action",
+        "date": "2025-03-27T12:05:59.668Z"
+    },
+    {
+        "id": 269,
+        "title": "🎬 Dhoom-Dhaam 🎥  2025 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/editor/156-2025-dhoom-dhaam.jpg?1742975679"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=7Jd374Z-oEc7dwEODQ7CrQ",
+        "link2": "https://jhhdmovies.weebly.com/2025-127916-dhoom_dhaam-127909.html",
+        "category": "Romantic",
+        "date": "2025-03-27T12:04:53.836Z"
+    },
+    {
+        "id": 268,
+        "title": "🎬 Baazaar 🎥 2018 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/200-photo-2025-02-13-19-27-56_orig.jpg"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=TbyyPOQ81Zjy-fu5__a5WA",
+        "link2": "https://jhhdmovies.weebly.com/2018-127916-baazaar-127909.html",
+        "category": "Thriller",
+        "date": "2025-03-27T12:03:46.407Z"
+    },
+    {
+        "id": 267,
+        "title": "🎬 Yaariyan2 🎥 2023 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/201-photo-2023-11-04-14-59-40_orig.jpg"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=H4cuV0xGx8p0XQ-OLsNxTg",
+        "link2": "https://jhhdmovies.weebly.com/2023-127916-yaariyan2-127909.html",
+        "category": "Romantic",
+        "date": "2025-03-27T12:02:37.386Z"
+    },
+    {
+        "id": 266,
+        "title": "🎬 Tiger Nageswara Rao 🎥 2023 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/202-photo-2023-10-23-17-10-55.jpg?1743069108"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=-V_aLlNZXQQ5a2Wvshckzw",
+        "link2": "https://jhhdmovies.weebly.com/2023-127916-tiger-nageswara-rao-127909.html",
+        "category": "Action",
+        "date": "2025-03-27T12:01:04.300Z"
+    },
+    {
+        "id": 265,
+        "title": "🎬 Skanda 🎥 2023 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/203-photo-2023-11-07-17-59-56_orig.jpg"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=rKnjO5sglzeqj1lPDKD7cg",
+        "link2": "https://jhhdmovies.weebly.com/2023-127916-skanda-127909.html",
+        "category": "Action",
+        "date": "2025-03-27T12:00:03.163Z"
+    },
+    {
+        "id": 264,
+        "title": "🎬 Free Guy 🎥   2021 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/204-photo-2023-10-22-12-50-32_orig.jpg"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=d5iTbdcAM2GJK3gjG_qFkQ",
+        "link2": "https://jhhdmovies.weebly.com/2021-127916-free-guy-127909.html",
+        "category": "Adventure",
+        "date": "2025-03-27T11:59:05.166Z"
+    },
+    {
+        "id": 263,
+        "title": "🎬 Pet.Sematary Bloodlines 🎥 2023 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/205-photo-2023-10-27-21-24-28_orig.jpg"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=Ehw5LejO_YQuXYIfVqr5Jg",
+        "link2": "https://jhhdmovies.weebly.com/2023-127916-petsematary-bloodlines-127909.html",
+        "category": "Horror",
+        "date": "2025-03-27T11:57:51.081Z"
+    },
+    {
+        "id": 262,
+        "title": "🎬 Syndicate- S-1🎥 2022 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/206-photo-2023-11-04-16-55-30.jpg?1743064431"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=-Xa_u023wE8xSe6ZCf23Hg",
+        "link2": "https://jhhdmovies.weebly.com/2022-127916-syndicate--s-1127909.html",
+        "category": "Series",
+        "date": "2025-03-27T11:56:40.730Z"
+    },
+    {
+        "id": 261,
+        "title": "🎬 Myself Allen Swapan-S-01 🎥 2023 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/207-photo-2023-11-04-21-36-00.jpg?1743064128"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=YeR57SGjgPm-LZjXa7-PEA",
+        "link2": "https://jhhdmovies.weebly.com/2023-127916-myself-allen-swapan-s-01-127909.html",
+        "category": "Series",
+        "date": "2025-03-27T11:55:32.169Z"
+    },
+    {
+        "id": 260,
+        "title": "🎬 LEO 🎥 2023 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/208-photo-2023-10-22-17-26-20.jpg?1743063854"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=yFJfY56QUSBc0g6NCUzfKw",
+        "link2": "https://jhhdmovies.weebly.com/2023-127916-leo-127909.html",
+        "category": "Action",
+        "date": "2025-03-27T11:54:23.791Z"
+    },
+    {
+        "id": 259,
+        "title": "🎬 Chandramukhi 2 🎥 2023 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/209-photo-2023-11-29-18-57-57_orig.jpg"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=4c4xr6AkWoOWUTaHO7PYWA",
+        "link2": "https://jhhdmovies.weebly.com/2023-127916-chandramukhi-2-127909.html",
+        "category": "Horror",
+        "date": "2025-03-27T11:53:06.202Z"
+    },
+    {
+        "id": 258,
+        "title": "🎬 Bro 🎥 2023 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/210-photo-2023-11-06-14-45-40_orig.jpg"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=zi_9ukh4zJMFgA63oyotKQ",
+        "link2": "https://jhhdmovies.weebly.com/2023-127916-bro-127909.html",
+        "category": "Thriller",
+        "date": "2025-03-27T11:51:56.611Z"
+    },
+    {
+        "id": 257,
+        "title": "🎬 Dum Laga Ke Haisha 🎥 2015 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/211-photo-2023-12-01-00-09-12.jpg?1743005408"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=nFTGjVVVZNLMvmunbFo2lA",
+        "link2": "https://jhhdmovies.weebly.com/2015-127916-dum-laga-ke-haisha-127909.html",
+        "category": "Romantic",
+        "date": "2025-03-27T11:50:43.542Z"
+    },
+    {
+        "id": 256,
+        "title": "🎬 Cruella 🎥 2015 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/212-2015-cruella_orig.jpeg"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=sOcmtsMG_Y9GllaOiA5qFA",
+        "link2": "https://jhhdmovies.weebly.com/2015-127916-cruella-127909.html",
+        "category": "Dramatic",
+        "date": "2025-03-27T11:49:37.490Z"
+    },
+    {
+        "id": 255,
+        "title": "🎬 Do Little 🎥 2020 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/213-photo-2023-10-21-18-13-25.jpg?1742998251"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=nmETlJdfjQCSoMqUbgWmmg",
+        "link2": "https://jhhdmovies.weebly.com/2020-127916-do-little-127909.html",
+        "category": "Animation",
+        "date": "2025-03-27T11:46:20.851Z"
+    },
+    {
+        "id": 254,
+        "title": "🎬 Cirkus 🎥 2022 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/214-photo-2023-10-21-23-58-45.jpg?1742998047"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=BmhEegL4GdkX7NtUsdnm3w",
+        "link2": "https://jhhdmovies.weebly.com/2022-127916-cirkus-127909.html",
+        "category": "Comedy",
+        "date": "2025-03-27T11:45:13.703Z"
+    },
+    {
+        "id": 253,
+        "title": "🎬 Helmet 🎥 2023 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/215-photo-2023-10-21-17-14-26_orig.jpg"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=OKGYvnTDuR4vOwoRacj6mQ",
+        "link2": "https://jhhdmovies.weebly.com/2023-127916-helmet-127909.html",
+        "category": "Comedy",
+        "date": "2025-03-27T11:43:15.884Z"
+    },
+    {
         "id": 252,
         "title": "🎬 Por Thozhil 🎥 2023 ",
         "posters": [
