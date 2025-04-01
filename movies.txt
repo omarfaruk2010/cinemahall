@@ -1,6 +1,28 @@
 [
     {
-        "id": 302,
+        "id": 317,
+        "title": "🎬 Myself Allen Swapan-S-02 🎥  2025 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/396-2025-myself-allen-swapan-s-02_orig.jpg"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=P-UiyUPXvm5liZiRv4opZw",
+        "link2": "https://jhhdmovies.weebly.com/2025-127916-myself-allen-swapan-s-02-127909.html",
+        "category": "Series",
+        "date": "2025-04-01T14:12:43.459Z"
+    },
+    {
+        "id": 316,
+        "title": "🎬 Good Doctor-S-01*E-36-37 🎥 2025 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/226-good-doctor-2025-s01e21-30_orig.jpg"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=chbp2ZJUR4Zk_SH00CgKZQ",
+        "link2": "https://jhhdmovies.weebly.com/2025-127916-good-doctor-s-01e-36-37-127909.html",
+        "category": "Series",
+        "date": "2025-04-01T14:11:43.538Z"
+    },
+    {
+        "id": 315,
         "title": "🎬 Sikandar 🎥 2025 ",
         "posters": [
             "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/370-sikandar-2025-hindi-pre-hd.jpg?1743320088"
@@ -8,7 +30,139 @@
         "link1": "https://pay4fans.com/videoShare?surl=5xpP9qbg-fL5SPRPV3nLSg",
         "link2": "https://jhhdmovies.weebly.com/2025-127916-sikandar-127909.html",
         "category": "Action",
-        "date": "2025-03-30T08:30:23.365Z"
+        "date": "2025-04-01T14:10:40.653Z"
+    },
+    {
+        "id": 314,
+        "title": "🎬 L2 Empuraan 🎥 2025 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/395-2025-l2-empuraan_orig.jpg"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=EvgwDQykMm49zFfzekHKfA",
+        "link2": "https://jhhdmovies.weebly.com/2025-127916-l2-127909.html",
+        "category": "Action",
+        "date": "2025-04-01T14:09:48.234Z"
+    },
+    {
+        "id": 313,
+        "title": "🎬 Inspector-Rishi-S01-Part-01(Ep.01-05) 🎥 2023 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/026-2023-inspector-rishi-s01-part-01-ep-01-05_orig.jpg"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=kTUUioS9Jzb_h0WTTO5FvA",
+        "link2": "https://jhhdmovies.weebly.com/2023-127916-inspector-rishi-s01-part-01ep01-05-127909.html",
+        "category": "Series",
+        "date": "2025-04-01T14:08:37.320Z"
+    },
+    {
+        "id": 312,
+        "title": "🎬 Bastar The Naxal Story 🎥 2024 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/025-bastar-the-naxal-story-2024.jpg?1743327390"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=LTF7_ANT2BzzH3rV3rWEHw",
+        "link2": "https://jhhdmovies.weebly.com/2024-127916-bastar-the-naxal-story-127909.html",
+        "category": "Thriller",
+        "date": "2025-04-01T14:07:27.695Z"
+    },
+    {
+        "id": 311,
+        "title": "🎬 Murder Mubarak 🎥 2024 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/024-2024-murder-mubarak_orig.jpg"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=PBvhjW_D3wyPDkRBQIiK0Q",
+        "link2": "https://jhhdmovies.weebly.com/2024-127916-murder-mubarak-127909.html",
+        "category": "Dramatic",
+        "date": "2025-04-01T14:06:24.700Z"
+    },
+    {
+        "id": 310,
+        "title": "🎬 Godzilla x Kong The New Empire 🎥 2024 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/023-2024-godzilla-x-kong-the-new-empire_orig.jpg"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=9lVPwNAh-rUi-jq2sMz6uA",
+        "link2": "https://jhhdmovies.weebly.com/2024-127916-godzilla-x-kong-the-new-empire-127909.html",
+        "category": "Adventure",
+        "date": "2025-04-01T14:05:27.029Z"
+    },
+    {
+        "id": 309,
+        "title": "🎬 Dhoomam 🎥 2023 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/022-2023-dhoomam.jpg?1743326135"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=qgWPgMvZCFbiCkNShJmANw",
+        "link2": "https://jhhdmovies.weebly.com/2023-127916-dhoomam-127909.html",
+        "category": "Thriller",
+        "date": "2025-04-01T14:04:26.752Z"
+    },
+    {
+        "id": 308,
+        "title": "🎬 Selfiee 🎥 2023 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/editor/021-2023-selfiee.jpg?1743325867"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=ne3Oc89juEAzaatIEsGKRw",
+        "link2": "https://jhhdmovies.weebly.com/2023-127916-selfiee-127909.html",
+        "category": "Dramatic",
+        "date": "2025-04-01T14:03:24.231Z"
+    },
+    {
+        "id": 307,
+        "title": "🎬 Saindhav 🎥 2024 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/020-saindhav_orig.jpg"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=VF4wzFdQnpvnJ-6-96OV4A",
+        "link2": "https://jhhdmovies.weebly.com/2024-127916-saindhav-127909.html",
+        "category": "Thriller",
+        "date": "2025-04-01T14:02:23.677Z"
+    },
+    {
+        "id": 306,
+        "title": "🎬 Bionic 🎥 2024 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/019-2024-bionic.jpg?1743324835"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=YxLohQ-8wsQFyBscmUKSXA",
+        "link2": "https://jhhdmovies.weebly.com/2024-127916-bionic-127909.html",
+        "category": "Science Fiction",
+        "date": "2025-04-01T14:01:20.119Z"
+    },
+    {
+        "id": 305,
+        "title": "🎬 Tarot 🎥 2024 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/018-2024-tarot_orig.jpg"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=MsLO758q8CyWTgL5R5bQ6g",
+        "link2": "https://jhhdmovies.weebly.com/2024-127916-tarot-127909.html",
+        "category": "Horror",
+        "date": "2025-04-01T14:00:19.340Z"
+    },
+    {
+        "id": 304,
+        "title": "🎬 Natasaarvabhowma 🎥  2019 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/016-2019-natasaarvabhowma_orig.jpg"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=Tn6_pYPWzjLPnwI4F3AhXg",
+        "link2": "https://jhhdmovies.weebly.com/2019-127916-natasaarvabhowma-127909.html",
+        "category": "Action",
+        "date": "2025-04-01T13:59:16.946Z"
+    },
+    {
+        "id": 303,
+        "title": "🎬 Nene Naa 🎥 2023 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/015-2023-nene-naa.jpg?1743324088"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=g_qovuR4YZAiQuO07hIAEg",
+        "link2": "https://jhhdmovies.weebly.com/2023-127916-nene-naa-127909.html",
+        "category": "Thriller",
+        "date": "2025-04-01T13:58:09.353Z"
     },
     {
         "id": 301,
@@ -20,17 +174,6 @@
         "link2": "https://jhhdmovies.weebly.com/2025-127916-holland-127909.html",
         "category": "Romantic",
         "date": "2025-03-29T16:23:20.777Z"
-    },
-    {
-        "id": 300,
-        "title": "🎬 L2 Empuraan 🎥 2025 ",
-        "posters": [
-            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/395-2025-l2-empuraan_orig.jpg"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=EvgwDQykMm49zFfzekHKfA",
-        "link2": "https://jhhdmovies.weebly.com/2025-127916-l2-127909.html",
-        "category": "Action",
-        "date": "2025-03-29T16:18:46.980Z"
     },
     {
         "id": 299,
