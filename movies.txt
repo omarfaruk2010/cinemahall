@@ -1,5 +1,16 @@
 [
     {
+        "id": 318,
+        "title": "🎬 Good Doctor-S-01*E-46-54 🎥 2025 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/226-good-doctor-2025-s01e21-30_orig.jpg"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=D5pjh7vgC0XQR9YPkmeiGQ",
+        "link2": "https://jhhdmovies.weebly.com/2025-127916-good-doctor-s-01e-38-45-127909.html",
+        "category": "Series",
+        "date": "2025-04-03T07:59:14.331Z"
+    },
+    {
         "id": 317,
         "title": "🎬 Myself Allen Swapan-S-02 🎥  2025 ",
         "posters": [
@@ -12,14 +23,14 @@
     },
     {
         "id": 316,
-        "title": "🎬 Good Doctor-S-01*E-36-37 🎥 2025 ",
+        "title": "🎬 Good Doctor-S-01*E-38-45 🎥 2025 ",
         "posters": [
             "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/226-good-doctor-2025-s01e21-30_orig.jpg"
         ],
-        "link1": "https://pay4fans.com/videoShare?surl=chbp2ZJUR4Zk_SH00CgKZQ",
-        "link2": "https://jhhdmovies.weebly.com/2025-127916-good-doctor-s-01e-36-37-127909.html",
+        "link1": "https://pay4fans.com/videoShare?surl=M3Yr2oVbzRVSfUAw--Qzpw",
+        "link2": "https://jhhdmovies.weebly.com/2025-127916-good-doctor-s-01e-38-45-127909.html",
         "category": "Series",
-        "date": "2025-04-01T14:11:43.538Z"
+        "date": "2025-04-03T07:58:15.439Z"
     },
     {
         "id": 315,
