@@ -1,5 +1,170 @@
 [
     {
+        "id": 333,
+        "title": "🎬 Sikandar 🎥 2025 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/370-sikandar-2025-hindi-pre-hd.jpg?1743320088"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=5xpP9qbg-fL5SPRPV3nLSg",
+        "link2": "https://jhhdmovies.weebly.com/2025-127916-sikandar-127909.html",
+        "category": "Action",
+        "date": "2025-04-08T14:32:08.588Z"
+    },
+    {
+        "id": 332,
+        "title": "🎬 Rebel Moon Chapter One Chalice of Blood 🎥 2024 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/041-rebel-moon_orig.jpg"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=w2TpQTqRWAgRu80sS1ycTw",
+        "link2": "https://jhhdmovies.weebly.com/2024-127916-rebel-moon-chapter-one-chalice-of-blood-127909.html",
+        "category": "Science Fiction",
+        "date": "2025-04-08T14:31:07.862Z"
+    },
+    {
+        "id": 331,
+        "title": "🎬 Pedro Páramo 🎥  2024 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/039-pedro-p-ramo-2024.jpg?1743688733"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=rlrK__9ksHB6SPBLP21iyw",
+        "link2": "https://jhhdmovies.weebly.com/2024-127916-pedro-paacuteramo-127909.html",
+        "category": "Horror",
+        "date": "2025-04-08T14:29:56.598Z"
+    },
+    {
+        "id": 330,
+        "title": "🎬 KURUP 🎥 2021 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/038-2021-kurup.jpg?1743688520"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=pR0GHJ-U0r5-F_SRk7ajug",
+        "link2": "https://jhhdmovies.weebly.com/2021-127916-kurup-127909.html",
+        "category": "Dramatic",
+        "date": "2025-04-08T14:28:53.748Z"
+    },
+    {
+        "id": 329,
+        "title": "🎬 Matka 🎥  2024 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/037-2024-matka.jpg?1743688331"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=Pe4COYGtLQbB5ubECdLeZg",
+        "link2": "https://jhhdmovies.weebly.com/2024-127916-matka-127909.html",
+        "category": "Thriller",
+        "date": "2025-04-08T14:27:55.492Z"
+    },
+    {
+        "id": 328,
+        "title": "🎬 Sam Bahadur 🎥 2023 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/036_orig.jpg"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=iTLCrotFMR2X1tMykyTfbQ",
+        "link2": "https://jhhdmovies.weebly.com/2023-127916-sam-bahadur-127909.html",
+        "category": "Dramatic",
+        "date": "2025-04-08T14:26:49.344Z"
+    },
+    {
+        "id": 327,
+        "title": "🎬 Buddy 🎥 2024 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/035_orig.jpg"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=oD9ILB4fU_WTLiF39fM75g",
+        "link2": "https://jhhdmovies.weebly.com/2024-127916-buddy-127909.html",
+        "category": "Romantic",
+        "date": "2025-04-08T14:25:50.419Z"
+    },
+    {
+        "id": 326,
+        "title": "🎬 Enders Game 🎥 2013 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/034-enders-game-2013.jpg?1743687591"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=ZN_s8kVQxbdU8oLatOqBRg",
+        "link2": "https://jhhdmovies.weebly.com/2013-127916-enders-game-127909.html",
+        "category": "Science Fiction",
+        "date": "2025-04-08T14:24:42.635Z"
+    },
+    {
+        "id": 325,
+        "title": "🎬 Sarfira 🎥 2024 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/033-sarfira.jpg?1743687253"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=SCoUySF5YNtTNYV-JeUPnw",
+        "link2": "https://jhhdmovies.weebly.com/2024-127916-sarfira-127909.html",
+        "category": "Dramatic",
+        "date": "2025-04-08T14:23:42.662Z"
+    },
+    {
+        "id": 324,
+        "title": "🎬 Savi  🎥 2024 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/032-savi_orig.jpg"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=z0Z4B_3NetDNP3-Oj98i9g",
+        "link2": "https://jhhdmovies.weebly.com/2024-127916-savi-127909.html",
+        "category": "Thriller",
+        "date": "2025-04-08T14:22:32.253Z"
+    },
+    {
+        "id": 323,
+        "title": "🎬 Srikanth 🎥 2024 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/031-srikanth.jpg?1743686831"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=xqqk8XLJMcYH20a0otYcbA",
+        "link2": "https://jhhdmovies.weebly.com/2024-127916-srikanth-127909.html",
+        "category": "Thriller",
+        "date": "2025-04-08T14:21:36.741Z"
+    },
+    {
+        "id": 322,
+        "title": "🎬 Project Gemini 🎥 2022 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/030-project-gemini.jpg?1743686636"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=wE1LiudgOebvOhLi8rXcdw",
+        "link2": "https://jhhdmovies.weebly.com/2022-127916-project-gemini-127909.html",
+        "category": "Science Fiction",
+        "date": "2025-04-08T14:20:32.472Z"
+    },
+    {
+        "id": 321,
+        "title": "🎬 Mojin – The Lost Legend 🎥 2015 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/029.jpg?1743686414"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=c7-S5NQFB2IXb9z00ctJ3g",
+        "link2": "https://jhhdmovies.weebly.com/2015-127916-mojin-ndash-the-lost-legend-127909.html",
+        "category": "Adventure",
+        "date": "2025-04-08T14:19:26.133Z"
+    },
+    {
+        "id": 320,
+        "title": "🎬 Inspector-Rishi-S01-Part-02(Ep.06-10) 🎥  2023 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/030-inspector-rishi-s01-part-02-ep-06-10-2024_orig.jpg"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=9-mrji0aq5Qm3u3b_g50Fg",
+        "link2": "https://jhhdmovies.weebly.com/2023-127916-inspector-rishi-s01-part-02ep06-10-127909.html",
+        "category": "Series",
+        "date": "2025-04-08T14:17:26.347Z"
+    },
+    {
+        "id": 319,
+        "title": "🎬 The Fall Guy 🎥 2024 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/027-2024-the-fall-guy_orig.jpg"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=UQxIzUnPCzlJed33YHHkKg",
+        "link2": "https://jhhdmovies.weebly.com/2024-127916-the-fall-guy-127909.html",
+        "category": "Adventure",
+        "date": "2025-04-08T14:15:50.381Z"
+    },
+    {
         "id": 318,
         "title": "🎬 Good Doctor-S-01*E-46-54 🎥 2025 ",
         "posters": [
@@ -31,17 +196,6 @@
         "link2": "https://jhhdmovies.weebly.com/2025-127916-good-doctor-s-01e-38-45-127909.html",
         "category": "Series",
         "date": "2025-04-03T07:58:15.439Z"
-    },
-    {
-        "id": 315,
-        "title": "🎬 Sikandar 🎥 2025 ",
-        "posters": [
-            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/370-sikandar-2025-hindi-pre-hd.jpg?1743320088"
-        ],
-        "link1": "https://pay4fans.com/videoShare?surl=5xpP9qbg-fL5SPRPV3nLSg",
-        "link2": "https://jhhdmovies.weebly.com/2025-127916-sikandar-127909.html",
-        "category": "Action",
-        "date": "2025-04-01T14:10:40.653Z"
     },
     {
         "id": 314,
