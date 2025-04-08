@@ -7,11 +7,8 @@
         ],
         "link1": "https://pay4fans.com/videoShare?surl=5xpP9qbg-fL5SPRPV3nLSg",
         "link2": "https://jhhdmovies.weebly.com/2025-127916-sikandar-127909.html",
-        "category": [
-            "Action",
-            "Romantic"
-        ],
-        "date": "2025-04-08T15:31:10.643Z"
+        "category": "Action",
+        "date": "2025-04-08T14:32:08.588Z"
     },
     {
         "id": 332,
