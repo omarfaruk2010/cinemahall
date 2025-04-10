@@ -1,5 +1,27 @@
 [
     {
+        "id": 368,
+        "title": "🎬 The.Bannen.Way 🎥 2010 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/392-the-bannen-way-2010-dual-hevc.jpg?1743666973"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=C4zFb5LKSUiNP7JsPobe2A",
+        "link2": "https://jhhdmovies.weebly.com/2010-127916-thebannenway-127909.html",
+        "category": "Action",
+        "date": "2025-04-10T15:13:17.797Z"
+    },
+    {
+        "id": 367,
+        "title": "🎬 (Pri)sons 🎥 2024 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/393-2024-pri-sons.jpg?1743666618"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=Zac2HIfD8CDD1G_DqFXWwQ",
+        "link2": "https://jhhdmovies.weebly.com/2024-127916-prisons-127909.html",
+        "category": "Horror",
+        "date": "2025-04-10T15:12:15.293Z"
+    },
+    {
         "id": 366,
         "title": "🎬 Tomb Raider 🎥 2018 ",
         "posters": [
