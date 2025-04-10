@@ -2,6 +2,6 @@
 "facebookLink":"https://www.facebook.com/profile.php?id=61572375676437",
 "xHandel":"https://x.com/lifeinfo25",
 "telegramChannel":"https://t.me/jhhdmovie",
-"cinemaHall":"https://drive.google.com/file/d/11O4A1u0LbX2ZLw1-G2eaRXb5pmfJDdX2/view?usp=drivesdk",
-"versionCode":"5"
+"cinemaHall":"https://drive.google.com/file/d/184EhnhWbq2sWFYdEgDtW9DH1bLI8s6bi/view?usp=drivesdk",
+"versionCode":"6"
 }
