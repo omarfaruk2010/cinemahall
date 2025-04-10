@@ -1,5 +1,93 @@
 [
     {
+        "id": 366,
+        "title": "🎬 Tomb Raider 🎥 2018 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/073-tomb-raider-2018-720p-bluray-x265-hevc.jpg?1744209201"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=7XDV0oCWC9gNCW0wvz5yUg",
+        "link2": "https://jhhdmovies.weebly.com/2018-127916-tomb-raider-127909.html",
+        "category": "Adventure",
+        "date": "2025-04-10T06:55:56.105Z"
+    },
+    {
+        "id": 365,
+        "title": "🎬 Sarkar 🎥 2018 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/071-2018-sarkar.jpg?1744209015"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=AWUZxwKF2s-N4D1AsMJOcA",
+        "link2": "https://jhhdmovies.weebly.com/2018-127916-sarkar-127909.html",
+        "category": "Thriller",
+        "date": "2025-04-10T06:54:43.660Z"
+    },
+    {
+        "id": 364,
+        "title": "🎬 Kill 🎥 2024 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/070-kill_orig.jpg"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=oK9u_uY1XcvH1mHie31DfQ",
+        "link2": "https://jhhdmovies.weebly.com/2024-127916-kill-127909.html",
+        "category": "Action",
+        "date": "2025-04-10T06:52:39.809Z"
+    },
+    {
+        "id": 363,
+        "title": "🎬 Maharaja 🎥 2024 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/069-maharaja.jpg?1744205687"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=zdSsh3GdpW_GXU5x7i2FEQ",
+        "link2": "https://jhhdmovies.weebly.com/2024-127916-maharaja-127909.html",
+        "category": "Thriller",
+        "date": "2025-04-10T06:51:34.199Z"
+    },
+    {
+        "id": 362,
+        "title": "🎬 Maayon 🎥 2022 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/068-maayon.jpg?1744205487"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=X5zckikhC7K1dcL4rFEKLA",
+        "link2": "https://jhhdmovies.weebly.com/2022-127916-maayon-1279091.html",
+        "category": "Adventure",
+        "date": "2025-04-10T06:50:34.595Z"
+    },
+    {
+        "id": 361,
+        "title": "🎬 Vanvaas 🎥 2024 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/066-vanvaas-2024_orig.jpg"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=-QfFvAMvb3UyigNG81PzMw",
+        "link2": "https://jhhdmovies.weebly.com/2024-127916-vanvaas-127909.html",
+        "category": "Thriller",
+        "date": "2025-04-10T06:46:50.785Z"
+    },
+    {
+        "id": 360,
+        "title": "🎬 I Want to Talk 🎥 2024 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/065-i-want-to-talk-2024.jpg?1744204929"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=6CWXPrtQDusEBvSBaUQagw",
+        "link2": "https://jhhdmovies.weebly.com/2024-127916-i-want-to-talk-127909.html",
+        "category": "Dramatic",
+        "date": "2025-04-10T06:45:47.026Z"
+    },
+    {
+        "id": 359,
+        "title": "🎬 RAM (Rapid Action Mission) 🎥 2024 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/063-ram-rapid-action-mission-2024.jpg?1744203895"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=hYdSOlILU1bIVMAYjqe2qA",
+        "link2": "https://jhhdmovies.weebly.com/2024-127916-ram-rapid-action-mission-127909.html",
+        "category": "Action",
+        "date": "2025-04-10T06:44:37.457Z"
+    },
+    {
         "id": 358,
         "title": "🎬 Sikandar 🎥 2025 ",
         "posters": [
