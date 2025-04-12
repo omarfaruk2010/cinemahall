@@ -1,5 +1,280 @@
 [
     {
+        "id": 393,
+        "title": "🎬 Jaat 🎥 2025 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/492-2025-jaat.jpg?1744468798"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=n9CRyjQovsIBm18gadkPfQ",
+        "link2": "https://jhhdmovies.weebly.com/2025-127916-jaat-127909.html",
+        "category": "Action",
+        "date": "2025-04-12T15:36:58.278Z"
+    },
+    {
+        "id": 392,
+        "title": "🎬 G20 🎥 2025 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/491-2025-g20.jpg?1744469543"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=2g4xeNlhzDwDrswyWCK-QA",
+        "link2": "https://jhhdmovies.weebly.com/2025-127916-g20-127909.html",
+        "category": "Action",
+        "date": "2025-04-12T15:36:03.665Z"
+    },
+    {
+        "id": 391,
+        "title": "🎬 Court - State vs A Nobody 🎥 2025 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/489-2025-court-state-vs-a-nobody.jpg?1744469903"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=POBCE_oICoxWX0XZJnp3nw",
+        "link2": "https://jhhdmovies.weebly.com/2025-127916-court---state-vs-a-nobody-127909.html",
+        "category": "Dramatic",
+        "date": "2025-04-12T15:35:09.868Z"
+    },
+    {
+        "id": 390,
+        "title": "🎬 TEST 🎥 2025 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/497-2025-test_orig.jpg"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=T3PuzsCP4D54HYQYzs3v3g",
+        "link2": "https://jhhdmovies.weebly.com/2025-127916-test-127909.html",
+        "category": "Thriller",
+        "date": "2025-04-12T15:34:12.538Z"
+    },
+    {
+        "id": 389,
+        "title": "🎬 Baida 🎥 2025 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/498-2025-baida_orig.jpg"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=xqqq1di9qZdEEHR2DsEzRA",
+        "link2": "https://jhhdmovies.weebly.com/2025-127916-baida-127909.html",
+        "category": "Horror",
+        "date": "2025-04-12T15:33:09.774Z"
+    },
+    {
+        "id": 388,
+        "title": "🎬 Jimmi- S-01 🎥 2025 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/499-2025-jimmi-s-01.jpg?1744466163"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=bTXhfTARkMFLKiONv4fmDA",
+        "link2": "https://jhhdmovies.weebly.com/2025-127916-jimmi--s-01-127909.html",
+        "category": "Series",
+        "date": "2025-04-12T15:32:04.199Z"
+    },
+    {
+        "id": 387,
+        "title": "🎬 A Working Man 🎥 2025 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/496-2025-a-working-man.jpg?1744467702"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=U51KI700Xocx8oUfIWtkXQ",
+        "link2": "https://jhhdmovies.weebly.com/2025-127916-a-working-man-127909.html",
+        "category": "Action",
+        "date": "2025-04-12T15:30:59.330Z"
+    },
+    {
+        "id": 386,
+        "title": "🎬 Sweetheart 🎥 2025 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/495-2025-sweetheart.jpg?1744467917"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=jnNLyOTe_iDpbP42BCHBPw",
+        "link2": "https://jhhdmovies.weebly.com/2025-127916-sweetheart-127909.html",
+        "category": "Romantic",
+        "date": "2025-04-12T15:30:11.319Z"
+    },
+    {
+        "id": 385,
+        "title": "🎬 Superboys of Malegaon 🎥 2025 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/494-2025-superboys-of-malegaon.jpg?1744468435"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=43Az6rVNXdwRvMouwbd70w",
+        "link2": "https://jhhdmovies.weebly.com/2025-127916-superboys-of-malegaon-127909.html",
+        "category": "Dramatic",
+        "date": "2025-04-12T15:29:11.385Z"
+    },
+    {
+        "id": 384,
+        "title": "🎬 Pravinkoodu Shappu 🎥 2025 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/493-2025-pravinkoodu-shappu.jpg?1744468615"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=iRZJ0xG6PvNpItziZKCchA",
+        "link2": "https://jhhdmovies.weebly.com/2025-127916-pravinkoodu-shappu-127909.html",
+        "category": "Thriller",
+        "date": "2025-04-12T15:28:17.681Z"
+    },
+    {
+        "id": 383,
+        "title": "🎬 Forbidden.Fairytale 🎥 2025 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/490-2025-forbidden-fairytale.jpg?1744469723"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=wT1h6x51k2ELi8w2xpjNsw",
+        "link2": "https://jhhdmovies.weebly.com/2025-127916-forbiddenfairytale-127909.html",
+        "category": "Dramatic",
+        "date": "2025-04-12T15:27:23.579Z"
+    },
+    {
+        "id": 382,
+        "title": "🎬 Chhorii-2 🎥 2025 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/488-2025-chhorii-2_orig.jpg"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=JwUNWmsU_JoKo4xTl34qVA",
+        "link2": "https://jhhdmovies.weebly.com/2025-127916-chhorii-2-127909.html",
+        "category": "Horror",
+        "date": "2025-04-12T15:26:29.121Z"
+    },
+    {
+        "id": 381,
+        "title": "🎬 Black.Bag 🎥 2025 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/487-2025-black-bag.jpg?1744470275"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=Mcx_aOTbg_B11KTqz0o1YQ",
+        "link2": "https://jhhdmovies.weebly.com/2025-127916-blackbag-127909.html",
+        "category": "Dramatic",
+        "date": "2025-04-12T15:25:38.484Z"
+    },
+    {
+        "id": 380,
+        "title": "🎬 Akaal 🎥 2025 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/486-2025-akaal.jpg?1744470463"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=JD_KXYL2mZ10-zvmLGqV7Q",
+        "link2": "https://jhhdmovies.weebly.com/2025-127916-akaal-127909.html",
+        "category": "Dramatic",
+        "date": "2025-04-12T15:24:37.873Z"
+    },
+    {
+        "id": 379,
+        "title": "🎬 Back In Action 🎥  2025 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/084-back-in-action-2025.jpg?1744385321"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=KQ2qgoT_B02vUPOp0_85cw",
+        "link2": "https://jhhdmovies.weebly.com/2025-127916-back-in-action-127909.html",
+        "category": "Action",
+        "date": "2025-04-12T15:23:31.286Z"
+    },
+    {
+        "id": 378,
+        "title": "🎬 Fateh 🎥 2025 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/077-fateh-2025.jpg?1744376416"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=INUbmo5Xfxm0plteSLAaBg",
+        "link2": "https://jhhdmovies.weebly.com/2025-127916-fateh-127909.html",
+        "category": "Action",
+        "date": "2025-04-12T15:22:30.849Z"
+    },
+    {
+        "id": 377,
+        "title": "🎬 The.Diary 🎥 2024 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/485-the-diary-2024.jpg?1744470662"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=bExQr1CWAYWDlcNEEHZnCg",
+        "link2": "https://jhhdmovies.weebly.com/2024-127916-thediary-127909.html",
+        "category": "Dramatic",
+        "date": "2025-04-12T15:21:29.111Z"
+    },
+    {
+        "id": 376,
+        "title": "🎬 The Wild Robot 🎥 2024 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/083-2024-the-wild-robot_orig.jpg"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=EYVC5ZOd3u-119EoSrmxRA",
+        "link2": "https://jhhdmovies.weebly.com/2024-127916-the-wild-robot-127909.html",
+        "category": "Animation",
+        "date": "2025-04-12T15:20:05.296Z"
+    },
+    {
+        "id": 375,
+        "title": "🎬 I-Frankenstein 🎥 2014 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/082-i-frankenstein.jpg?1744384785"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=euKUV4Qvru65hii07c-fGQ",
+        "link2": "https://jhhdmovies.weebly.com/2014-127916-i-frankenstein-127909.html",
+        "category": "Horror",
+        "date": "2025-04-12T15:19:13.876Z"
+    },
+    {
+        "id": 374,
+        "title": "🎬 Kalki 2898 AD 🎥  2024 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/081-2024-kalki-2898-ad.jpg?1744384513"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=sR681RLWs0B5TH4op8wNNA",
+        "link2": "https://jhhdmovies.weebly.com/2024-127916-kalki-2898-ad-127909.html",
+        "category": "Action",
+        "date": "2025-04-12T15:18:19.089Z"
+    },
+    {
+        "id": 373,
+        "title": "🎬 Godir Nasha840- S-01 🎥 2024 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/080-2024-godir-nasha840-s-01.jpg?1744384341"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=m4kcjOWJzzK_VJTBC9_jSA",
+        "link2": "https://jhhdmovies.weebly.com/2024-127916-godir-nasha840--s-01-127909.html",
+        "category": "Series",
+        "date": "2025-04-12T15:17:30.272Z"
+    },
+    {
+        "id": 372,
+        "title": "🎬 Harom Hara 🎥 2024 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/079-harom-hara_orig.jpg"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=q20sXFJ2-_Z_Ry1q2e3UBA",
+        "link2": "https://jhhdmovies.weebly.com/2024-127916-harom-hara-127909.html",
+        "category": "Dramatic",
+        "date": "2025-04-12T15:16:37.939Z"
+    },
+    {
+        "id": 371,
+        "title": "🎬 Dashmi 🎥 2024 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/076-2024-dashmi_orig.jpg"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=WmERaL1OAypBsWvsqsHxaw",
+        "link2": "https://jhhdmovies.weebly.com/2024-127916-dashmi-127909.html",
+        "category": "Thriller",
+        "date": "2025-04-12T15:15:30.452Z"
+    },
+    {
+        "id": 370,
+        "title": "🎬 Ui 🎥 2024 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/075-2024-ui_orig.jpg"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=P8lxTXqyanyigzJkBw43-w",
+        "link2": "https://jhhdmovies.weebly.com/2024-127916-ui-127909.html",
+        "category": "Action",
+        "date": "2025-04-12T15:14:40.073Z"
+    },
+    {
+        "id": 369,
+        "title": "🎬 Ondhokarer Gaan 🎥 2025 ",
+        "posters": [
+            "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/074-ondhokarer-gaan-2025_orig.jpg"
+        ],
+        "link1": "https://pay4fans.com/videoShare?surl=S1XiC9CihW_WmRdqROUe5w",
+        "link2": "https://jhhdmovies.weebly.com/2025-127916-ondhokarer-gaan-127909.html",
+        "category": "Series",
+        "date": "2025-04-12T15:13:44.003Z"
+    },
+    {
         "id": 368,
         "title": "🎬 The.Bannen.Way 🎥 2010 ",
         "posters": [
