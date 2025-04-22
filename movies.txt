@@ -1,5 +1,555 @@
 [
   {
+    "id": 450,
+    "title": "🎬 Blue Cave 🎥 2024 ",
+    "posters": [
+      "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/425-blue-cave-2024.jpg?1745243319"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=a44zYcP_5jvGmg2IoBEEOw",
+    "link2": "https://jhhdmovies.weebly.com/2024-127916-blue-cave-127909.html",
+    "category": "Adventure",
+    "date": "2025-04-22T14:41:54.472Z"
+  },
+  {
+    "id": 449,
+    "title": "🎬 Blink 🎥 2024 ",
+    "posters": [
+      "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/424-blink-2024_orig.jpg"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=Ifn9AHPM1bRfVvpEGdopaQ",
+    "link2": "https://jhhdmovies.weebly.com/2024-127916-blink-127909.html",
+    "category": "Science Fiction",
+    "date": "2025-04-22T14:40:19.645Z"
+  },
+  {
+    "id": 448,
+    "title": "🎬 Billa - The Return of Rebel 2 🎥 2009 ",
+    "posters": [
+      "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/423-billa-the-return-of-rebel-2-2009_orig.jpg"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=ettvCibfztlYjBLiZMDHZQ",
+    "link2": "https://jhhdmovies.weebly.com/2009-127916-billa---the-return-of-rebel-2-127909.html",
+    "category": "Action",
+    "date": "2025-04-22T14:39:01.978Z"
+  },
+  {
+    "id": 447,
+    "title": "🎬 Big Game 🎥 2014 ",
+    "posters": [
+      "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/422-big-game.jpg?1745072790"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=F-ZYC2_NdgxsIS5En5trnw",
+    "link2": "https://jhhdmovies.weebly.com/2014-127916-big-game-127909.html",
+    "category": "Adventure",
+    "date": "2025-04-22T14:37:55.748Z"
+  },
+  {
+    "id": 446,
+    "title": "🎬 Bhool Bhulaiyaa 🎥 2007 ",
+    "posters": [
+      "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/421-bhool-bhulaiyaa-2007.jpg?1745069187"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=HHy0IZTuW6IgsE4z2Jbihg",
+    "link2": "https://jhhdmovies.weebly.com/2007-127916-bhool-bhulaiyaa-127909.html",
+    "category": "Horror",
+    "date": "2025-04-22T14:36:50.898Z"
+  },
+  {
+    "id": 445,
+    "title": "🎬 Bhool Bhulaiyaa-2 🎥 2022 ",
+    "posters": [
+      "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/420-bhool-bhulaiyaa-2-2022.jpg?1745068960"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=o2kmf-eM8n9-WwzQKFUj1g",
+    "link2": "https://jhhdmovies.weebly.com/2022-127916-bhool-bhulaiyaa-2-127909.html",
+    "category": "Horror",
+    "date": "2025-04-22T14:35:33.764Z"
+  },
+  {
+    "id": 444,
+    "title": "🎬 Bhool Bhulaiyaa-3 🎥 2024 ",
+    "posters": [
+      "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/419-bhool-bhulaiyaa-3-2024.jpg?1745068720"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=kT5jiIitRfUZwNSGHsltMw",
+    "link2": "https://jhhdmovies.weebly.com/2024-127916-bhool-bhulaiyaa-3-127909.html",
+    "category": "Horror",
+    "date": "2025-04-22T14:34:32.136Z"
+  },
+  {
+    "id": 443,
+    "title": "🎬 Bhimaa 🎥 2024 ",
+    "posters": [
+      "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/418-bhimaa.jpg?1745068373"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=HqcsBdZp-5sD375MY51__A",
+    "link2": "https://jhhdmovies.weebly.com/2024-127916-bhimaa-127909.html",
+    "category": "Thriller",
+    "date": "2025-04-22T14:33:22.825Z"
+  },
+  {
+    "id": 442,
+    "title": "🎬 Amaran 🎥 2024 ",
+    "posters": [
+      "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/417-amaran-2024.jpg?1745068082"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=jtARGNjdbwCRUuiBiraqwA",
+    "link2": "https://jhhdmovies.weebly.com/2024-127916-amaran-127909.html",
+    "category": "Action",
+    "date": "2025-04-22T14:32:20.264Z"
+  },
+  {
+    "title": "🎬 Puff Daddy  🎥 2023 ",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFZV3uVkZt70c4tzeuErEw-PwK3ezVRIyY69vtyMkVCuNn7vZxIKiuz39IDdx4zU9GjmpOHb9PpJMo4FGH1SuODEwbzXO_XiHBy-PiEOvug3SoKGxGpCTsGCSvoV6BdSGTaowsUWcaNKsxZXyn89rNIiF-kH-SAZMt6NtfEzgQ0tvi-_CQlrqiwPSnRQ/w432-h640/216-photo_2025-02-13_14-21-18.jpg=w475-h704-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=6Rk9mN5m04umUkuMvr1i8A",
+    "link2": "https://jhhdmovies.weebly.com/2023-127916-puff-daddy-127909.html",
+    "id": 103,
+    "date": "2025-04-22T14:30:52.073Z",
+    "category": "Bengali"
+  },
+  {
+    "title": "🎬 The-Kid-Who-Would-Be-King  🎥 2019",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhULK0JTopbpj14_Ct-324ZwlmnGigsDGbf68XDLfTgMfAZ_v9XTtnTAriCcL29szwlmak-172BCplcFRk9vGFwCyCVsTd49ycI0yhIgmpEpuRaKW4LfsVCxpxvmjbzuqTvcYHKBbHIODxMTVy3V7D2xksJU2F0GqWYYvhnB5hza_Dl-mNP82vGm9m2Nw/w452-h640/139-photo_2023-10-10_03-32-39.jpg=w409-h580-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=pjGsQakv5icS0T2BrVz-Tg",
+    "link2": "https://jhhdmovies.weebly.com/2019-127916-the-kid-who-would-be-king-127909.html",
+    "id": 56,
+    "date": "2025-04-22T14:30:30.181Z",
+    "category": "Adventure"
+  },
+  {
+    "title": "🎬  Surongo...সুড়ঙ্গ 🎥 2024",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBf17auHEpu3uXDCR9-vO6o6HTHsCAKKzDypf9h08OTcdihJSRI6AIbCIQi4q8lUxAkDcbFOOxuUlLVFnTvtUKad4tT-HCPeIqCGCdAmjxaHRn0Yo-rL95FiO2xPLB-CsIrwXXywAZsIXZQiMqVpeGg77Sol8lC9TWPYnrauxDNQK9kjza3nCjuc7tmQ/w431-h640/140-photo_2023-10-07_23-04-31.jpg=w409-h607-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=2WE1IIZJy7Tskhh1fuD7sw",
+    "link2": "https://jhhdmovies.weebly.com/2024-127916-surongo248824972524245725092455-127909.html",
+    "id": 57,
+    "date": "2025-04-22T14:30:23.550Z",
+    "category": "Bengali"
+  },
+  {
+    "title": "🎬 Mohanagar_S02  🎥 2023",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUFkUbcXkTvwCimvVzFSRwQSeBf3J52E6ZrDOnQNyK9CR8csMhQUKbK81Bq3qE7js7o6FICBzDCgi8j5T2XRVSA_tEp0zhk0uSSJvoJDRCVsli2XLmuWWXjhniF5qMGk6C33uQi9u0rnkLa4PbSdTr0Ay1aY06fDUUAGLIMEyHtR9PEdIwQBmbJ0Y5eA/w640-h334/138-photo_2023-10-07_23-16-36.jpg=w409-h215-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=-b8EQitOrqoDgDBvE2Q1FA",
+    "link2": "https://jhhdmovies.weebly.com/2023-127916-mohanagar_s02-127909.html",
+    "id": 55,
+    "date": "2025-04-22T14:30:16.772Z",
+    "category": "Bengali"
+  },
+  {
+    "title": "🎬 Ardhangini  🎥 2023",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaFcqHB5nla6YCteqZMdB9qMiK1rZ8ZYf5aE9nhp8SGpmmnXv5phPa6vQrEqyt5wIWmDMiZzN99xFExJWRUItTBkhm5eeYTNHCj6ELALys7q7dDZ-sw5QemsNWO-jE5ZAhQKAM54P4ZelbtiCjtmmj2Pn-InstoTR1mUXz8uBY422kp3pHtTOda8PxfQ/w640-h366/129-photo_2023-10-07_02-18-24.jpg=w409-h233-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=ErZYCi2XWuaduRL8tXdMvg",
+    "link2": "https://jhhdmovies.weebly.com/2023-127916-ardhangini-127909.html",
+    "id": 46,
+    "date": "2025-04-22T14:30:05.534Z",
+    "category": "Bengali"
+  },
+  {
+    "title": "🎬 Jawker-Dhan 🎥 2019",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_BkB2asQJcgaUNk5JsPlVrfY8Tp1Ft6AINUM0nLd4sa779w95czn2l9RhVZLje_g-rx1iXyApTGmFN8psgRhrT_u54rKWDK0hpvHfqNVUB-zEP2OfhegbRIJSoHG_e0MZQWd9SK9f14ukP5Pu4ZReVZGw-scH1LbDwRtXZMt7XRprf4WRcYbbNrsiSQ/w468-h640/128-photo_2023-10-07_13-13-58.jpg=w409-h561-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=Lh5UTyDYYxnoyVI28guJEQ",
+    "link2": "https://jhhdmovies.weebly.com/2019-127916-jawker-dhan-127909.html",
+    "id": 44,
+    "date": "2025-04-22T14:29:59.371Z",
+    "category": "Bengali"
+  },
+  {
+    "title": "🎬 Bibaho-Obhijaan 🎥 2023",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqNKFoWxFQ8GYTl-8urNrrd93qnRn_4nD9rLZ8w4GY68XA9HMofPCPB2umN96EqmbTlU1JkedFusIlNKhoVqfkuN0OW2yJVWMCq-6lYKsobqIPWpXLdkHbL2GdxuWJrhRty3LqxuNWg9vJpZDTB6rKYTGvoTHPvognF-nSw_5mfWT17tzNZvJ7ivtSoQ/w636-h640/125-photo_2023-10-06_22-59-37.jpg=w409-h413-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=Hast8bStN1OX31PmN-3xyA",
+    "link2": "https://jhhdmovies.weebly.com/2023-127916-bibaho-obhijaan-127909.html",
+    "id": 42,
+    "date": "2025-04-22T14:29:53.451Z",
+    "category": "Bengali"
+  },
+  {
+    "title": "🎬 Pett Kata Shaw -S01 🎥 2022",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjznRKdhO2UfUQseIVvoWIn6LzJ0IcVmuhTCwHUEPnRwhBu3pbc8ELGD2acyS8goBgVX5wI8Oha7mgNHwV39WlGpGQRq8IYjY3VCJzfyCfGQm2S6DmKfoNVEtbys_PQ1YVd5PYDsYhQohm0mnFvmT_hdwH46Nh_iD3qR08gRqCtkJhm4O13R3_8V39xqQ/s320/228-Pett%20Kata%20Shaw%20(2022)%20-S01.jpg=w282-h352-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=41mMYoVbb_N1mwuVjIx3kA",
+    "link2": "https://cinemahall1992.blogspot.com/2025/02/2022-pett-kata-shaw-s01.html",
+    "id": 31,
+    "date": "2025-04-22T14:29:43.659Z",
+    "category": "Bengali"
+  },
+  {
+    "title": "🎬 Dui Shaw-S02-E01 🎥 2024",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM2Gl7TIKBj-al2yXapOCcxMorNGztmOwHAHCIUoGLt6QriShD9uxqw6mH4-kaQuGxBJDQV-5Xq0k4vZ5GSJEUYo_G24UVsJttErAmUzkp4WuCttFKaxiyQWJtmW4k0u9q5VRgdeEOrFAjZvDJdJ8jRcWRy0iU4CbMeJuvsDfOqBT1prrXNI56SrJlQg/w640-h480/230-Dui%20Shaw%20(2024)%20S02E02.jpg=w409-h307-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=gvgoM47Vpik4_LMOofeneQ",
+    "link2": "https://jhhdmovies.weebly.com/2024-127916-dui-shaw-s02-e01-127909.html",
+    "id": 30,
+    "date": "2025-04-22T14:29:37.712Z",
+    "category": "Bengali"
+  },
+  {
+    "title": "🎬 Dui Shaw-S02-E02 🎥 2024",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM2Gl7TIKBj-al2yXapOCcxMorNGztmOwHAHCIUoGLt6QriShD9uxqw6mH4-kaQuGxBJDQV-5Xq0k4vZ5GSJEUYo_G24UVsJttErAmUzkp4WuCttFKaxiyQWJtmW4k0u9q5VRgdeEOrFAjZvDJdJ8jRcWRy0iU4CbMeJuvsDfOqBT1prrXNI56SrJlQg/w640-h480/230-Dui%20Shaw%20(2024)%20S02E02.jpg=w409-h307-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=Z-ndL883g4-sRjbtmwha7w",
+    "link2": "https://jhhdmovies.weebly.com/2024-127916-dui-shaw-s02-e02-127909.html",
+    "id": 29,
+    "date": "2025-04-22T14:29:30.279Z",
+    "category": "Bengali"
+  },
+  {
+    "title": "🎬 Dui Shaw S02E03 🎥 2024",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaVkWSK5SteK9t4eB-rjuGgSbDA2pObyps4KdLL51WSJ8M_PoYkrziiuElBuQqiZZMuiYY_qLQVzmbrCDFlnM00AcF3Su7QYxX7wAAJho12J9inCC1m2-Rl0UT8JiOD0BBPEfz7Z9uFh2qDC4tu5l6JCkNpNYNWdkgYTwzpIWa5-BaagDluHhZrSLiig/w640-h480/231-Dui%20Shaw%20(2024)%20S02E03.jpg=w409-h307-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=uC4775U-LsoyT5Ce9zPuSQ",
+    "link2": "https://jhhdmovies.weebly.com/2024-127916-dui-shaw-s02e03-127909.html",
+    "id": 28,
+    "date": "2025-04-22T14:29:23.811Z",
+    "category": "Bengali"
+  },
+  {
+    "title": "🎬 Dui Shaw S02E04 🎥 2024",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnyPDjhUQnrb6PLI4_mVY8ZtjOyQBMyWdbqSajqLPF70WAT376bI5JGkDDnTCmAorCsE3h16vlRpyEGzuGBJpCpG55Kf7rtTaKZTlG6H5a2bArnuhzCjTsTYqPzy8k393HHCiic0XLEuEbZa5E4M4584gFXYCPThceN6IO8-phi1bKqzvB4zYH9MaJxQ/w640-h360/232-Dui%20Shaw%20(2024)%20S02E04.jpg"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=_Pm9edbMeuiX8trzFte0Gw",
+    "link2": "https://jhhdmovies.weebly.com/2024-127916-dui-shaw-s02e04-127909.html",
+    "id": 27,
+    "date": "2025-04-22T14:29:17.029Z",
+    "category": "Bengali"
+  },
+  {
+    "title": "🎬 Feu S01 🎥 2025",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxsKP3iiaOnnd2lId7RpzUwoT6-X6JLmjcpEoiiwCzKDhx7lk9phhpMhqlfDm801Aswql3PXY_qll1roawtfeK7G3sPQ_COFZHJhpC7pODZ_8KrQTW0l8yqw631E8FtVINBED19IiYeomgRLJKOFDNiU5XmxSChZ8sWLesDjQWqMeAAhFXvB3HxmFnRA/w400-h224/153-Feu%20(2025)%20S01%20Bengali%20WEB-DL%20720p.jpg=w440-h246-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=IZ2u4RHwQSz0OvxQ1vQXkw",
+    "link2": "https://jhhdmovies.weebly.com/2025-127916-feu-s01-127909.html",
+    "id": 9,
+    "date": "2025-04-22T14:29:00.100Z",
+    "category": "Bengali"
+  },
+  {
+    "title": "🎬 Tekka 🎥 2024",
+    "posters": [
+      "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/005-tekka-2024-mlsbd-shop-bengali_orig.jpg"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=aKKAHj5LpoL96gFtEzm03w",
+    "link2": "https://jhhdmovies.weebly.com/2024-127916-tekka-127909.html",
+    "id": 4,
+    "category": "Bengali",
+    "date": "2025-04-22T14:28:50.052Z"
+  },
+  {
+    "id": 131,
+    "title": "🎬 Munshigiri 🎥 2021",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjn6nh6ysFX3oDGULyiNEq4LeuTw62st93P-pFzzGpX4gReixeHL2w0byZCNxfrLc2G9jUjIq41xwyBSdkH7sNibTa-0_vqmuxyLxCX51xksEWbr991ym8LroHoc-7Iq8trkVpfhYbvJcgNMHAWxYGABQ6qjqWaxmIkNI_L9JKz49xc-elGKgkPZHH4iQ/s320/269-photo_2024-01-15_23-29-32.jpg=w246-h352-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=kr7WeoJhvPHsL3rQkNZnVQ",
+    "link2": "https://jhhdmovies.weebly.com/2021-127916-munshigiri-127909.html",
+    "category": "Bengali",
+    "date": "2025-04-22T14:28:29.627Z"
+  },
+  {
+    "id": 151,
+    "title": "🎬 Dawshom Awbotaar 🎥 2023 ",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6YWncQW2Q-27VYYi8gkOe2ycnrxQvNZ8jExFkQCLo7JveyNsKnj-zGsRfaL6KxzdNVSsFW82ZiH2cjLflKsHw2c01pvlFE9k1uAkz5ZB4bcGOqq6zWt5ljQ1vAiP9QNVRj688cdvsCpxI8pOQarkpYH2JDbQ1wWUhEP8UrUAQNyFuK8sc9Peiyjtfng/w478-h640/244-photo_2024-01-13_16-25-04.jpg=w526-h703-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=Qazm6NyR0HlETrPBaUVWKQ",
+    "link2": "https://jhhdmovies.weebly.com/2023-127916-dawshom-awbotaar-127909.html",
+    "category": "Bengali",
+    "date": "2025-04-22T14:28:11.131Z"
+  },
+  {
+    "id": 194,
+    "title": "🎬 Oggatonama 🎥 2016 ",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqnZyruz3f8zGYTuV7IVmIRrvztBhVOUFjxp_1UPzBdC41h6VQh_9bw2dGuNeP5Z4PVs4XcGvSSEX3HwJH4f7FMrpTY4FRswCVNJoCfNqGhKmPF6odEqDWNGG_OlsVWeBCPzMOe8IHF0s-XoaYUWBPILys20txPe2BrcD6aEUX9saJVkq2X5NxQ9AshA/w640-h360/353-Oggatonama..jpg=w409-h230-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=GCP4NmMXvzAir5PNNb6Q5w",
+    "link2": "https://jhhdmovies.weebly.com/2016-127916-oggatonama-127909.html",
+    "category": "Bengali",
+    "date": "2025-04-22T14:27:41.970Z"
+  },
+  {
+    "id": 214,
+    "title": "🎬 Aynabaji 🎥 2016 ",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZhmzN_rvv6pmjY6riWtiHejtDTOKl5Z4aFM8i6LLZgNJ7-8B9rafL7XH9JzIfJSMw8JxqHQPNZFwfNJ9h362lvbpEQ91F6kF1ApofnGHK8cvyloExaR8b1kGWBDGpLrztXmVuLgQsYSmbefBLyUiutIbccZ9XBmusmUhETeWQCZhWPdr4zrLlzH0yIg/w410-h640/329-Aynabaji.jpg=w451-h706-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=ePUz2tghViGG-QvnnXqHvw",
+    "link2": "https://jhhdmovies.weebly.com/2016-127916-aynabaji-127909.html",
+    "category": "Bengali",
+    "date": "2025-04-22T14:27:25.448Z"
+  },
+  {
+    "id": 215,
+    "title": "🎬 Bapjaner_Bioscope 🎥 2015 ",
+    "posters": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizL2cCkDTZIw6goUVoe8NEye32z6iCjhVX5w7YsKFJWSKxKzwexAzv2iGIyFJ6emaZE6j5KIg3t-1I3W6CCyKGck-mSL7bv5LH78bj1tXvMnG4vYBT0ixIdW0TtRc1IZeNAdp23tHBzuMCvhRxOKsrmwAXEiTUYbSpDMqs4WHme6GkM9OBzUDYdgQawQ/w506-h640/332-Bapjaner%20Bioscope.jpg=w409-h517-p-k-no-nu"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=c_kOwa1IwtKmoJAJdiB-Yw",
+    "link2": "https://jhhdmovies.weebly.com/2015-127916-bapjaner_bioscope-127909.html",
+    "category": "Bengali",
+    "date": "2025-04-22T14:27:17.725Z"
+  },
+  {
+    "id": 261,
+    "title": "🎬 Myself Allen Swapan-S-01 🎥 2023 ",
+    "posters": [
+      "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/207-photo-2023-11-04-21-36-00.jpg?1743064128"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=YeR57SGjgPm-LZjXa7-PEA",
+    "link2": "https://jhhdmovies.weebly.com/2023-127916-myself-allen-swapan-s-01-127909.html",
+    "category": "Bengali",
+    "date": "2025-04-22T14:26:36.811Z"
+  },
+  {
+    "id": 262,
+    "title": "🎬 Syndicate- S-1🎥 2022 ",
+    "posters": [
+      "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/206-photo-2023-11-04-16-55-30.jpg?1743064431"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=-Xa_u023wE8xSe6ZCf23Hg",
+    "link2": "https://jhhdmovies.weebly.com/2022-127916-syndicate--s-1127909.html",
+    "category": "Bengali",
+    "date": "2025-04-22T14:26:29.184Z"
+  },
+  {
+    "id": 356,
+    "title": "🎬 Myself Allen Swapan-S-02 🎥  2025 ",
+    "posters": [
+      "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/396-2025-myself-allen-swapan-s-02_orig.jpg"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=P-UiyUPXvm5liZiRv4opZw",
+    "link2": "https://jhhdmovies.weebly.com/2025-127916-myself-allen-swapan-s-02-127909.html",
+    "category": "Bengali",
+    "date": "2025-04-22T14:25:33.476Z"
+  },
+  {
+    "id": 369,
+    "title": "🎬 Ondhokarer Gaan 🎥 2025 ",
+    "posters": [
+      "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/074-ondhokarer-gaan-2025_orig.jpg"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=S1XiC9CihW_WmRdqROUe5w",
+    "link2": "https://jhhdmovies.weebly.com/2025-127916-ondhokarer-gaan-127909.html",
+    "category": "Bengali",
+    "date": "2025-04-22T14:25:18.684Z"
+  },
+  {
+    "id": 373,
+    "title": "🎬 Godir Nasha840- S-01 🎥 2024 ",
+    "posters": [
+      "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/080-2024-godir-nasha840-s-01.jpg?1744384341"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=m4kcjOWJzzK_VJTBC9_jSA",
+    "link2": "https://jhhdmovies.weebly.com/2024-127916-godir-nasha840--s-01-127909.html",
+    "category": "Bengali",
+    "date": "2025-04-22T14:25:07.308Z"
+  },
+  {
+    "id": 388,
+    "title": "🎬 Jimmi- S-01 🎥 2025 ",
+    "posters": [
+      "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/499-2025-jimmi-s-01.jpg?1744466163"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=bTXhfTARkMFLKiONv4fmDA",
+    "link2": "https://jhhdmovies.weebly.com/2025-127916-jimmi--s-01-127909.html",
+    "category": "Bengali",
+    "date": "2025-04-22T14:24:31.271Z"
+  },
+  {
+    "id": 441,
+    "title": "🎬 Aho Vikramaarka 🎥 2024 ",
+    "posters": [
+      "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/416-aho-vikramaarka_orig.jpg"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=rRIteoAbgFArnkD8gMdmHg",
+    "link2": "https://jhhdmovies.weebly.com/2024-127916-aho-vikramaarka-127909.html",
+    "category": "Action",
+    "date": "2025-04-22T14:24:08.688Z"
+  },
+  {
+    "id": 440,
+    "title": "🎬 A Flying Jatt 🎥 2016 ",
+    "posters": [
+      "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/editor/415-2016-a-flying-jatt.jpg?1745066443"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=4epKjoBA5KKqNwO_rSJu9A",
+    "link2": "https://jhhdmovies.weebly.com/2016-127916-a-flying-jatt-127909.html",
+    "category": "Adventure",
+    "date": "2025-04-22T14:23:03.930Z"
+  },
+  {
+    "id": 439,
+    "title": "🎬 Ae Dil Hai Mushkil 🎥 2016 ",
+    "posters": [
+      "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/414-ae-dil-hai-mushkil_orig.jpg"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=P9DUYpob2RaFdqsANVelGA",
+    "link2": "https://jhhdmovies.weebly.com/2016-127916-ae-dil-hai-mushkil-127909.html",
+    "category": "Romantic",
+    "date": "2025-04-22T14:22:03.842Z"
+  },
+  {
+    "id": 438,
+    "title": "🎬 Adbhut 🎥 2024 ",
+    "posters": [
+      "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/413-adbhut.jpg?1745065032"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=wF-Wa263o-XADbtyGbPiTw",
+    "link2": "https://jhhdmovies.weebly.com/2024-127916-adbhut-127909.html",
+    "category": "Horror",
+    "date": "2025-04-22T14:21:00.646Z"
+  },
+  {
+    "id": 437,
+    "title": "🎬 Aavesham 🎥 2024 ",
+    "posters": [
+      "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/412-aavesham.jpg?1745064702"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=uDER8vsXr27C3hBl0gTE2Q",
+    "link2": "https://jhhdmovies.weebly.com/2024-127916-aavesham-127909.html",
+    "category": "Comedy",
+    "date": "2025-04-22T14:19:51.581Z"
+  },
+  {
+    "id": 436,
+    "title": "🎬 A Wedding Story 🎥 2024 ",
+    "posters": [
+      "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/editor/411-a-wedding-story.jpg?1745062741"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=6n540cOz9s6FOSbhY4f4xA",
+    "link2": "https://jhhdmovies.weebly.com/2024-127916-a-wedding-story-127909.html",
+    "category": "Horror",
+    "date": "2025-04-22T14:18:43.718Z"
+  },
+  {
+    "id": 435,
+    "title": "🎬 A Minecraft Movie 🎥 2025 ",
+    "posters": [
+      "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/409-2025-a-minecraft-movie.jpg?1744895430"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=tpFvL76tMz7cJ6-oYY4h9A",
+    "link2": "https://jhhdmovies.weebly.com/2025-127916-a-minecraft-movie-127909.html",
+    "category": "Animation",
+    "date": "2025-04-22T14:15:58.371Z"
+  },
+  {
+    "id": 434,
+    "title": "🎬 Vedaa 🎥 2024 ",
+    "posters": [
+      "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/editor/408-vedaa.jpg?1744894414"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=ZdxL8l89fB3y-SFsWnEaEw",
+    "link2": "https://jhhdmovies.weebly.com/2024-127916-vedaa-127909.html",
+    "category": "Action",
+    "date": "2025-04-22T14:14:43.831Z"
+  },
+  {
+    "id": 433,
+    "title": "🎬 Twisters 🎥 2024 ",
+    "posters": [
+      "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/editor/407-twisters.jpg?1744894140"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=ii35UH2mcJWmHtGUsStcxw",
+    "link2": "https://jhhdmovies.weebly.com/2024-127916-twisters-127909.html",
+    "category": "Adventure",
+    "date": "2025-04-22T14:10:57.001Z"
+  },
+  {
+    "id": 432,
+    "title": "🎬 Stree 2 🎥 2024 ",
+    "posters": [
+      "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/406-stree-2_orig.jpg"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=hCcGvMOB1LCWUABgod70mA",
+    "link2": "https://jhhdmovies.weebly.com/2024-127916-stree-2-127909.html",
+    "category": "Horror",
+    "date": "2025-04-22T14:10:04.365Z"
+  },
+  {
+    "id": 431,
+    "title": "🎬 Munjya 🎥 2024 ",
+    "posters": [
+      "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/405-munjya.jpg?1744721745"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=7VYMcfYxq_q6GYJhfqMS_Q",
+    "link2": "https://jhhdmovies.weebly.com/2024-127916-munjya-127909.html",
+    "category": "Horror",
+    "date": "2025-04-22T14:04:56.760Z"
+  },
+  {
+    "id": 430,
+    "title": "🎬 Baaji-S01 🎥 2024 ",
+    "posters": [
+      "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/404-baaji.jpg?1744721501"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=5PU09PxZwSzKEbbSQQ1Mnw",
+    "link2": "https://jhhdmovies.weebly.com/2024-127916-baaji-s01-127909.html",
+    "category": "Bengali",
+    "date": "2025-04-22T14:02:48.320Z"
+  },
+  {
+    "id": 429,
+    "title": "🎬 Mahadev Ka Gorakhpur 🎥 2024 ",
+    "posters": [
+      "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/403-mahadev-ka-gorakhpur_orig.jpg"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=kV3BPZokx3Qj7I7e2fWNfA",
+    "link2": "https://jhhdmovies.weebly.com/2024-127916-mahadev-ka-gorakhpur-127909.html",
+    "category": "Action",
+    "date": "2025-04-22T13:57:11.255Z"
+  },
+  {
+    "id": 428,
+    "title": "🎬 Khel Khel Mein 🎥 2024 ",
+    "posters": [
+      "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/402-khel-khel-mein.jpg?1744720523"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=gjt0oO8DRVyEDJ2t81yhvg",
+    "link2": "https://jhhdmovies.weebly.com/2024-127916-khel-khel-mein-127909.html",
+    "category": "Adventure",
+    "date": "2025-04-22T13:55:39.283Z"
+  },
+  {
+    "id": 427,
+    "title": "🎬 Indian 2 🎥 2024 ",
+    "posters": [
+      "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/401-indian-2.jpg?1744720252"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=S3K7rCPnCUEENJMcVo99FA",
+    "link2": "https://jhhdmovies.weebly.com/2024-127916-indian-2-127909.html",
+    "category": "Adventure",
+    "date": "2025-04-22T13:48:23.565Z"
+  },
+  {
+    "id": 426,
+    "title": "🎬 House of Lies 🎥 2024 ",
+    "posters": [
+      "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/400-house-of-lies_orig.jpg"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=MP7hcRlMPrjJG74IK-3NTQ",
+    "link2": "https://jhhdmovies.weebly.com/2024-127916-house-of-lies-127909.html",
+    "category": "Thriller",
+    "date": "2025-04-22T13:46:37.195Z"
+  },
+  {
     "id": 393,
     "title": "🎬 Jaat 🎥 2025 ",
     "posters": [
@@ -31,17 +581,6 @@
     "link2": "https://jhhdmovies.weebly.com/2025-127916-baida-127909.html",
     "category": "Horror",
     "date": "2025-04-20T13:41:12.778Z"
-  },
-  {
-    "id": 388,
-    "title": "🎬 Jimmi- S-01 🎥 2025 ",
-    "posters": [
-      "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/499-2025-jimmi-s-01.jpg?1744466163"
-    ],
-    "link1": "https://pay4fans.com/videoShare?surl=bTXhfTARkMFLKiONv4fmDA",
-    "link2": "https://jhhdmovies.weebly.com/2025-127916-jimmi--s-01-127909.html",
-    "category": "Series",
-    "date": "2025-04-20T13:41:08.555Z"
   },
   {
     "id": 391,
@@ -572,17 +1111,6 @@
     "date": "2025-04-12T15:18:19.089Z"
   },
   {
-    "id": 373,
-    "title": "🎬 Godir Nasha840- S-01 🎥 2024 ",
-    "posters": [
-      "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/080-2024-godir-nasha840-s-01.jpg?1744384341"
-    ],
-    "link1": "https://pay4fans.com/videoShare?surl=m4kcjOWJzzK_VJTBC9_jSA",
-    "link2": "https://jhhdmovies.weebly.com/2024-127916-godir-nasha840--s-01-127909.html",
-    "category": "Series",
-    "date": "2025-04-12T15:17:30.272Z"
-  },
-  {
     "id": 372,
     "title": "🎬 Harom Hara 🎥 2024 ",
     "posters": [
@@ -614,17 +1142,6 @@
     "link2": "https://jhhdmovies.weebly.com/2024-127916-ui-127909.html",
     "category": "Action",
     "date": "2025-04-12T15:14:40.073Z"
-  },
-  {
-    "id": 369,
-    "title": "🎬 Ondhokarer Gaan 🎥 2025 ",
-    "posters": [
-      "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/074-ondhokarer-gaan-2025_orig.jpg"
-    ],
-    "link1": "https://pay4fans.com/videoShare?surl=S1XiC9CihW_WmRdqROUe5w",
-    "link2": "https://jhhdmovies.weebly.com/2025-127916-ondhokarer-gaan-127909.html",
-    "category": "Series",
-    "date": "2025-04-12T15:13:44.003Z"
   },
   {
     "id": 368,
@@ -757,17 +1274,6 @@
     "link2": "https://jhhdmovies.weebly.com/2025-127916-l2-127909.html",
     "category": "Action",
     "date": "2025-04-09T16:08:44.383Z"
-  },
-  {
-    "id": 356,
-    "title": "🎬 Myself Allen Swapan-S-02 🎥  2025 ",
-    "posters": [
-      "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/396-2025-myself-allen-swapan-s-02_orig.jpg"
-    ],
-    "link1": "https://pay4fans.com/videoShare?surl=P-UiyUPXvm5liZiRv4opZw",
-    "link2": "https://jhhdmovies.weebly.com/2025-127916-myself-allen-swapan-s-02-127909.html",
-    "category": "Series",
-    "date": "2025-04-09T16:08:40.944Z"
   },
   {
     "id": 355,
@@ -1661,28 +2167,6 @@
     "date": "2025-03-27T11:57:51.081Z"
   },
   {
-    "id": 262,
-    "title": "🎬 Syndicate- S-1🎥 2022 ",
-    "posters": [
-      "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/206-photo-2023-11-04-16-55-30.jpg?1743064431"
-    ],
-    "link1": "https://pay4fans.com/videoShare?surl=-Xa_u023wE8xSe6ZCf23Hg",
-    "link2": "https://jhhdmovies.weebly.com/2022-127916-syndicate--s-1127909.html",
-    "category": "Series",
-    "date": "2025-03-27T11:56:40.730Z"
-  },
-  {
-    "id": 261,
-    "title": "🎬 Myself Allen Swapan-S-01 🎥 2023 ",
-    "posters": [
-      "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/207-photo-2023-11-04-21-36-00.jpg?1743064128"
-    ],
-    "link1": "https://pay4fans.com/videoShare?surl=YeR57SGjgPm-LZjXa7-PEA",
-    "link2": "https://jhhdmovies.weebly.com/2023-127916-myself-allen-swapan-s-01-127909.html",
-    "category": "Series",
-    "date": "2025-03-27T11:55:32.169Z"
-  },
-  {
     "id": 260,
     "title": "🎬 LEO 🎥 2023 ",
     "posters": [
@@ -2178,28 +2662,6 @@
     "date": "2025-03-25T11:50:11.411Z"
   },
   {
-    "id": 215,
-    "title": "🎬 Bapjaner_Bioscope 🎥 2015 ",
-    "posters": [
-      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizL2cCkDTZIw6goUVoe8NEye32z6iCjhVX5w7YsKFJWSKxKzwexAzv2iGIyFJ6emaZE6j5KIg3t-1I3W6CCyKGck-mSL7bv5LH78bj1tXvMnG4vYBT0ixIdW0TtRc1IZeNAdp23tHBzuMCvhRxOKsrmwAXEiTUYbSpDMqs4WHme6GkM9OBzUDYdgQawQ/w506-h640/332-Bapjaner%20Bioscope.jpg=w409-h517-p-k-no-nu"
-    ],
-    "link1": "https://pay4fans.com/videoShare?surl=c_kOwa1IwtKmoJAJdiB-Yw",
-    "link2": "https://jhhdmovies.weebly.com/2015-127916-bapjaner_bioscope-127909.html",
-    "category": "Dramatic",
-    "date": "2025-03-25T11:50:29.188Z"
-  },
-  {
-    "id": 214,
-    "title": "🎬 Aynabaji 🎥 2016 ",
-    "posters": [
-      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZhmzN_rvv6pmjY6riWtiHejtDTOKl5Z4aFM8i6LLZgNJ7-8B9rafL7XH9JzIfJSMw8JxqHQPNZFwfNJ9h362lvbpEQ91F6kF1ApofnGHK8cvyloExaR8b1kGWBDGpLrztXmVuLgQsYSmbefBLyUiutIbccZ9XBmusmUhETeWQCZhWPdr4zrLlzH0yIg/w410-h640/329-Aynabaji.jpg=w451-h706-p-k-no-nu"
-    ],
-    "link1": "https://pay4fans.com/videoShare?surl=ePUz2tghViGG-QvnnXqHvw",
-    "link2": "https://jhhdmovies.weebly.com/2016-127916-aynabaji-127909.html",
-    "category": "Adventure",
-    "date": "2025-03-25T11:53:32.570Z"
-  },
-  {
     "id": 209,
     "title": "🎬 Officer.On.Duty 🎥 2025 ",
     "posters": [
@@ -2363,17 +2825,6 @@
     "link2": "https://jhhdmovies.weebly.com/2011-127916-raone-127909.html",
     "category": "Science Fiction",
     "date": "2025-03-25T11:59:13.525Z"
-  },
-  {
-    "id": 194,
-    "title": "🎬 Oggatonama 🎥 2016 ",
-    "posters": [
-      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqnZyruz3f8zGYTuV7IVmIRrvztBhVOUFjxp_1UPzBdC41h6VQh_9bw2dGuNeP5Z4PVs4XcGvSSEX3HwJH4f7FMrpTY4FRswCVNJoCfNqGhKmPF6odEqDWNGG_OlsVWeBCPzMOe8IHF0s-XoaYUWBPILys20txPe2BrcD6aEUX9saJVkq2X5NxQ9AshA/w640-h360/353-Oggatonama..jpg=w409-h230-p-k-no-nu"
-    ],
-    "link1": "https://pay4fans.com/videoShare?surl=GCP4NmMXvzAir5PNNb6Q5w",
-    "link2": "https://jhhdmovies.weebly.com/2016-127916-oggatonama-127909.html",
-    "category": "Thriller",
-    "date": "2025-03-25T11:59:30.564Z"
   },
   {
     "id": 193,
@@ -2838,17 +3289,6 @@
     "date": "2025-03-25T14:35:43.787Z"
   },
   {
-    "id": 151,
-    "title": "🎬 Dawshom Awbotaar 🎥 2023 ",
-    "posters": [
-      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6YWncQW2Q-27VYYi8gkOe2ycnrxQvNZ8jExFkQCLo7JveyNsKnj-zGsRfaL6KxzdNVSsFW82ZiH2cjLflKsHw2c01pvlFE9k1uAkz5ZB4bcGOqq6zWt5ljQ1vAiP9QNVRj688cdvsCpxI8pOQarkpYH2JDbQ1wWUhEP8UrUAQNyFuK8sc9Peiyjtfng/w478-h640/244-photo_2024-01-13_16-25-04.jpg=w526-h703-p-k-no-nu"
-    ],
-    "link1": "https://pay4fans.com/videoShare?surl=Qazm6NyR0HlETrPBaUVWKQ",
-    "link2": "https://jhhdmovies.weebly.com/2023-127916-dawshom-awbotaar-127909.html",
-    "category": "Thriller",
-    "date": "2025-03-25T14:35:57.049Z"
-  },
-  {
     "id": 150,
     "title": "🎬 Sabdham 🎥 2025",
     "posters": [
@@ -3056,17 +3496,6 @@
     "link2": "https://jhhdmovies.weebly.com/2023-127916-annapoorani-127909.html",
     "category": "Adventure",
     "date": "2025-03-25T14:43:25.629Z"
-  },
-  {
-    "id": 131,
-    "title": "🎬 Munshigiri 🎥 2021",
-    "posters": [
-      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjn6nh6ysFX3oDGULyiNEq4LeuTw62st93P-pFzzGpX4gReixeHL2w0byZCNxfrLc2G9jUjIq41xwyBSdkH7sNibTa-0_vqmuxyLxCX51xksEWbr991ym8LroHoc-7Iq8trkVpfhYbvJcgNMHAWxYGABQ6qjqWaxmIkNI_L9JKz49xc-elGKgkPZHH4iQ/s320/269-photo_2024-01-15_23-29-32.jpg=w246-h352-p-k-no-nu"
-    ],
-    "link1": "https://pay4fans.com/videoShare?surl=kr7WeoJhvPHsL3rQkNZnVQ",
-    "link2": "https://jhhdmovies.weebly.com/2021-127916-munshigiri-127909.html",
-    "category": "Series",
-    "date": "2025-03-25T14:43:40.031Z"
   },
   {
     "id": 130,
@@ -3333,17 +3762,6 @@
     "category": "Action"
   },
   {
-    "title": "🎬 Tekka 🎥 2024",
-    "posters": [
-      "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/005-tekka-2024-mlsbd-shop-bengali_orig.jpg"
-    ],
-    "link1": "https://pay4fans.com/videoShare?surl=aKKAHj5LpoL96gFtEzm03w",
-    "link2": "https://jhhdmovies.weebly.com/2024-127916-tekka-127909.html",
-    "id": 4,
-    "category": "Thriller",
-    "date": "2025-03-25T15:04:25.448Z"
-  },
-  {
     "title": "🎬 Jango 🎥 2021",
     "posters": [
       "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/002.jpg?1741519306"
@@ -3386,17 +3804,6 @@
     "id": 8,
     "date": "2025-03-25T15:06:06.304Z",
     "category": "Action"
-  },
-  {
-    "title": "🎬 Feu S01 🎥 2025",
-    "posters": [
-      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxsKP3iiaOnnd2lId7RpzUwoT6-X6JLmjcpEoiiwCzKDhx7lk9phhpMhqlfDm801Aswql3PXY_qll1roawtfeK7G3sPQ_COFZHJhpC7pODZ_8KrQTW0l8yqw631E8FtVINBED19IiYeomgRLJKOFDNiU5XmxSChZ8sWLesDjQWqMeAAhFXvB3HxmFnRA/w400-h224/153-Feu%20(2025)%20S01%20Bengali%20WEB-DL%20720p.jpg=w440-h246-p-k-no-nu"
-    ],
-    "link1": "https://pay4fans.com/videoShare?surl=IZ2u4RHwQSz0OvxQ1vQXkw",
-    "link2": "https://jhhdmovies.weebly.com/2025-127916-feu-s01-127909.html",
-    "id": 9,
-    "date": "2025-03-25T15:06:26.566Z",
-    "category": "Series"
   },
   {
     "title": "🎬 MAX 🎥 2024",
@@ -3586,61 +3993,6 @@
     "category": "Romantic"
   },
   {
-    "title": "🎬 Dui Shaw S02E04 🎥 2024",
-    "posters": [
-      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnyPDjhUQnrb6PLI4_mVY8ZtjOyQBMyWdbqSajqLPF70WAT376bI5JGkDDnTCmAorCsE3h16vlRpyEGzuGBJpCpG55Kf7rtTaKZTlG6H5a2bArnuhzCjTsTYqPzy8k393HHCiic0XLEuEbZa5E4M4584gFXYCPThceN6IO8-phi1bKqzvB4zYH9MaJxQ/w640-h360/232-Dui%20Shaw%20(2024)%20S02E04.jpg"
-    ],
-    "link1": "https://pay4fans.com/videoShare?surl=_Pm9edbMeuiX8trzFte0Gw",
-    "link2": "https://jhhdmovies.weebly.com/2024-127916-dui-shaw-s02e04-127909.html",
-    "id": 27,
-    "date": "2025-03-25T15:17:14.431Z",
-    "category": "Series"
-  },
-  {
-    "title": "🎬 Dui Shaw S02E03 🎥 2024",
-    "posters": [
-      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaVkWSK5SteK9t4eB-rjuGgSbDA2pObyps4KdLL51WSJ8M_PoYkrziiuElBuQqiZZMuiYY_qLQVzmbrCDFlnM00AcF3Su7QYxX7wAAJho12J9inCC1m2-Rl0UT8JiOD0BBPEfz7Z9uFh2qDC4tu5l6JCkNpNYNWdkgYTwzpIWa5-BaagDluHhZrSLiig/w640-h480/231-Dui%20Shaw%20(2024)%20S02E03.jpg=w409-h307-p-k-no-nu"
-    ],
-    "link1": "https://pay4fans.com/videoShare?surl=uC4775U-LsoyT5Ce9zPuSQ",
-    "link2": "https://jhhdmovies.weebly.com/2024-127916-dui-shaw-s02e03-127909.html",
-    "id": 28,
-    "date": "2025-03-25T15:17:30.599Z",
-    "category": "Series"
-  },
-  {
-    "title": "🎬 Dui Shaw-S02-E02 🎥 2024",
-    "posters": [
-      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM2Gl7TIKBj-al2yXapOCcxMorNGztmOwHAHCIUoGLt6QriShD9uxqw6mH4-kaQuGxBJDQV-5Xq0k4vZ5GSJEUYo_G24UVsJttErAmUzkp4WuCttFKaxiyQWJtmW4k0u9q5VRgdeEOrFAjZvDJdJ8jRcWRy0iU4CbMeJuvsDfOqBT1prrXNI56SrJlQg/w640-h480/230-Dui%20Shaw%20(2024)%20S02E02.jpg=w409-h307-p-k-no-nu"
-    ],
-    "link1": "https://pay4fans.com/videoShare?surl=Z-ndL883g4-sRjbtmwha7w",
-    "link2": "https://jhhdmovies.weebly.com/2024-127916-dui-shaw-s02-e02-127909.html",
-    "id": 29,
-    "date": "2025-03-25T15:17:46.969Z",
-    "category": "Series"
-  },
-  {
-    "title": "🎬 Dui Shaw-S02-E01 🎥 2024",
-    "posters": [
-      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM2Gl7TIKBj-al2yXapOCcxMorNGztmOwHAHCIUoGLt6QriShD9uxqw6mH4-kaQuGxBJDQV-5Xq0k4vZ5GSJEUYo_G24UVsJttErAmUzkp4WuCttFKaxiyQWJtmW4k0u9q5VRgdeEOrFAjZvDJdJ8jRcWRy0iU4CbMeJuvsDfOqBT1prrXNI56SrJlQg/w640-h480/230-Dui%20Shaw%20(2024)%20S02E02.jpg=w409-h307-p-k-no-nu"
-    ],
-    "link1": "https://pay4fans.com/videoShare?surl=gvgoM47Vpik4_LMOofeneQ",
-    "link2": "https://jhhdmovies.weebly.com/2024-127916-dui-shaw-s02-e01-127909.html",
-    "id": 30,
-    "date": "2025-03-25T15:18:01.080Z",
-    "category": "Series"
-  },
-  {
-    "title": "🎬 Pett Kata Shaw -S01 🎥 2022",
-    "posters": [
-      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjznRKdhO2UfUQseIVvoWIn6LzJ0IcVmuhTCwHUEPnRwhBu3pbc8ELGD2acyS8goBgVX5wI8Oha7mgNHwV39WlGpGQRq8IYjY3VCJzfyCfGQm2S6DmKfoNVEtbys_PQ1YVd5PYDsYhQohm0mnFvmT_hdwH46Nh_iD3qR08gRqCtkJhm4O13R3_8V39xqQ/s320/228-Pett%20Kata%20Shaw%20(2022)%20-S01.jpg=w282-h352-p-k-no-nu"
-    ],
-    "link1": "https://pay4fans.com/videoShare?surl=41mMYoVbb_N1mwuVjIx3kA",
-    "link2": "https://cinemahall1992.blogspot.com/2025/02/2022-pett-kata-shaw-s01.html",
-    "id": 31,
-    "date": "2025-03-25T15:18:20.689Z",
-    "category": "Series"
-  },
-  {
     "title": "🎬 Vaathi 🎥 2023",
     "posters": [
       "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgF4as4P2WxlEaSeBKkk4vi0mk83C2Ixu0uhf_YAyrAHATv9U0iJ0y2PJuaoTNfZ8-3Sualb2Q5503IBQA6FcLCXntNq_mTnsEkOmG2CF5-TzcEeQ6sv40B0Lt1TXuYk41L8cGEpoUGj6o08B4PpZVg3gXpjjsQwreskFCrib_rEHnKUaa18qQRjDuwyQ/w640-h360/111-Vaathi.Hindi.jpg=w409-h230-p-k-no-nu"
@@ -3751,17 +4103,6 @@
     "category": "Action"
   },
   {
-    "title": "🎬 Bibaho-Obhijaan 🎥 2023",
-    "posters": [
-      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqNKFoWxFQ8GYTl-8urNrrd93qnRn_4nD9rLZ8w4GY68XA9HMofPCPB2umN96EqmbTlU1JkedFusIlNKhoVqfkuN0OW2yJVWMCq-6lYKsobqIPWpXLdkHbL2GdxuWJrhRty3LqxuNWg9vJpZDTB6rKYTGvoTHPvognF-nSw_5mfWT17tzNZvJ7ivtSoQ/w636-h640/125-photo_2023-10-06_22-59-37.jpg=w409-h413-p-k-no-nu"
-    ],
-    "link1": "https://pay4fans.com/videoShare?surl=Hast8bStN1OX31PmN-3xyA",
-    "link2": "https://jhhdmovies.weebly.com/2023-127916-bibaho-obhijaan-127909.html",
-    "id": 42,
-    "date": "2025-03-25T15:21:46.743Z",
-    "category": "Dramatic"
-  },
-  {
     "title": "🎬 John Wick-4  🎥 2023",
     "posters": [
       "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3ehcv8vQlb911qi4dkahbIYZLa61IZbjXDMpWzK7a56obE_FxkpcF4StcXTUuWNMCLZjzQ3HliLhUp9wyDxzzW_1tW7WT5-0mXACC3xRSJcIWPBoaBngneeVbvjdPXvqrhx7I9FK2WvJjZkJ-OPm-bMpw3ByVxe56F-j8-Whim5ui3WP1NpnKICWFaA/w446-h640/126-photo_2023-10-06_00-55-07.jpg=w409-h589-p-k-no-nu"
@@ -3773,17 +4114,6 @@
     "category": "Action"
   },
   {
-    "title": "🎬 Jawker-Dhan 🎥 2019",
-    "posters": [
-      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_BkB2asQJcgaUNk5JsPlVrfY8Tp1Ft6AINUM0nLd4sa779w95czn2l9RhVZLje_g-rx1iXyApTGmFN8psgRhrT_u54rKWDK0hpvHfqNVUB-zEP2OfhegbRIJSoHG_e0MZQWd9SK9f14ukP5Pu4ZReVZGw-scH1LbDwRtXZMt7XRprf4WRcYbbNrsiSQ/w468-h640/128-photo_2023-10-07_13-13-58.jpg=w409-h561-p-k-no-nu"
-    ],
-    "link1": "https://pay4fans.com/videoShare?surl=Lh5UTyDYYxnoyVI28guJEQ",
-    "link2": "https://jhhdmovies.weebly.com/2019-127916-jawker-dhan-127909.html",
-    "id": 44,
-    "date": "2025-03-25T15:23:34.273Z",
-    "category": "Thriller"
-  },
-  {
     "title": " 🎬 Misson Impossible 🎥",
     "posters": [
       "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5bgdXmoW8Gj03MTSGiLh3N3-_qpNSNGUrT0aJm0wbPJvbPl-ozSX17LcxVM6bA0Wdf64IHP2OCVYJhiptMoLifMnOQZsgv-C62h30Y015HatIKW7bhm5xrBNU-PbbKE7XoFevWuc6_VvNXh5lmxrFU0uqrwExoi3AbEzbjVHGI4ywDI5Wj23hlv3M3g/w640-h572/127-photo_2023-10-06_22-31-53.jpg=w409-h365-p-k-no-nu"
@@ -3793,17 +4123,6 @@
     "id": 45,
     "date": "2025-03-25T15:23:48.100Z",
     "category": "Adventure"
-  },
-  {
-    "title": "🎬 Ardhangini  🎥 2023",
-    "posters": [
-      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaFcqHB5nla6YCteqZMdB9qMiK1rZ8ZYf5aE9nhp8SGpmmnXv5phPa6vQrEqyt5wIWmDMiZzN99xFExJWRUItTBkhm5eeYTNHCj6ELALys7q7dDZ-sw5QemsNWO-jE5ZAhQKAM54P4ZelbtiCjtmmj2Pn-InstoTR1mUXz8uBY422kp3pHtTOda8PxfQ/w640-h366/129-photo_2023-10-07_02-18-24.jpg=w409-h233-p-k-no-nu"
-    ],
-    "link1": "https://pay4fans.com/videoShare?surl=ErZYCi2XWuaduRL8tXdMvg",
-    "link2": "https://jhhdmovies.weebly.com/2023-127916-ardhangini-127909.html",
-    "id": 46,
-    "date": "2025-03-25T15:24:02.457Z",
-    "category": "Dramatic"
   },
   {
     "title": "🎬 Supere-Me 🎥 2019",
@@ -3892,39 +4211,6 @@
     "id": 54,
     "date": "2025-03-25T15:26:19.978Z",
     "category": "Action"
-  },
-  {
-    "title": "🎬 Mohanagar_S02  🎥 2023",
-    "posters": [
-      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUFkUbcXkTvwCimvVzFSRwQSeBf3J52E6ZrDOnQNyK9CR8csMhQUKbK81Bq3qE7js7o6FICBzDCgi8j5T2XRVSA_tEp0zhk0uSSJvoJDRCVsli2XLmuWWXjhniF5qMGk6C33uQi9u0rnkLa4PbSdTr0Ay1aY06fDUUAGLIMEyHtR9PEdIwQBmbJ0Y5eA/w640-h334/138-photo_2023-10-07_23-16-36.jpg=w409-h215-p-k-no-nu"
-    ],
-    "link1": "https://pay4fans.com/videoShare?surl=-b8EQitOrqoDgDBvE2Q1FA",
-    "link2": "https://jhhdmovies.weebly.com/2023-127916-mohanagar_s02-127909.html",
-    "id": 55,
-    "date": "2025-03-25T15:26:48.741Z",
-    "category": "Series"
-  },
-  {
-    "title": "🎬 The-Kid-Who-Would-Be-King  🎥 2019",
-    "posters": [
-      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhULK0JTopbpj14_Ct-324ZwlmnGigsDGbf68XDLfTgMfAZ_v9XTtnTAriCcL29szwlmak-172BCplcFRk9vGFwCyCVsTd49ycI0yhIgmpEpuRaKW4LfsVCxpxvmjbzuqTvcYHKBbHIODxMTVy3V7D2xksJU2F0GqWYYvhnB5hza_Dl-mNP82vGm9m2Nw/w452-h640/139-photo_2023-10-10_03-32-39.jpg=w409-h580-p-k-no-nu"
-    ],
-    "link1": "https://pay4fans.com/videoShare?surl=pjGsQakv5icS0T2BrVz-Tg",
-    "link2": "https://jhhdmovies.weebly.com/2019-127916-the-kid-who-would-be-king-127909.html",
-    "id": 56,
-    "date": "2025-03-25T15:27:07.614Z",
-    "category": "Adventure"
-  },
-  {
-    "title": "🎬  Surongo...সুড়ঙ্গ 🎥 2024",
-    "posters": [
-      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBf17auHEpu3uXDCR9-vO6o6HTHsCAKKzDypf9h08OTcdihJSRI6AIbCIQi4q8lUxAkDcbFOOxuUlLVFnTvtUKad4tT-HCPeIqCGCdAmjxaHRn0Yo-rL95FiO2xPLB-CsIrwXXywAZsIXZQiMqVpeGg77Sol8lC9TWPYnrauxDNQK9kjza3nCjuc7tmQ/w431-h640/140-photo_2023-10-07_23-04-31.jpg=w409-h607-p-k-no-nu"
-    ],
-    "link1": "https://pay4fans.com/videoShare?surl=2WE1IIZJy7Tskhh1fuD7sw",
-    "link2": "https://jhhdmovies.weebly.com/2024-127916-surongo248824972524245725092455-127909.html",
-    "id": 57,
-    "date": "2025-03-25T15:55:28.429Z",
-    "category": "Thriller"
   },
   {
     "title": "🎬 The Black Demon  🎥 2023",
@@ -4420,17 +4706,6 @@
     "id": 102,
     "date": "2025-03-25T16:09:35.307Z",
     "category": "Science Fiction"
-  },
-  {
-    "title": "🎬 Puff Daddy  🎥 2023 ",
-    "posters": [
-      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFZV3uVkZt70c4tzeuErEw-PwK3ezVRIyY69vtyMkVCuNn7vZxIKiuz39IDdx4zU9GjmpOHb9PpJMo4FGH1SuODEwbzXO_XiHBy-PiEOvug3SoKGxGpCTsGCSvoV6BdSGTaowsUWcaNKsxZXyn89rNIiF-kH-SAZMt6NtfEzgQ0tvi-_CQlrqiwPSnRQ/w432-h640/216-photo_2025-02-13_14-21-18.jpg=w475-h704-p-k-no-nu"
-    ],
-    "link1": "https://pay4fans.com/videoShare?surl=6Rk9mN5m04umUkuMvr1i8A",
-    "link2": "https://jhhdmovies.weebly.com/2023-127916-puff-daddy-127909.html",
-    "id": 103,
-    "date": "2025-03-25T16:10:16.469Z",
-    "category": "Romantic"
   },
   {
     "title": "🎬 Raees  🎥 2017 ",
