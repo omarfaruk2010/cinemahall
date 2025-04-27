@@ -1,5 +1,49 @@
 [
   {
+    "id": 469,
+    "title": "🎬 Mechanic Resurrection 🎥 2016 ",
+    "posters": [
+      "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/451-2016-mechanic-resurrection.jpg?1745329155"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=dmx6w1tJIh7gqULKZFi8JQ",
+    "link2": "https://cinemahall92.blogspot.com/2025/04/451-2016-mechanic-resurrection.html",
+    "category": "Action",
+    "date": "2025-04-27T11:29:29.358Z"
+  },
+  {
+    "id": 468,
+    "title": "🎬 Mazhai.Pidikkatha.Manithan 🎥 2024 ",
+    "posters": [
+      "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/450-mazhai-pidikkatha-manithan-2024.jpg?1745325365"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=jNHErdkYRMwfXaHQdqiGZg",
+    "link2": "https://cinemahall92.blogspot.com/2025/04/450-2024-mazhaipidikkathamanithan.html",
+    "category": "Thriller",
+    "date": "2025-04-27T11:28:15.528Z"
+  },
+  {
+    "id": 467,
+    "title": "🎬 Martin 🎥 2024 ",
+    "posters": [
+      "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/449-martin-2024_orig.jpg"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=bIyXkUjbNSYudk43O8vgZA",
+    "link2": "https://cinemahall92.blogspot.com/2025/04/449.html",
+    "category": "Action",
+    "date": "2025-04-27T11:26:55.071Z"
+  },
+  {
+    "id": 466,
+    "title": "🎬 Marichi 🎥 2023 ",
+    "posters": [
+      "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/448-marichi.jpg?1745324529"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=SXXd2cYNek-zpz9wG2mj6g",
+    "link2": "https://cinemahall92.blogspot.com/2025/04/448.html",
+    "category": "Dramatic",
+    "date": "2025-04-27T11:25:46.168Z"
+  },
+  {
     "id": 465,
     "title": "🎬 Kingsglaive Final Fantasy XV 🎥 2016 ",
     "posters": [
