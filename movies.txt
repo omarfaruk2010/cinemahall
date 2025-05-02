@@ -1,5 +1,49 @@
 [
   {
+    "id": 473,
+    "title": "🎬 Borbaad 🎥 2025 ",
+    "posters": [
+      "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/517-2025-borbaad.jpg?1746197664"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=FCrehvZ5haBSmDTyq2jUIw",
+    "link2": "https://jhhdmovies.weebly.com/2025-127916-borbaad-127909.html",
+    "category": "Action",
+    "date": "2025-05-02T15:13:52.898Z"
+  },
+  {
+    "id": 472,
+    "title": "🎬 Chhaava 🎥 2025 ",
+    "posters": [
+      "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/515-2025-chhaava_orig.jpg"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=H59dt6WfS5GVwGoDwyl3-Q",
+    "link2": "https://jhhdmovies.weebly.com/2025-127916-chhaava-1279091.html",
+    "category": "Action",
+    "date": "2025-05-02T15:12:29.027Z"
+  },
+  {
+    "id": 471,
+    "title": "🎬 Den.of.Thieves.2.Pantera 🎥 2025 ",
+    "posters": [
+      "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/516-2025-den-of-thieves-2-pantera.jpg?1746198037"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=E5z_QveZ46tTErIJn61fMQ",
+    "link2": "https://jhhdmovies.weebly.com/2025-127916-denofthieves2pantera-127909.html",
+    "category": "Action",
+    "date": "2025-05-02T15:11:08.227Z"
+  },
+  {
+    "id": 470,
+    "title": "🎬 The.Count.of.Monte.Cristo 🎥 2024 ",
+    "posters": [
+      "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/518-2024-the-count-of-monte-cristo_orig.jpg"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=b-A6ZdBLTOwIWSNrpzGVQA",
+    "link2": "https://jhhdmovies.weebly.com/2024-127916-thecountofmontecristo-127909.html",
+    "category": "Thriller",
+    "date": "2025-05-02T15:09:47.244Z"
+  },
+  {
     "id": 469,
     "title": "🎬 Mechanic Resurrection 🎥 2016 ",
     "posters": [
