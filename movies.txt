@@ -7,8 +7,8 @@
     ],
     "link1": "https://pay4fans.com/videoShare?surl=FCrehvZ5haBSmDTyq2jUIw",
     "link2": "https://jhhdmovies.weebly.com/2025-127916-borbaad-127909.html",
-    "category": "Action",
-    "date": "2025-05-02T15:13:52.898Z"
+    "category": "Bengali",
+    "date": "2025-05-02T15:47:28.660Z"
   },
   {
     "id": 472,
