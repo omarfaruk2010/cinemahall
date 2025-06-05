@@ -1,5 +1,104 @@
 [
   {
+    "id": 562,
+    "title": "🎬 Thudarum 🎥 2025 ",
+    "posters": [
+      "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/544-uotdbabtxha6szykqnqe9y7rflv-185x278.jpg?1748869912"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=JpSOwb9cNV6pLoTikjyc3A",
+    "link2": "https://cinemahall.shop/2025/06/2025_thudarum/",
+    "category": "Thriller",
+    "date": "2025-06-05T16:23:58.369Z"
+  },
+  {
+    "id": 561,
+    "title": "🎬 Ghosted 🎥 2023 ",
+    "posters": [
+      "https://cinemahall.shop/wp-content/uploads/2025/06/549-Ghosted.jpg"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=QbGvjB6FLJWjV36LKqikrQ",
+    "link2": "https://cinemahall.shop/2025/06/2023_ghosted/",
+    "category": "Horror",
+    "date": "2025-06-05T16:22:54.618Z"
+  },
+  {
+    "id": 553,
+    "title": "🎬 Last.Bullet-3 🎥 2025 ",
+    "posters": [
+      "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/540-2025-last-bullet-3.jpg?1748615108"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=B_YLGKCMVbGDUArocjW-HQ",
+    "link2": "https://jhhdmovies.weebly.com/2025-127916-lastbullet-3-127909.html",
+    "category": "Action",
+    "date": "2025-06-05T16:21:55.699Z"
+  },
+  {
+    "id": 556,
+    "title": "🎬 Lost Bullet 2 🎥 2022 ",
+    "posters": [
+      "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/543-uaezi1jjblpq7bu5dzih7emheu7-185x278.jpg?1748867487"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=dAwRirPNcWzcou5oeX8N_g",
+    "link2": "https://cinemahall.shop/2025/06/2022_lost-bullet-2/",
+    "category": "Action",
+    "date": "2025-06-05T16:21:50.179Z"
+  },
+  {
+    "id": 555,
+    "title": "🎬 Lost Bullet 🎥 2020 ",
+    "posters": [
+      "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/542-qnlchf8u4diiykxqys1miiggy7t-185x278.jpg?1748867276"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=kfYvBgUvGmdSQhTpZSoBzQ",
+    "link2": "https://cinemahall.shop/2025/06/2020_lost-bullet/",
+    "category": "Action",
+    "date": "2025-06-05T16:21:45.242Z"
+  },
+  {
+    "id": 560,
+    "title": "🎬 Dui Diner Duniya 🎥 2022 ",
+    "posters": [
+      "https://cinemahall.shop/wp-content/uploads/2025/06/548-Dui-Diner-Duniya.jpg"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=GEktwpGdS19vuvjPjFB1qQ",
+    "link2": "https://cinemahall.shop/2025/06/2022_dui-diner-duniya/",
+    "category": "Bengali",
+    "date": "2025-06-05T16:20:41.313Z"
+  },
+  {
+    "id": 559,
+    "title": "🎬 Dehati Ladke-S1 🎥 2023 ",
+    "posters": [
+      "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/547-dehati-ladke-s1.jpg?1748872387"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=zvdQS4fxp86S-NnFmUXilQ",
+    "link2": "https://cinemahall.shop/2025/06/2023_dehati-ladke-s1/",
+    "category": "Series",
+    "date": "2025-06-05T16:19:37.602Z"
+  },
+  {
+    "id": 558,
+    "title": "🎬 Aazam 🎥 2023 ",
+    "posters": [
+      "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/546-aazam_orig.jpg"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=0Q2XnOJdpcAPMhG1Sim10Q",
+    "link2": "https://cinemahall.shop/2025/06/2023_aazam/",
+    "category": "Romantic",
+    "date": "2025-06-05T16:17:35.390Z"
+  },
+  {
+    "id": 557,
+    "title": "🎬 Goat Life 🎥 2024 ",
+    "posters": [
+      "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/545-aadujeevitham-the-goat-life_orig.jpg"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=a_Ja7ZYysncuvCAC5rdPsw",
+    "link2": "https://cinemahall.shop/2025/06/2024_goat-life/",
+    "category": "Dramatic",
+    "date": "2025-06-05T16:16:20.677Z"
+  },
+  {
     "id": 476,
     "title": "🎬 Raid-2 🎥 2025 ",
     "posters": [
@@ -53,17 +152,6 @@
     "link2": "https://jhhdmovies.weebly.com/2025-127916-odela-2-127909.html",
     "category": "Horror",
     "date": "2025-05-31T11:11:38.889Z"
-  },
-  {
-    "id": 553,
-    "title": "🎬 Last.Bullet-3 🎥 2025 ",
-    "posters": [
-      "https://jhhdmovies.weebly.com/uploads/1/5/2/1/152125491/published/540-2025-last-bullet-3.jpg?1748615108"
-    ],
-    "link1": "https://pay4fans.com/videoShare?surl=B_YLGKCMVbGDUArocjW-HQ",
-    "link2": "https://jhhdmovies.weebly.com/2025-127916-lastbullet-3-127909.html",
-    "category": "Action",
-    "date": "2025-05-31T11:10:09.324Z"
   },
   {
     "id": 552,
