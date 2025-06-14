@@ -1,5 +1,27 @@
 [
   {
+    "id": 574,
+    "title": "🎬 Daagi 🎥 2025 ",
+    "posters": [
+      "https://cinemahall.shop/wp-content/uploads/2025/06/579-2025_Daagi.jpg"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=3HQSQrxagrlmlFSyxgqr7w",
+    "link2": "https://cinemahall.shop/2025/06/2025_daagi/",
+    "category": "Bengali",
+    "date": "2025-06-14T06:47:36.495Z"
+  },
+  {
+    "id": 573,
+    "title": "🎬 Heart Eyes 🎥 2025 ",
+    "posters": [
+      "https://cinemahall.shop/wp-content/uploads/2025/06/572-2025-%F0%9F%8E%AC-Heart-Eyes-%F0%9F%8E%A5.jpg"
+    ],
+    "link1": "https://pay4fans.com/videoShare?surl=hgDnHiV18ZWCD7iZwJvBOA",
+    "link2": "https://cinemahall.shop/2025/06/2025_heart-eyes/",
+    "category": "Horror",
+    "date": "2025-06-14T06:46:32.390Z"
+  },
+  {
     "id": 572,
     "title": "🎬 Thug Life 🎥 2025 ",
     "posters": [
