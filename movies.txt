@@ -5,10 +5,10 @@
     "posters": [
       "https://cinemahallshop.weebly.com/uploads/1/5/2/1/152125491/915-proxy-image_orig.jpg"
     ],
-    "link1": "https://streamtape.com/e/jjrPVory3YizVao",
+    "link1": "<iframe src=\"https://streamtape.com/e/jjrPVory3YizVao/\" width=\"700\" height=\"500\" allowfullscreen allowtransparency allow=\"autoplay\" scrolling=\"no\" frameborder=\"0\"></iframe>",
     "link2": "https://cinemahallshop.weebly.com/127916-f1-127909-2025.html",
     "category": "Action",
-    "date": "2025-08-22T14:15:17.127Z"
+    "date": "2025-08-22T14:20:48.608Z"
   },
   {
     "id": 660,
