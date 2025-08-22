@@ -5,10 +5,10 @@
     "posters": [
       "https://cinemahallshop.weebly.com/uploads/1/5/2/1/152125491/915-proxy-image_orig.jpg"
     ],
-    "link1": "<iframe src=\"https://streamtape.com/e/jjrPVory3YizVao/\" width=\"700\" height=\"500\" allowfullscreen allowtransparency allow=\"autoplay\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+    "link1": "https://streamtape.com/v/jjrPVory3YizVao/915-_F1_%282025%29_WEB-DL_%5BHindi_%28Line%29-English%5D_ESub.mkv.mp4",
     "link2": "https://cinemahallshop.weebly.com/127916-f1-127909-2025.html",
     "category": "Action",
-    "date": "2025-08-22T14:20:48.608Z"
+    "date": "2025-08-22T14:23:51.598Z"
   },
   {
     "id": 660,
